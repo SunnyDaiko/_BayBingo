@@ -1,0 +1,2412 @@
+fileFormatVersion: 2
+guid: 06d77c59ccdb1d94581c2cea831aebcc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -837077996402450977
+    second: Stringy grass spritesheet_0
+  - first:
+      213: -4325355448112532324
+    second: Stringy grass spritesheet_1
+  - first:
+      213: 7163402077901329934
+    second: Stringy grass spritesheet_2
+  - first:
+      213: 6102551739609239678
+    second: Stringy grass spritesheet_3
+  - first:
+      213: -8413578395960123596
+    second: Stringy grass spritesheet_4
+  - first:
+      213: -1483852007846560742
+    second: Stringy grass spritesheet_5
+  - first:
+      213: -2342174484372552722
+    second: Stringy grass spritesheet_6
+  - first:
+      213: 3813521188459858365
+    second: Stringy grass spritesheet_7
+  - first:
+      213: -6805624573478141033
+    second: Stringy grass spritesheet_8
+  - first:
+      213: -7653906523345925106
+    second: Stringy grass spritesheet_9
+  - first:
+      213: -808623369439177844
+    second: Stringy grass spritesheet_10
+  - first:
+      213: -6093509044150653418
+    second: Stringy grass spritesheet_11
+  - first:
+      213: -5310653752547107999
+    second: Stringy grass spritesheet_12
+  - first:
+      213: 1531404465105368297
+    second: Stringy grass spritesheet_13
+  - first:
+      213: -7545123476348473219
+    second: Stringy grass spritesheet_14
+  - first:
+      213: -5400307303907190832
+    second: Stringy grass spritesheet_15
+  - first:
+      213: -1294095744967193706
+    second: Stringy grass spritesheet_16
+  - first:
+      213: -4487587196863030136
+    second: Stringy grass spritesheet_17
+  - first:
+      213: -3426482909333624929
+    second: Stringy grass spritesheet_18
+  - first:
+      213: 4370854452161457421
+    second: Stringy grass spritesheet_19
+  - first:
+      213: 9171944455612472816
+    second: Stringy grass spritesheet_20
+  - first:
+      213: 1105819009760014466
+    second: Stringy grass spritesheet_21
+  - first:
+      213: 951921653877307593
+    second: Stringy grass spritesheet_22
+  - first:
+      213: 7629343149874131847
+    second: Stringy grass spritesheet_23
+  - first:
+      213: -8003071313891776190
+    second: Stringy grass spritesheet_24
+  - first:
+      213: 6236045780327561772
+    second: Stringy grass spritesheet_25
+  - first:
+      213: 2274331335210199292
+    second: Stringy grass spritesheet_26
+  - first:
+      213: -7905218806459847737
+    second: Stringy grass spritesheet_27
+  - first:
+      213: -7445056577512489327
+    second: Stringy grass spritesheet_28
+  - first:
+      213: -9151502854381129060
+    second: Stringy grass spritesheet_29
+  - first:
+      213: 995405890277985266
+    second: Stringy grass spritesheet_30
+  - first:
+      213: 5985539021430094921
+    second: Stringy grass spritesheet_31
+  - first:
+      213: 3423301765291660673
+    second: Stringy grass spritesheet_32
+  - first:
+      213: 9064146303648533373
+    second: Stringy grass spritesheet_33
+  - first:
+      213: -4850937096297175655
+    second: Stringy grass spritesheet_34
+  - first:
+      213: -2313705370285281068
+    second: Stringy grass spritesheet_35
+  - first:
+      213: -7852492802003985391
+    second: Stringy grass spritesheet_36
+  - first:
+      213: -8569416745721684453
+    second: Stringy grass spritesheet_37
+  - first:
+      213: 598757539036190287
+    second: Stringy grass spritesheet_38
+  - first:
+      213: 6717189251448447268
+    second: Stringy grass spritesheet_39
+  - first:
+      213: -8247461901946582057
+    second: Stringy grass spritesheet_40
+  - first:
+      213: -5092566712746039907
+    second: Stringy grass spritesheet_41
+  - first:
+      213: 1539407439313177225
+    second: Stringy grass spritesheet_42
+  - first:
+      213: -8373983396454294267
+    second: Stringy grass spritesheet_43
+  - first:
+      213: -5848791759105051963
+    second: Stringy grass spritesheet_44
+  - first:
+      213: 6495141527842202631
+    second: Stringy grass spritesheet_45
+  - first:
+      213: -4559792548068586773
+    second: Stringy grass spritesheet_46
+  - first:
+      213: -7673560238290989894
+    second: Stringy grass spritesheet_47
+  - first:
+      213: -7724194413511586153
+    second: Stringy grass spritesheet_48
+  - first:
+      213: -814559226985704014
+    second: Stringy grass spritesheet_49
+  - first:
+      213: -6952516306874721814
+    second: Stringy grass spritesheet_50
+  - first:
+      213: -1127979513366782136
+    second: Stringy grass spritesheet_51
+  - first:
+      213: 1044144156067028442
+    second: Stringy grass spritesheet_52
+  - first:
+      213: -2415329312965045730
+    second: Stringy grass spritesheet_53
+  - first:
+      213: -3577168559561681457
+    second: Stringy grass spritesheet_54
+  - first:
+      213: 7250813188287863169
+    second: Stringy grass spritesheet_55
+  - first:
+      213: 2231033843193075063
+    second: Stringy grass spritesheet_56
+  - first:
+      213: 1933487901012791643
+    second: Stringy grass spritesheet_57
+  - first:
+      213: 1757586541355731493
+    second: Stringy grass spritesheet_58
+  - first:
+      213: -5108955287956219038
+    second: Stringy grass spritesheet_59
+  - first:
+      213: 7476945900224806181
+    second: Stringy grass spritesheet_60
+  - first:
+      213: -7886411610386506133
+    second: Stringy grass spritesheet_61
+  - first:
+      213: 9220871903703570578
+    second: Stringy grass spritesheet_62
+  - first:
+      213: -615221750960483814
+    second: Stringy grass spritesheet_63
+  - first:
+      213: -1438745032847140512
+    second: Stringy grass spritesheet_64
+  - first:
+      213: 7530725554531712411
+    second: Stringy grass spritesheet_65
+  - first:
+      213: -4683698970888477751
+    second: Stringy grass spritesheet_66
+  - first:
+      213: 2671614930680552411
+    second: Stringy grass spritesheet_67
+  - first:
+      213: 6551594926698355992
+    second: Stringy grass spritesheet_68
+  - first:
+      213: 7472886566666921407
+    second: Stringy grass spritesheet_69
+  - first:
+      213: 5919059491603117934
+    second: Stringy grass spritesheet_70
+  - first:
+      213: -1516264052549191867
+    second: Stringy grass spritesheet_71
+  - first:
+      213: 4649421030810226929
+    second: Stringy grass spritesheet_72
+  - first:
+      213: 7753563419890532879
+    second: Stringy grass spritesheet_73
+  - first:
+      213: 3245983598213990803
+    second: Stringy grass spritesheet_74
+  - first:
+      213: -2258827943997941693
+    second: Stringy grass spritesheet_75
+  - first:
+      213: -6883156483132170897
+    second: Stringy grass spritesheet_76
+  - first:
+      213: 8996937034061785722
+    second: Stringy grass spritesheet_77
+  - first:
+      213: 3804041688938663165
+    second: Stringy grass spritesheet_78
+  - first:
+      213: -4342843775642832583
+    second: Stringy grass spritesheet_79
+  - first:
+      213: -6639497033298314020
+    second: Stringy grass spritesheet_80
+  - first:
+      213: 3714419577256349582
+    second: Stringy grass spritesheet_81
+  - first:
+      213: -5854923192405705493
+    second: Stringy grass spritesheet_82
+  - first:
+      213: -126719626688635540
+    second: Stringy grass spritesheet_83
+  - first:
+      213: 1895445146490505454
+    second: Stringy grass spritesheet_84
+  - first:
+      213: 7125069391014342397
+    second: Stringy grass spritesheet_85
+  - first:
+      213: -3427522047116750873
+    second: Stringy grass spritesheet_86
+  - first:
+      213: 1879292091422640165
+    second: Stringy grass spritesheet_87
+  - first:
+      213: -233003519633284002
+    second: Stringy grass spritesheet_88
+  - first:
+      213: -3194054953912044630
+    second: Stringy grass spritesheet_89
+  - first:
+      213: 851774404441741448
+    second: Stringy grass spritesheet_90
+  - first:
+      213: -1668660792990070555
+    second: Stringy grass spritesheet_91
+  - first:
+      213: 4421697152237040701
+    second: Stringy grass spritesheet_92
+  - first:
+      213: 3169673613576216299
+    second: Stringy grass spritesheet_93
+  - first:
+      213: 8043709994575453498
+    second: Stringy grass spritesheet_94
+  - first:
+      213: 1757105196807422891
+    second: Stringy grass spritesheet_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3636
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fddd22f4ff91264f0800000000000000
+      internalID: -837077996402450977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3636
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94b3fbf22049f3c0800000000000000
+      internalID: -4325355448112532324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3636
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e069a9c8c34896360800000000000000
+      internalID: 7163402077901329934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3636
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70d9d6797e90b450800000000000000
+      internalID: 6102551739609239678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3636
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f55e2a607fc3b80800000000000000
+      internalID: -8413578395960123596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3636
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c3e0de57c486be0800000000000000
+      internalID: -1483852007846560742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3636
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee38df047bcee7fd0800000000000000
+      internalID: -2342174484372552722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3636
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db94395e0595ce430800000000000000
+      internalID: 3813521188459858365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3636
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7938a2712809d81a0800000000000000
+      internalID: -6805624573478141033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3636
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ccbe3b19cd7c590800000000000000
+      internalID: -7653906523345925106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3636
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c839f7b645137c4f0800000000000000
+      internalID: -808623369439177844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 3636
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e25c32fc18f6ba0800000000000000
+      internalID: -6093509044150653418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3636
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b95529c84cc46b0800000000000000
+      internalID: -5310653752547107999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 3636
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e47d0e4f34a04510800000000000000
+      internalID: 1531404465105368297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3636
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70f9cd8c265a4790800000000000000
+      internalID: -7545123476348473219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3030
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d71aa08e114e05b0800000000000000
+      internalID: -5400307303907190832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 3030
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bc2efb6c27a0ee0800000000000000
+      internalID: -1294095744967193706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 3030
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c53608833e8b1c0800000000000000
+      internalID: -4487587196863030136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 3030
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97e830c2ffa270d0800000000000000
+      internalID: -3426482909333624929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3030
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0da40a67f468ac30800000000000000
+      internalID: 4370854452161457421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3030
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd156823ea494f70800000000000000
+      internalID: 9171944455612472816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 3030
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280be9ec788a85f00800000000000000
+      internalID: 1105819009760014466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 3030
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8fb5163b7e53d00800000000000000
+      internalID: 951921653877307593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3030
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783becd3c2fd0e960800000000000000
+      internalID: 7629343149874131847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 3030
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249ac57ca016fe090800000000000000
+      internalID: -8003071313891776190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 3030
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a7f73e892ea8650800000000000000
+      internalID: 6236045780327561772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 3030
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf86eb8ac4c009f10800000000000000
+      internalID: 2274331335210199292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3030
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb293111650b4290800000000000000
+      internalID: -7905218806459847737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 3030
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ebea40d78dda890800000000000000
+      internalID: -7445056577512489327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 3030
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92b3a304a45ff080800000000000000
+      internalID: -9151502854381129060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2424
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbc951226460dd00800000000000000
+      internalID: 995405890277985266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2424
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c7499f608e01350800000000000000
+      internalID: 5985539021430094921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2424
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1855d2f61d2028f20800000000000000
+      internalID: 3423301765291660673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2424
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b042d0a015acd70800000000000000
+      internalID: 9064146303648533373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2424
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995217b89620eacb0800000000000000
+      internalID: -4850937096297175655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 2424
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d07b39693114efd0800000000000000
+      internalID: -2313705370285281068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2424
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c9d3f9667560390800000000000000
+      internalID: -7852492802003985391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 2424
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e99fa5fd0531980800000000000000
+      internalID: -8569416745721684453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2424
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46d6d43fc63f4800800000000000000
+      internalID: 598757539036190287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 2424
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42128a5f800483d50800000000000000
+      internalID: 6717189251448447268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 2424
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db08ebd8112b8d80800000000000000
+      internalID: -8247461901946582057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 2424
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d952bcb6e819359b0800000000000000
+      internalID: -5092566712746039907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2424
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a0bd0f8e21d5510800000000000000
+      internalID: 1539407439313177225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 2424
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d925bd772a9cb80800000000000000
+      internalID: -8373983396454294267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2424
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2bf4122eae4dea0800000000000000
+      internalID: -5848791759105051963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1818
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7042cec8ec0632a50800000000000000
+      internalID: 6495141527842202631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1818
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea06ea16dc58b0c0800000000000000
+      internalID: -4559792548068586773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1818
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc8a1a9e99028590800000000000000
+      internalID: -7673560238290989894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1818
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ec59efa162ec490800000000000000
+      internalID: -7724194413511586153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1818
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b51003e2ba12b4f0800000000000000
+      internalID: -814559226985704014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1818
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae91f914143b38f90800000000000000
+      internalID: -6952516306874721814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1818
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fdadfdb9c9850f0800000000000000
+      internalID: -1127979513366782136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1818
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adddcace39b8d7e00800000000000000
+      internalID: 1044144156067028442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1818
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12512d69c60b7ed0800000000000000
+      internalID: -2415329312965045730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1818
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc551a1d5285b5ec0800000000000000
+      internalID: -3577168559561681457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1818
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1899d94ad2010a460800000000000000
+      internalID: 7250813188287863169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 1818
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775d569b57936fe10800000000000000
+      internalID: 2231033843193075063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1818
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51126d700125da10800000000000000
+      internalID: 1933487901012791643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 1818
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a0483b5a3346810800000000000000
+      internalID: 1757586541355731493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1818
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b1408eb385919b0800000000000000
+      internalID: -5108955287956219038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d76b38ea273c760800000000000000
+      internalID: 7476945900224806181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1212
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e5562ac66dd8290800000000000000
+      internalID: -7886411610386506133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1212
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29891a3642e17ff70800000000000000
+      internalID: 9220871903703570578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1212
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1218ebb31b4677f0800000000000000
+      internalID: -615221750960483814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1212
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069d9c2f30d880ce0800000000000000
+      internalID: -1438745032847140512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 1212
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9db1da0ef2828860800000000000000
+      internalID: 7530725554531712411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1212
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3645de998200fb0800000000000000
+      internalID: -4683698970888477751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 1212
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb18d7ef9b731520800000000000000
+      internalID: 2671614930680552411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1212
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d5b1ebfd0fbea50800000000000000
+      internalID: 6551594926698355992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 1212
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb568f44db605b760800000000000000
+      internalID: 7472886566666921407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 1212
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6778614f39b42250800000000000000
+      internalID: 5919059491603117934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 1212
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5477c12b0e525fae0800000000000000
+      internalID: -1516264052549191867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1212
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f09ca83bcf068040800000000000000
+      internalID: 4649421030810226929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 1212
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02c90aa9d03a9b60800000000000000
+      internalID: 7753563419890532879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1212
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3990a4672ec0c0d20800000000000000
+      internalID: 3245983598213990803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 606
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348d645e3f707a0e0800000000000000
+      internalID: -2258827943997941693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 606
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dda79a5ad1a70a0800000000000000
+      internalID: -6883156483132170897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 606
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a2fcd809a8bdc70800000000000000
+      internalID: 8996937034061785722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 606
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc47fbe2cbaac430800000000000000
+      internalID: 3804041688938663165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 606
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 931facd689e1bb3c0800000000000000
+      internalID: -4342843775642832583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 606
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc7ef230a4cbd3a0800000000000000
+      internalID: -6639497033298314020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 606
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f0f19fce44c8330800000000000000
+      internalID: 3714419577256349582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 3500
+        y: 606
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec367190622fbea0800000000000000
+      internalID: -5854923192405705493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 606
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6d5721cb2dcd3ef0800000000000000
+      internalID: -126719626688635540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 4500
+        y: 606
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee80ec77159fd4a10800000000000000
+      internalID: 1895445146490505454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 5000
+        y: 606
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe2b636cd451e260800000000000000
+      internalID: 7125069391014342397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 5500
+        y: 606
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef49c1abdefe60d0800000000000000
+      internalID: -3427522047116750873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 606
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52882724336941a10800000000000000
+      internalID: 1879292091422640165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 6500
+        y: 606
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54a7dc888434ccf0800000000000000
+      internalID: -233003519633284002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 606
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3fef631ff6ca3d0800000000000000
+      internalID: -3194054953912044630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8881585de4c12db00800000000000000
+      internalID: 851774404441741448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8843789d9b7d8e0800000000000000
+      internalID: -1668660792990070555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34f17ff1260d5d30800000000000000
+      internalID: 4421697152237040701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee932f9b51fcfb20800000000000000
+      internalID: 3169673613576216299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ddde66f9ff0af60800000000000000
+      internalID: 8043709994575453498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stringy grass spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 500
+        height: 606
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba303b0fddd726810800000000000000
+      internalID: 1757105196807422891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: dfc21354fcacfbe41ab9a6014df180d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5946292328647711199
+    second: Straignt grass spritesheet_0
+  - first:
+      213: 7342485230193095638
+    second: Straignt grass spritesheet_1
+  - first:
+      213: -2984652533847158757
+    second: Straignt grass spritesheet_2
+  - first:
+      213: 7868617124259294655
+    second: Straignt grass spritesheet_3
+  - first:
+      213: 2586766548188819707
+    second: Straignt grass spritesheet_4
+  - first:
+      213: -286838922197794130
+    second: Straignt grass spritesheet_5
+  - first:
+      213: 8872158770175347610
+    second: Straignt grass spritesheet_6
+  - first:
+      213: -2808673100465722817
+    second: Straignt grass spritesheet_7
+  - first:
+      213: -4506988095888440255
+    second: Straignt grass spritesheet_8
+  - first:
+      213: 1879263352703979968
+    second: Straignt grass spritesheet_9
+  - first:
+      213: -4101749113145871765
+    second: Straignt grass spritesheet_10
+  - first:
+      213: -5262974071674018912
+    second: Straignt grass spritesheet_11
+  - first:
+      213: 1328918284085936692
+    second: Straignt grass spritesheet_12
+  - first:
+      213: -4269934391372078847
+    second: Straignt grass spritesheet_13
+  - first:
+      213: 8449994221097958334
+    second: Straignt grass spritesheet_14
+  - first:
+      213: -629458562058801823
+    second: Straignt grass spritesheet_15
+  - first:
+      213: 8290883950164541228
+    second: Straignt grass spritesheet_16
+  - first:
+      213: -892969994161388874
+    second: Straignt grass spritesheet_17
+  - first:
+      213: -8396022933908016830
+    second: Straignt grass spritesheet_18
+  - first:
+      213: 7196133131891916756
+    second: Straignt grass spritesheet_19
+  - first:
+      213: 922078174383310210
+    second: Straignt grass spritesheet_20
+  - first:
+      213: -6357898745344579922
+    second: Straignt grass spritesheet_21
+  - first:
+      213: -4105838806542352547
+    second: Straignt grass spritesheet_22
+  - first:
+      213: 4474860612549312780
+    second: Straignt grass spritesheet_23
+  - first:
+      213: 8835514979024663695
+    second: Straignt grass spritesheet_24
+  - first:
+      213: 4481820466086508209
+    second: Straignt grass spritesheet_25
+  - first:
+      213: -6691260797128407225
+    second: Straignt grass spritesheet_26
+  - first:
+      213: -5426381424947032269
+    second: Straignt grass spritesheet_27
+  - first:
+      213: -5794514131587052269
+    second: Straignt grass spritesheet_28
+  - first:
+      213: 8954129874664511677
+    second: Straignt grass spritesheet_29
+  - first:
+      213: 460472173739271837
+    second: Straignt grass spritesheet_30
+  - first:
+      213: 7823591860986858129
+    second: Straignt grass spritesheet_31
+  - first:
+      213: -3829008109113235887
+    second: Straignt grass spritesheet_32
+  - first:
+      213: -639285552030978044
+    second: Straignt grass spritesheet_33
+  - first:
+      213: 7272369107695351926
+    second: Straignt grass spritesheet_34
+  - first:
+      213: 4581354763801971377
+    second: Straignt grass spritesheet_35
+  - first:
+      213: 5974555849093657341
+    second: Straignt grass spritesheet_36
+  - first:
+      213: -2819727953702235389
+    second: Straignt grass spritesheet_37
+  - first:
+      213: -8309982627187075466
+    second: Straignt grass spritesheet_38
+  - first:
+      213: -743438966868007304
+    second: Straignt grass spritesheet_39
+  - first:
+      213: 8098357293139547269
+    second: Straignt grass spritesheet_40
+  - first:
+      213: -1585731161236962801
+    second: Straignt grass spritesheet_41
+  - first:
+      213: 4371740938968975945
+    second: Straignt grass spritesheet_42
+  - first:
+      213: 1002853981409871392
+    second: Straignt grass spritesheet_43
+  - first:
+      213: -2138400287321345489
+    second: Straignt grass spritesheet_44
+  - first:
+      213: 7640529130780377781
+    second: Straignt grass spritesheet_45
+  - first:
+      213: -8205718883851566658
+    second: Straignt grass spritesheet_46
+  - first:
+      213: -3734807581155672840
+    second: Straignt grass spritesheet_47
+  - first:
+      213: -1477465568500694305
+    second: Straignt grass spritesheet_48
+  - first:
+      213: -5802551274150214493
+    second: Straignt grass spritesheet_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126a254c1a68a7da0800000000000000
+      internalID: -5946292328647711199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3363a2a6fb5e560800000000000000
+      internalID: 7342485230193095638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10121675526496d0800000000000000
+      internalID: -2984652533847158757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbde705b591f23d60800000000000000
+      internalID: 7868617124259294655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf078a5687a06e320800000000000000
+      internalID: 2586766548188819707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea205ae1581f40cf0800000000000000
+      internalID: -286838922197794130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b0b2f056d302b70800000000000000
+      internalID: 8872158770175347610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 1500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3aab8432b69509d0800000000000000
+      internalID: -2808673100465722817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 1500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144c7a1b436f371c0800000000000000
+      internalID: -4506988095888440255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 1500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c19451001c741a10800000000000000
+      internalID: 1879263352703979968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 1500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62ba21e9e8a317c0800000000000000
+      internalID: -4101749113145871765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 1500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a367cb57f826f6b0800000000000000
+      internalID: -5262974071674018912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 4116
+        y: 1500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432c6727324417210800000000000000
+      internalID: 1328918284085936692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 4459
+        y: 1500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1012b0c4b452eb4c0800000000000000
+      internalID: -4269934391372078847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 4802
+        y: 1500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbb5ae59f8644570800000000000000
+      internalID: 8449994221097958334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d28a7d5c6b347f0800000000000000
+      internalID: -629458562058801823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1000
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f7b8396032f0370800000000000000
+      internalID: 8290883950164541228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1000
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b28dee75888b93f0800000000000000
+      internalID: -892969994161388874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 1000
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 241316a20a55b7b80800000000000000
+      internalID: -8396022933908016830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 1000
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df36dae4fccdd360800000000000000
+      internalID: 7196133131891916756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 1000
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2850247d631ebcc00800000000000000
+      internalID: 922078174383310210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 1000
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6a5d5d6c434c7a0800000000000000
+      internalID: -6357898745344579922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 1000
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f770feb512507c0800000000000000
+      internalID: -4105838806542352547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 1000
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01836ea406e91e30800000000000000
+      internalID: 4474860612549312780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 1000
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8478649f0e0e9a70800000000000000
+      internalID: 8835514979024663695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 1000
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6792cd7ff923e30800000000000000
+      internalID: 4481820466086508209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 1000
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7470aafb1cdd323a0800000000000000
+      internalID: -6691260797128407225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 4116
+        y: 1000
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f014e18de91b4b0800000000000000
+      internalID: -5426381424947032269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 4459
+        y: 1000
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31dc5c41910c59fa0800000000000000
+      internalID: -5794514131587052269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 4802
+        y: 1000
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db857141ea5734c70800000000000000
+      internalID: 8954129874664511677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d966ea8900de36600800000000000000
+      internalID: 460472173739271837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a42cda85bf29c60800000000000000
+      internalID: 7823591860986858129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15627366961acdac0800000000000000
+      internalID: -3829008109113235887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40077217d2dc027f0800000000000000
+      internalID: -639285552030978044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678b4bb3c25ace460800000000000000
+      internalID: 7272369107695351926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bac57672ed349f30800000000000000
+      internalID: 4581354763801971377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 2058
+        y: 500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2b5f3e3e2e9e250800000000000000
+      internalID: 5974555849093657341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303d65c9d505ed8d0800000000000000
+      internalID: -2819727953702235389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2744
+        y: 500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676d8d824d20dac80800000000000000
+      internalID: -8309982627187075466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87626a3d236cea5f0800000000000000
+      internalID: -743438966868007304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584d6c91d05236070800000000000000
+      internalID: 8098357293139547269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02043119e95ef9e0800000000000000
+      internalID: -1585731161236962801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 4116
+        y: 500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a4745b83b8bac30800000000000000
+      internalID: 4371740938968975945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 4459
+        y: 500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026858bf16adaed00800000000000000
+      internalID: 1002853981409871392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 4802
+        y: 500
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f223e96b440e252e0800000000000000
+      internalID: -2138400287321345489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2403063cc980a60800000000000000
+      internalID: 7640529130780377781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 0
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb10051a62e6f1e80800000000000000
+      internalID: -8205718883851566658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcb7c4fa4c4b2cc0800000000000000
+      internalID: -3734807581155672840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Straignt grass spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 0
+        width: 343
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd245a5b4ecfe7be0800000000000000
+      internalID: -1477465568500694305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
