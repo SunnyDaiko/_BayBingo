@@ -133,6 +133,7 @@ GameObject:
   m_Component:
   - component: {fileID: 10690391}
   - component: {fileID: 10690392}
+  - component: {fileID: 10690393}
   m_Layer: 0
   m_Name: BG_texture_00000
   m_TagString: Untagged
@@ -205,6 +206,29 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &10690393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 10690390}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c40205c2c2690547b866686ad28b59b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hue:
+  - {r: 0.9245283, g: 0.09303422, b: 0.09303422, a: 0}
+  - {r: 0.9254902, g: 0.09411762, b: 0.23033668, a: 0}
+  - {r: 0.9254902, g: 0.09411762, b: 0.4374072, a: 0}
+  Speed: 0
+  m_Hue: 0
+  m_Saturation: 0
+  m_Value: 0
+  m_SliderHue: {fileID: 0}
+  m_SliderSaturation: {fileID: 0}
+  m_SliderValue: {fileID: 0}
 --- !u!1 &327531851
 GameObject:
   m_ObjectHideFlags: 0
@@ -215,6 +239,7 @@ GameObject:
   m_Component:
   - component: {fileID: 327531852}
   - component: {fileID: 327531853}
+  - component: {fileID: 327531854}
   m_Layer: 0
   m_Name: BG_texture_00000 (1)
   m_TagString: Untagged
@@ -287,6 +312,29 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &327531854
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 327531851}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c40205c2c2690547b866686ad28b59b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hue:
+  - {r: 0.8962264, g: 0.10709615, b: 0.44489205, a: 0}
+  - {r: 0.8980392, g: 0.10588237, b: 0.6543355, a: 0}
+  - {r: 0.8587402, g: 0.10588237, b: 0.8980392, a: 0}
+  Speed: 0
+  m_Hue: 0
+  m_Saturation: 0
+  m_Value: 0
+  m_SliderHue: {fileID: 0}
+  m_SliderSaturation: {fileID: 0}
+  m_SliderValue: {fileID: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -380,6 +428,7 @@ GameObject:
   m_Component:
   - component: {fileID: 926985604}
   - component: {fileID: 926985605}
+  - component: {fileID: 926985606}
   m_Layer: 0
   m_Name: WatercolorBG_9016x1080 (1)
   m_TagString: Untagged
@@ -452,6 +501,30 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &926985606
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 926985603}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c40205c2c2690547b866686ad28b59b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hue:
+  - {r: 0.8619779, g: 0.94509804, b: 0.09411764, a: 1}
+  - {r: 0.8962264, g: 0.60433406, b: 0.10709615, a: 1}
+  - {r: 0.9716981, g: 0.50766915, b: 0.033612087, a: 1}
+  - {r: 0.972549, g: 0.23903917, b: 0.03529414, a: 1}
+  Speed: 0.0095
+  m_Hue: 0
+  m_Saturation: 0
+  m_Value: 0
+  m_SliderHue: {fileID: 0}
+  m_SliderSaturation: {fileID: 0}
+  m_SliderValue: {fileID: 0}
 --- !u!1 &1040801065
 GameObject:
   m_ObjectHideFlags: 0
@@ -462,6 +535,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1040801066}
   - component: {fileID: 1040801067}
+  - component: {fileID: 1040801068}
   m_Layer: 0
   m_Name: BG_texture_00000 (2)
   m_TagString: Untagged
@@ -534,6 +608,29 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1040801068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1040801065}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c40205c2c2690547b866686ad28b59b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hue:
+  - {r: 0.7324325, g: 0.119200125, b: 0.9245283, a: 1}
+  - {r: 0.55787736, g: 0.11764706, b: 0.9254902, a: 1}
+  - {r: 0.41370532, g: 0.11764706, b: 0.9254902, a: 1}
+  Speed: 0
+  m_Hue: 0
+  m_Saturation: 0
+  m_Value: 0
+  m_SliderHue: {fileID: 0}
+  m_SliderSaturation: {fileID: 0}
+  m_SliderValue: {fileID: 0}
 --- !u!1 &1391661496
 GameObject:
   m_ObjectHideFlags: 0
@@ -597,6 +694,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1692063466}
   - component: {fileID: 1692063467}
+  - component: {fileID: 1692063468}
   m_Layer: 0
   m_Name: WatercolorBG_9016x1080 (2)
   m_TagString: Untagged
@@ -669,6 +767,29 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1692063468
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1692063465}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c40205c2c2690547b866686ad28b59b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hue:
+  - {r: 0.9339623, g: 0.33507857, b: 0.09398355, a: 1}
+  - {r: 0.93333334, g: 0.2650634, b: 0.09411764, a: 1}
+  - {r: 0.9433962, g: 0.15665457, b: 0.07713296, a: 1}
+  Speed: 0.0095
+  m_Hue: 0
+  m_Saturation: 0
+  m_Value: 0
+  m_SliderHue: {fileID: 0}
+  m_SliderSaturation: {fileID: 0}
+  m_SliderValue: {fileID: 0}
 --- !u!1 &1759796891
 GameObject:
   m_ObjectHideFlags: 0
@@ -679,6 +800,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1759796892}
   - component: {fileID: 1759796893}
+  - component: {fileID: 1759796894}
   m_Layer: 0
   m_Name: WatercolorBG_9016x1080
   m_TagString: Untagged
@@ -741,7 +863,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 6c5cd980f999a5c429b68f2b7f0f23c1, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.9150943, g: 0.8776848, b: 0.8776848, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -751,6 +873,29 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1759796894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1759796891}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c40205c2c2690547b866686ad28b59b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hue:
+  - {r: 0.5341092, g: 0.9528302, b: 0.0779043, a: 1}
+  - {r: 0.81958854, g: 0.9528302, b: 0.09588221, a: 1}
+  - {r: 0.9528302, g: 0.90454954, b: 0.16779393, a: 1}
+  Speed: 0.0095
+  m_Hue: 0
+  m_Saturation: 110.33
+  m_Value: 0
+  m_SliderHue: {fileID: 0}
+  m_SliderSaturation: {fileID: 0}
+  m_SliderValue: {fileID: 0}
 --- !u!1 &1913009649
 GameObject:
   m_ObjectHideFlags: 0
@@ -761,6 +906,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1913009650}
   - component: {fileID: 1913009651}
+  - component: {fileID: 1913009652}
   m_Layer: 0
   m_Name: w
   m_TagString: Untagged
@@ -833,6 +979,29 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1913009652
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1913009649}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c40205c2c2690547b866686ad28b59b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hue:
+  - {r: 0.005695865, g: 0.2719725, b: 0.9056604, a: 1}
+  - {r: 0.003921588, g: 0.58011746, b: 0.90588236, a: 1}
+  - {r: 0.003921588, g: 0.8698904, b: 0.90588236, a: 1}
+  Speed: 0
+  m_Hue: 0
+  m_Saturation: 0
+  m_Value: 0
+  m_SliderHue: {fileID: 0}
+  m_SliderSaturation: {fileID: 0}
+  m_SliderValue: {fileID: 0}
 --- !u!1 &2085872139
 GameObject:
   m_ObjectHideFlags: 0
@@ -843,6 +1012,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2085872140}
   - component: {fileID: 2085872141}
+  - component: {fileID: 2085872142}
   m_Layer: 0
   m_Name: BG_texture_00000 (3)
   m_TagString: Untagged
@@ -915,6 +1085,29 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2085872142
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2085872139}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c40205c2c2690547b866686ad28b59b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hue:
+  - {r: 0.35263363, g: 0.11386012, b: 0.9528302, a: 1}
+  - {r: 0.21222073, g: 0.113725476, b: 0.9529412, a: 1}
+  - {r: 0.113725476, g: 0.25722456, b: 0.9529412, a: 1}
+  Speed: 0
+  m_Hue: 0
+  m_Saturation: 0
+  m_Value: 0
+  m_SliderHue: {fileID: 0}
+  m_SliderSaturation: {fileID: 0}
+  m_SliderValue: {fileID: 0}
 --- !u!1 &2101914179
 GameObject:
   m_ObjectHideFlags: 0
@@ -925,6 +1118,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2101914180}
   - component: {fileID: 2101914181}
+  - component: {fileID: 2101914182}
   m_Layer: 0
   m_Name: BG_texture_00000 (4)
   m_TagString: Untagged
@@ -997,3 +1191,26 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2101914182
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2101914179}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c40205c2c2690547b866686ad28b59b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  hue:
+  - {r: 0.06111298, g: 0.9716981, b: 0.8864443, a: 1}
+  - {r: 0.062745094, g: 0.972549, b: 0.58405924, a: 1}
+  - {r: 0.062745094, g: 0.972549, b: 0.20691405, a: 1}
+  Speed: 0
+  m_Hue: 0
+  m_Saturation: 0
+  m_Value: 0
+  m_SliderHue: {fileID: 0}
+  m_SliderSaturation: {fileID: 0}
+  m_SliderValue: {fileID: 0}
