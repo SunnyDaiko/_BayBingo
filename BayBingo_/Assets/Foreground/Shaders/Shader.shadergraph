@@ -511,7 +511,7 @@
     "m_ShaderOutputName": "B",
     "m_StageCapability": 3,
     "m_Value": {
-        "e00": 0.2800000011920929,
+        "e00": 0.44999998807907107,
         "e01": 2.0,
         "e02": 0.8999999761581421,
         "e03": 2.0,
@@ -827,7 +827,7 @@
     "m_Hidden": false,
     "m_ShaderOutputName": "Alpha",
     "m_StageCapability": 2,
-    "m_Value": 0.25,
+    "m_Value": 0.33000001311302187,
     "m_DefaultValue": 1.0,
     "m_Labels": []
 }
