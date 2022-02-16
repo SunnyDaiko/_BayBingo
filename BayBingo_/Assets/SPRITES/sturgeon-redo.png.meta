@@ -1,0 +1,1260 @@
+fileFormatVersion: 2
+guid: ae61d9f3190dd82419605fc641ab3852
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3741422707903990691
+    second: sturgeon-redo_0
+  - first:
+      213: -170199414002136207
+    second: sturgeon-redo_1
+  - first:
+      213: 6019174828305300942
+    second: sturgeon-redo_2
+  - first:
+      213: -2845180091985600936
+    second: sturgeon-redo_3
+  - first:
+      213: -9083233808827913005
+    second: sturgeon-redo_4
+  - first:
+      213: -7391854544340881610
+    second: sturgeon-redo_5
+  - first:
+      213: -7665205610679872467
+    second: sturgeon-redo_6
+  - first:
+      213: -1656004681993682233
+    second: sturgeon-redo_7
+  - first:
+      213: -3742114797587396494
+    second: sturgeon-redo_8
+  - first:
+      213: -8347931625602238728
+    second: sturgeon-redo_9
+  - first:
+      213: 8346876944486996024
+    second: sturgeon-redo_10
+  - first:
+      213: 6899090238505162100
+    second: sturgeon-redo_11
+  - first:
+      213: 6320621193008202172
+    second: sturgeon-redo_12
+  - first:
+      213: -4083124942182798124
+    second: sturgeon-redo_13
+  - first:
+      213: 5527627090244550254
+    second: sturgeon-redo_14
+  - first:
+      213: 5539873515317811012
+    second: sturgeon-redo_15
+  - first:
+      213: -6496858847893061152
+    second: sturgeon-redo_16
+  - first:
+      213: 1351217510518882196
+    second: sturgeon-redo_17
+  - first:
+      213: -34787359118993067
+    second: sturgeon-redo_18
+  - first:
+      213: 3495615830174086511
+    second: sturgeon-redo_19
+  - first:
+      213: 3993533289242078085
+    second: sturgeon-redo_20
+  - first:
+      213: -6019519769180618344
+    second: sturgeon-redo_21
+  - first:
+      213: -3685609471710394988
+    second: sturgeon-redo_22
+  - first:
+      213: 5434787134941768334
+    second: sturgeon-redo_23
+  - first:
+      213: 3043693660294062062
+    second: sturgeon-redo_24
+  - first:
+      213: -7347236737187009090
+    second: sturgeon-redo_25
+  - first:
+      213: -776910911880881019
+    second: sturgeon-redo_26
+  - first:
+      213: 2951412254661177958
+    second: sturgeon-redo_27
+  - first:
+      213: 8421602473455230393
+    second: sturgeon-redo_28
+  - first:
+      213: -5166358415640965440
+    second: sturgeon-redo_29
+  - first:
+      213: 5491189254119830326
+    second: sturgeon-redo_30
+  - first:
+      213: 2179890682689250397
+    second: sturgeon-redo_31
+  - first:
+      213: 7826035132312499313
+    second: sturgeon-redo_32
+  - first:
+      213: -2843629656944222490
+    second: sturgeon-redo_33
+  - first:
+      213: -812631959562828195
+    second: sturgeon-redo_34
+  - first:
+      213: 7147630122162206605
+    second: sturgeon-redo_35
+  - first:
+      213: 810144005396257109
+    second: sturgeon-redo_36
+  - first:
+      213: 2070582825545748950
+    second: sturgeon-redo_37
+  - first:
+      213: -2296906164305751907
+    second: sturgeon-redo_38
+  - first:
+      213: -6520746100219568151
+    second: sturgeon-redo_39
+  - first:
+      213: 2778851251071853017
+    second: sturgeon-redo_40
+  - first:
+      213: 3891649878299106202
+    second: sturgeon-redo_41
+  - first:
+      213: -7318427719651207047
+    second: sturgeon-redo_42
+  - first:
+      213: -8285213894259678555
+    second: sturgeon-redo_43
+  - first:
+      213: 150783931719137705
+    second: sturgeon-redo_44
+  - first:
+      213: 4396291404207068280
+    second: sturgeon-redo_45
+  - first:
+      213: -4114922605349848838
+    second: sturgeon-redo_46
+  - first:
+      213: 5483771231101728086
+    second: sturgeon-redo_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sturgeon-redo_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3338
+        width: 632
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab823341243ce330800000000000000
+      internalID: 3741422707903990691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_1
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 3338
+        width: 630
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b4c63e88453adf0800000000000000
+      internalID: -170199414002136207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_2
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 3338
+        width: 631
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd3c1a8d97688350800000000000000
+      internalID: 6019174828305300942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_3
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 3338
+        width: 627
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e5f2fd7c3e388d0800000000000000
+      internalID: -2845180091985600936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_4
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 3339
+        width: 625
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc6ef4d9fed1f180800000000000000
+      internalID: -9083233808827913005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_5
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2978
+        width: 623
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f6435a47bda6990800000000000000
+      internalID: -7391854544340881610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_6
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2978
+        width: 621
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24581deb18bf9590800000000000000
+      internalID: -7665205610679872467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_7
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 2978
+        width: 617
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2026ff380b409e0800000000000000
+      internalID: -1656004681993682233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_8
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2978
+        width: 615
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278021d0b66511cc0800000000000000
+      internalID: -3742114797587396494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_9
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 2978
+        width: 614
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6babe6a60362c80800000000000000
+      internalID: -8347931625602238728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2619
+        width: 613
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8389b0c7b5016d370800000000000000
+      internalID: 8346876944486996024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_11
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 2619
+        width: 610
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475177bd40e7ebf50800000000000000
+      internalID: 6899090238505162100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_12
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 2619
+        width: 611
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb14f09ac7b57b750800000000000000
+      internalID: 6320621193008202172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_13
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2619
+        width: 611
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc28a79f73d557c0800000000000000
+      internalID: -4083124942182798124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_14
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 2619
+        width: 611
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e3adc4d8316bc40800000000000000
+      internalID: 5527627090244550254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2258
+        width: 612
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447dc155c9591ec40800000000000000
+      internalID: 5539873515317811012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_16
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2259
+        width: 616
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e10b77bc4586d5a0800000000000000
+      internalID: -6496858847893061152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_17
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 2259
+        width: 616
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ff3c0ba2d70c210800000000000000
+      internalID: 1351217510518882196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_18
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 2259
+        width: 618
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559d909c419648ff0800000000000000
+      internalID: -34787359118993067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_19
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 2259
+        width: 622
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6532c4b31ce28030800000000000000
+      internalID: 3495615830174086511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_20
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1898
+        width: 624
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ba8ff2e51eb6730800000000000000
+      internalID: 3993533289242078085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_21
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1898
+        width: 627
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8914c87a9ae567ca0800000000000000
+      internalID: -6019519769180618344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_22
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1898
+        width: 629
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49503e176b51adcc0800000000000000
+      internalID: -3685609471710394988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_23
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 1898
+        width: 630
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a2110ca1e3c6b40800000000000000
+      internalID: 5434787134941768334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_24
+      rect:
+        serializedVersion: 2
+        x: 3052
+        y: 1898
+        width: 631
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef9fe2024f5d3a20800000000000000
+      internalID: 3043693660294062062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_25
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1537
+        width: 633
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebda4476d1f590a90800000000000000
+      internalID: -7347236737187009090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_26
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1537
+        width: 632
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c173354abd735f0800000000000000
+      internalID: -776910911880881019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_27
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1537
+        width: 631
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66270d0fec585f820800000000000000
+      internalID: 2951412254661177958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_28
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1537
+        width: 632
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd99dd74da8fd470800000000000000
+      internalID: 8421602473455230393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_29
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 1537
+        width: 632
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cece5db4686d48b0800000000000000
+      internalID: -5166358415640965440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1177
+        width: 633
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6333146788f943c40800000000000000
+      internalID: 5491189254119830326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_31
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1177
+        width: 630
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5460eeb607804e10800000000000000
+      internalID: 2179890682689250397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_32
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1177
+        width: 629
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174b63d1d79ab9c60800000000000000
+      internalID: 7826035132312499313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_33
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 1177
+        width: 627
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eed219a4e56988d0800000000000000
+      internalID: -2843629656944222490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_34
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 1177
+        width: 628
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56c02dc983f8b4f0800000000000000
+      internalID: -812631959562828195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_35
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 816
+        width: 627
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d873c51f9bb713360800000000000000
+      internalID: 7147630122162206605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_36
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 816
+        width: 627
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5595e8a3ea53e3b00800000000000000
+      internalID: 810144005396257109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_37
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 817
+        width: 627
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1dda20c103cbc10800000000000000
+      internalID: 2070582825545748950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_38
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 817
+        width: 626
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90962a5300cf10e0800000000000000
+      internalID: -2296906164305751907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_39
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 818
+        width: 628
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef16e168f7a185a0800000000000000
+      internalID: -6520746100219568151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_40
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 457
+        width: 630
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1a9c76d76709620800000000000000
+      internalID: 2778851251071853017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_41
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 457
+        width: 630
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bd53a02fae10630800000000000000
+      internalID: 3891649878299106202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_42
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 457
+        width: 631
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97851df73c8bf6a90800000000000000
+      internalID: -7318427719651207047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_43
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 458
+        width: 632
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a265803cd1050d80800000000000000
+      internalID: -8285213894259678555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_44
+      rect:
+        serializedVersion: 2
+        x: 3053
+        y: 458
+        width: 634
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9b4ffdf21b71200800000000000000
+      internalID: 150783931719137705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_45
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 98
+        width: 632
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8749dd45db3c20d30800000000000000
+      internalID: 4396291404207068280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_46
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 98
+        width: 633
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8b5e531bbd4e6c0800000000000000
+      internalID: -4114922605349848838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sturgeon-redo_47
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 98
+        width: 634
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655335361e44a1c40800000000000000
+      internalID: 5483771231101728086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

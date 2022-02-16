@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: 0867affb7cf85534aaba89a27af62fb5
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4691767312291303085
+    second: bluecrabREDO_0
+  - first:
+      213: -2163385036722619276
+    second: bluecrabREDO_1
+  - first:
+      213: -7377375067441150745
+    second: bluecrabREDO_2
+  - first:
+      213: 6402593710583396476
+    second: bluecrabREDO_3
+  - first:
+      213: 5275032958967781627
+    second: bluecrabREDO_4
+  - first:
+      213: 8786984835028377179
+    second: bluecrabREDO_5
+  - first:
+      213: -7053740572490946024
+    second: bluecrabREDO_6
+  - first:
+      213: -6650530293594422462
+    second: bluecrabREDO_7
+  - first:
+      213: 2802783275272400817
+    second: bluecrabREDO_8
+  - first:
+      213: -8991220752326952047
+    second: bluecrabREDO_9
+  - first:
+      213: 5262861352875605646
+    second: bluecrabREDO_10
+  - first:
+      213: 8014610915832340916
+    second: bluecrabREDO_11
+  - first:
+      213: 1150100701373790139
+    second: bluecrabREDO_12
+  - first:
+      213: 3938367461633263819
+    second: bluecrabREDO_13
+  - first:
+      213: 4582431134277317594
+    second: bluecrabREDO_14
+  - first:
+      213: 2258239063057159910
+    second: bluecrabREDO_15
+  - first:
+      213: -6746240279221350299
+    second: bluecrabREDO_16
+  - first:
+      213: -2078757779522120086
+    second: bluecrabREDO_17
+  - first:
+      213: 4844607912904077720
+    second: bluecrabREDO_18
+  - first:
+      213: 2010832855651965713
+    second: bluecrabREDO_19
+  - first:
+      213: 1857920264734385479
+    second: bluecrabREDO_20
+  - first:
+      213: -1884266364304478707
+    second: bluecrabREDO_21
+  - first:
+      213: -7000223103355936173
+    second: bluecrabREDO_22
+  - first:
+      213: -1205901300616907935
+    second: bluecrabREDO_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +113,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +147,525 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: bluecrabREDO_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3280
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae89e133818c1140800000000000000
+      internalID: 4691767312291303085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_1
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 3280
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47cb0cd65cc1af1e0800000000000000
+      internalID: -2163385036722619276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_2
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3280
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e4c852967c4e9990800000000000000
+      internalID: -7377375067441150745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_3
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 3280
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c783970be059ad850800000000000000
+      internalID: 6402593710583396476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2624
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf890c1278ea43940800000000000000
+      internalID: 5275032958967781627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_5
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2624
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e5c9ae624a1f970800000000000000
+      internalID: 8786984835028377179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_6
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2624
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aaae652541c1e90800000000000000
+      internalID: -7053740572490946024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_7
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 2624
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243845a1fe194b3a0800000000000000
+      internalID: -6650530293594422462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1968
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf64010a8c75e620800000000000000
+      internalID: 2802783275272400817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_9
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1968
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b7e600d54c83380800000000000000
+      internalID: -8991220752326952047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_10
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1968
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e38404480790940800000000000000
+      internalID: 5262861352875605646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_11
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1968
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1a72b2a2e993f60800000000000000
+      internalID: 8014610915832340916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1312
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7ff419e7af5ff00800000000000000
+      internalID: 1150100701373790139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_13
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1312
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc88b990754e7a630800000000000000
+      internalID: 3938367461633263819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_14
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1312
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad33a4e76d0189f30800000000000000
+      internalID: 4582431134277317594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_15
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1312
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6de639670e65f10800000000000000
+      internalID: 2258239063057159910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 656
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560549b853a8062a0800000000000000
+      internalID: -6746240279221350299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_17
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 656
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66118130d4c623e0800000000000000
+      internalID: -2078757779522120086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_18
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 656
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891b1bc9a318b3340800000000000000
+      internalID: 4844607912904077720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_19
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 656
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bd1df04d9e7eb10800000000000000
+      internalID: 2010832855651965713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7452e7813a8a8c910800000000000000
+      internalID: 1857920264734385479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_21
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 0
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e2a6599bdb9d5e0800000000000000
+      internalID: -1884266364304478707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_22
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352acff1d263ade90800000000000000
+      internalID: -7000223103355936173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluecrabREDO_23
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 0
+        width: 1125
+        height: 656
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1633c8ef727c34fe0800000000000000
+      internalID: -1205901300616907935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

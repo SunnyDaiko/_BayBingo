@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: a35bbbaa96bca5e4f915a6166e22c12c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 7941932129319775680
+    second: bluegillRESIZED_0
+  - first:
+      213: -5436473868307086584
+    second: bluegillRESIZED_1
+  - first:
+      213: 6557216457074888633
+    second: bluegillRESIZED_2
+  - first:
+      213: -1859029795251563815
+    second: bluegillRESIZED_3
+  - first:
+      213: 6963996646564401128
+    second: bluegillRESIZED_4
+  - first:
+      213: -3015574709867225997
+    second: bluegillRESIZED_5
+  - first:
+      213: -8323353759014949485
+    second: bluegillRESIZED_6
+  - first:
+      213: 3114862513451707198
+    second: bluegillRESIZED_7
+  - first:
+      213: -6549125677680008712
+    second: bluegillRESIZED_8
+  - first:
+      213: -5904082051580734643
+    second: bluegillRESIZED_9
+  - first:
+      213: 6747350114878847482
+    second: bluegillRESIZED_10
+  - first:
+      213: -902076626098258050
+    second: bluegillRESIZED_11
+  - first:
+      213: -6683921009206542675
+    second: bluegillRESIZED_12
+  - first:
+      213: 4389459176128268814
+    second: bluegillRESIZED_13
+  - first:
+      213: 6722257717182685181
+    second: bluegillRESIZED_14
+  - first:
+      213: 8214047473102364577
+    second: bluegillRESIZED_15
+  - first:
+      213: 8368347377890719827
+    second: bluegillRESIZED_16
+  - first:
+      213: -2083957347615421492
+    second: bluegillRESIZED_17
+  - first:
+      213: 3797083844022181484
+    second: bluegillRESIZED_18
+  - first:
+      213: -7849300236800136398
+    second: bluegillRESIZED_19
+  - first:
+      213: 1203927752175296947
+    second: bluegillRESIZED_20
+  - first:
+      213: 6666674202642410251
+    second: bluegillRESIZED_21
+  - first:
+      213: 7785901315231831735
+    second: bluegillRESIZED_22
+  - first:
+      213: -3848151801847738281
+    second: bluegillRESIZED_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +113,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +147,525 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: bluegillRESIZED_0
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2748
+        width: 502
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cded568139673e60800000000000000
+      internalID: 7941932129319775680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_1
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2750
+        width: 486
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803ccd802d3cd84b0800000000000000
+      internalID: -5436473868307086584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_2
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 2753
+        width: 457
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf4b4740a9effa50800000000000000
+      internalID: 6557216457074888633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_3
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 2761
+        width: 431
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2d92330466336e0800000000000000
+      internalID: -1859029795251563815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_4
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 2230
+        width: 416
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef8b7f9d0615a060800000000000000
+      internalID: 6963996646564401128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_5
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2228
+        width: 431
+        height: 379
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c56b057c68626d0800000000000000
+      internalID: -3015574709867225997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_6
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 2225
+        width: 457
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d600eead18d7c80800000000000000
+      internalID: -8323353759014949485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_7
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 2221
+        width: 486
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b2876e3f63a3b20800000000000000
+      internalID: 3114862513451707198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_8
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1677
+        width: 502
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f16e7815e4dc15a0800000000000000
+      internalID: -6549125677680008712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_9
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1673
+        width: 485
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4355ceb7ac701ea0800000000000000
+      internalID: -5904082051580734643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_10
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1671
+        width: 457
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af97b843e2763ad50800000000000000
+      internalID: 6747350114878847482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_11
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1670
+        width: 431
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ffa35861e2b73f0800000000000000
+      internalID: -902076626098258050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_12
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1130
+        width: 416
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae397b4141fd33a0800000000000000
+      internalID: -6683921009206542675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_13
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1130
+        width: 431
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a44354ddd7aec30800000000000000
+      internalID: 4389459176128268814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_14
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 1135
+        width: 457
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff5d4917c14a4d50800000000000000
+      internalID: 6722257717182685181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_15
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 1143
+        width: 486
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af167a28a82ef170800000000000000
+      internalID: 8214047473102364577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_16
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 607
+        width: 502
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3587f305a97522470800000000000000
+      internalID: 8368347377890719827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_17
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 606
+        width: 485
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb415865db4413e0800000000000000
+      internalID: -2083957347615421492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_18
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 603
+        width: 457
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e115963a3f1b430800000000000000
+      internalID: 3797083844022181484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_19
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 599
+        width: 431
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b6322a50fa11390800000000000000
+      internalID: -7849300236800136398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 55
+        width: 416
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1a4a379e535b010800000000000000
+      internalID: 1203927752175296947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_21
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 52
+        width: 431
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0be2c1add8c48c50800000000000000
+      internalID: 6666674202642410251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_22
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 50
+        width: 457
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6d3a6aef31d0c60800000000000000
+      internalID: 7785901315231831735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bluegillRESIZED_23
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 48
+        width: 486
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7501619135e989ac0800000000000000
+      internalID: -3848151801847738281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -1,7 +1,151 @@
 fileFormatVersion: 2
 guid: 5e9ef6e7895eba24a9aaf24fd61dd6d5
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4811657354326065957
+    second: basssprites_0
+  - first:
+      213: 8546428304406299696
+    second: basssprites_1
+  - first:
+      213: -9130243032953737870
+    second: basssprites_2
+  - first:
+      213: 8650981300884718244
+    second: basssprites_3
+  - first:
+      213: -3931218480279379693
+    second: basssprites_4
+  - first:
+      213: -7365639975434215717
+    second: basssprites_5
+  - first:
+      213: -1459567661126454827
+    second: basssprites_6
+  - first:
+      213: 7002100835541258817
+    second: basssprites_7
+  - first:
+      213: -2954868028390083165
+    second: basssprites_8
+  - first:
+      213: 3136698557683957110
+    second: basssprites_9
+  - first:
+      213: -196738424298309229
+    second: basssprites_10
+  - first:
+      213: 2400254546287286879
+    second: basssprites_11
+  - first:
+      213: 1382505330457646336
+    second: basssprites_12
+  - first:
+      213: 5491065123310471021
+    second: basssprites_13
+  - first:
+      213: 5504141996305166324
+    second: basssprites_14
+  - first:
+      213: -8038568251753189311
+    second: basssprites_15
+  - first:
+      213: 659125842678214037
+    second: basssprites_16
+  - first:
+      213: -6566619517470653280
+    second: basssprites_17
+  - first:
+      213: -1820103075531958314
+    second: basssprites_18
+  - first:
+      213: -1177599317550542679
+    second: basssprites_19
+  - first:
+      213: -291087106235388674
+    second: basssprites_20
+  - first:
+      213: 531751040013472572
+    second: basssprites_21
+  - first:
+      213: -6627524971008350001
+    second: basssprites_22
+  - first:
+      213: 1989446209947934856
+    second: basssprites_23
+  - first:
+      213: -3181516295592749104
+    second: basssprites_24
+  - first:
+      213: 4820738955822598592
+    second: basssprites_25
+  - first:
+      213: -6898535531899952158
+    second: basssprites_26
+  - first:
+      213: -1077663986356532131
+    second: basssprites_27
+  - first:
+      213: -8465108474250743084
+    second: basssprites_28
+  - first:
+      213: 503789671286751586
+    second: basssprites_29
+  - first:
+      213: -3650402665458815982
+    second: basssprites_30
+  - first:
+      213: 4920534918323201912
+    second: basssprites_31
+  - first:
+      213: 6526009499718373686
+    second: basssprites_32
+  - first:
+      213: -6474782453961295917
+    second: basssprites_33
+  - first:
+      213: -3558088205184919859
+    second: basssprites_34
+  - first:
+      213: -7022088593511297037
+    second: basssprites_35
+  - first:
+      213: -1264187001618226141
+    second: basssprites_36
+  - first:
+      213: 6327111211185816789
+    second: basssprites_37
+  - first:
+      213: 3097095635674329729
+    second: basssprites_38
+  - first:
+      213: 2568265311922597810
+    second: basssprites_39
+  - first:
+      213: 7817694773981993962
+    second: basssprites_40
+  - first:
+      213: -799036436524047624
+    second: basssprites_41
+  - first:
+      213: 5955709088398261204
+    second: basssprites_42
+  - first:
+      213: 5237470681131422830
+    second: basssprites_43
+  - first:
+      213: 2310658499585232598
+    second: basssprites_44
+  - first:
+      213: -4989500562333861080
+    second: basssprites_45
+  - first:
+      213: 8693265723354058851
+    second: basssprites_46
+  - first:
+      213: -2207214497452581528
+    second: basssprites_47
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +185,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +219,1029 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: basssprites_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 6248
+        width: 1093
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5234089ded076c240800000000000000
+      internalID: 4811657354326065957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_1
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 6248
+        width: 1093
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0344b7e03430b9670800000000000000
+      internalID: 8546428304406299696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_2
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 6248
+        width: 1093
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27daecbe55cda4180800000000000000
+      internalID: -9130243032953737870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_3
+      rect:
+        serializedVersion: 2
+        x: 3730
+        y: 6248
+        width: 1095
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a2c7c588a57e0870800000000000000
+      internalID: 8650981300884718244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5689
+        width: 1100
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3112f74ee918179c0800000000000000
+      internalID: -3931218480279379693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_5
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 5689
+        width: 1099
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde93d8977df7c990800000000000000
+      internalID: -7365639975434215717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_6
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 5689
+        width: 1105
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1f8e002f29ebbe0800000000000000
+      internalID: -1459567661126454827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_7
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 5689
+        width: 1110
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14217e77c957c2160800000000000000
+      internalID: 7002100835541258817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 5129
+        width: 1117
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a576a90f233ef6d0800000000000000
+      internalID: -2954868028390083165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_9
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 5129
+        width: 1122
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d7b3228bac78b20800000000000000
+      internalID: 3136698557683957110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_10
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 5129
+        width: 1118
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399770a027b054df0800000000000000
+      internalID: -196738424298309229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_11
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 5129
+        width: 1113
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a58f1faca6f4120800000000000000
+      internalID: 2400254546287286879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4566
+        width: 1109
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0051302f545af2310800000000000000
+      internalID: 1382505330457646336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_13
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 4566
+        width: 1096
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67057103ae243c40800000000000000
+      internalID: 5491065123310471021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_14
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 4566
+        width: 1106
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff2413cbf3a26c40800000000000000
+      internalID: 5504141996305166324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_15
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 4566
+        width: 1106
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140b483e3c4417090800000000000000
+      internalID: -8038568251753189311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4003
+        width: 1109
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d6d13367fa52900800000000000000
+      internalID: 659125842678214037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_17
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 4003
+        width: 1112
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4c30e175eaed4a0800000000000000
+      internalID: -6566619517470653280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_18
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 4003
+        width: 1120
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7525865e1bdb6e0800000000000000
+      internalID: -1820103075531958314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_19
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 4003
+        width: 1113
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a058ade8a358afe0800000000000000
+      internalID: -1177599317550542679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_20
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3440
+        width: 1106
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efca422b1d9d5fbf0800000000000000
+      internalID: -291087106235388674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_21
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 3440
+        width: 1099
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3392f8e0c8216700800000000000000
+      internalID: 531751040013472572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_22
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 3440
+        width: 1096
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8240b272d4604a0800000000000000
+      internalID: -6627524971008350001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_23
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 3440
+        width: 1093
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880a1b399ceeb9b10800000000000000
+      internalID: 1989446209947934856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_24
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2876
+        width: 1095
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7d31a19cbf8d3d0800000000000000
+      internalID: -3181516295592749104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_25
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 2876
+        width: 1093
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c981b8f984b6e240800000000000000
+      internalID: 4820738955822598592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_26
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 2876
+        width: 1093
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e361b6db7a7340a0800000000000000
+      internalID: -6898535531899952158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_27
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 2877
+        width: 1093
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cccf9605e5b01f0800000000000000
+      internalID: -1077663986356532131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2317
+        width: 1100
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2b22751b4e58a80800000000000000
+      internalID: -8465108474250743084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_29
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 2317
+        width: 1099
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261ce8e6902ddf600800000000000000
+      internalID: 503789671286751586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_30
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 2317
+        width: 1105
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c203ecd1a275dc0800000000000000
+      internalID: -3650402665458815982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_31
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 2320
+        width: 1110
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8776f872070494440800000000000000
+      internalID: 4920534918323201912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1757
+        width: 1117
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631d98f401b019a50800000000000000
+      internalID: 6526009499718373686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_33
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1757
+        width: 1122
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d774b9b9a3f426a0800000000000000
+      internalID: -6474782453961295917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_34
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1757
+        width: 1119
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6127201a12f9ec0800000000000000
+      internalID: -3558088205184919859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_35
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 1757
+        width: 1113
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffcf6af0a78c8e90800000000000000
+      internalID: -7022088593511297037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1197
+        width: 1109
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32421e6be94b47ee0800000000000000
+      internalID: -1264187001618226141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_37
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1197
+        width: 1099
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d44f15cf1a6ec750800000000000000
+      internalID: 6327111211185816789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_38
+      rect:
+        serializedVersion: 2
+        x: 2487
+        y: 1194
+        width: 1106
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182f7cf42181bfa20800000000000000
+      internalID: 3097095635674329729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_39
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 1194
+        width: 1106
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfaa16a1bf44a320800000000000000
+      internalID: 2568265311922597810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_40
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 631
+        width: 1109
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebdf9d1af70e7c60800000000000000
+      internalID: 7817694773981993962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_41
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 631
+        width: 1112
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2e36e289049e4f0800000000000000
+      internalID: -799036436524047624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_42
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 631
+        width: 1119
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db3b877cdde6a250800000000000000
+      internalID: 5955709088398261204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_43
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 631
+        width: 1113
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e649c5ec5db3fa840800000000000000
+      internalID: 5237470681131422830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 68
+        width: 1106
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dec309b9ab111020800000000000000
+      internalID: 2310658499585232598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_45
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 68
+        width: 1099
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b7a7f8cabb1cab0800000000000000
+      internalID: -4989500562333861080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_46
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 68
+        width: 1096
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3601992dd1fa4a870800000000000000
+      internalID: 8693265723354058851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: basssprites_47
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 68
+        width: 1093
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d1f30eb166e51e0800000000000000
+      internalID: -2207214497452581528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

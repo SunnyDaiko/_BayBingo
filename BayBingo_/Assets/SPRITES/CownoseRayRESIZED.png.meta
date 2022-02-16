@@ -1,7 +1,76 @@
 fileFormatVersion: 2
 guid: 44cfc50062e4b6845be83b524a4f92a6
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 127325748944875127
+    second: CownoseRayRESIZED_0
+  - first:
+      213: 7987748440780137462
+    second: CownoseRayRESIZED_1
+  - first:
+      213: -8670356258795996199
+    second: CownoseRayRESIZED_2
+  - first:
+      213: -4895856431363162996
+    second: CownoseRayRESIZED_3
+  - first:
+      213: -1532513299358275821
+    second: CownoseRayRESIZED_4
+  - first:
+      213: 2703938961016855946
+    second: CownoseRayRESIZED_5
+  - first:
+      213: 6104409530277963273
+    second: CownoseRayRESIZED_6
+  - first:
+      213: 3997334182643702933
+    second: CownoseRayRESIZED_7
+  - first:
+      213: -6442572427803747497
+    second: CownoseRayRESIZED_8
+  - first:
+      213: -6071421554104173215
+    second: CownoseRayRESIZED_9
+  - first:
+      213: 6130506575551612262
+    second: CownoseRayRESIZED_10
+  - first:
+      213: 6992893716567661077
+    second: CownoseRayRESIZED_11
+  - first:
+      213: 284212498232064305
+    second: CownoseRayRESIZED_12
+  - first:
+      213: -866609242550706185
+    second: CownoseRayRESIZED_13
+  - first:
+      213: -6679182275611228517
+    second: CownoseRayRESIZED_14
+  - first:
+      213: 7372229553896763654
+    second: CownoseRayRESIZED_15
+  - first:
+      213: 1496798995322447715
+    second: CownoseRayRESIZED_16
+  - first:
+      213: 5659718511880722861
+    second: CownoseRayRESIZED_17
+  - first:
+      213: -4506164323683392472
+    second: CownoseRayRESIZED_18
+  - first:
+      213: -1505747941947507786
+    second: CownoseRayRESIZED_19
+  - first:
+      213: -3028584901552663923
+    second: CownoseRayRESIZED_20
+  - first:
+      213: -7752756022289691793
+    second: CownoseRayRESIZED_21
+  - first:
+      213: -4740737057606573547
+    second: CownoseRayRESIZED_22
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +110,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +144,504 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2783
+        width: 887
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eae94181a54c100800000000000000
+      internalID: 127325748944875127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_1
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2787
+        width: 887
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f361efc2ee2ade60800000000000000
+      internalID: 7987748440780137462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_2
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 2793
+        width: 887
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db316e8be4bca780800000000000000
+      internalID: -8670356258795996199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_3
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 2828
+        width: 889
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c7949d38c6e0cb0800000000000000
+      internalID: -4895856431363162996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2288
+        width: 887
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317203a164b6bbae0800000000000000
+      internalID: -1532513299358275821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_5
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 2288
+        width: 888
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d9fb1b822568520800000000000000
+      internalID: 2703938961016855946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_6
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 2288
+        width: 888
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9062abf002837b450800000000000000
+      internalID: 6104409530277963273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_7
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 2290
+        width: 888
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c1105a242697730800000000000000
+      internalID: 3997334182643702933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1750
+        width: 888
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b1809d2826796a0800000000000000
+      internalID: -6442572427803747497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_9
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1750
+        width: 891
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d78f9a34afdbba0800000000000000
+      internalID: -6071421554104173215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_10
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1750
+        width: 892
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66543f8ef3fe31550800000000000000
+      internalID: 6130506575551612262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_11
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 1750
+        width: 890
+        height: 347
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a931809cfbb0160800000000000000
+      internalID: 6992893716567661077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1212
+        width: 890
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13939d5e2c9b1f300800000000000000
+      internalID: 284212498232064305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_13
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1214
+        width: 890
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffd1b24c7f29f3f0800000000000000
+      internalID: -866609242550706185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_14
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 1216
+        width: 890
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b968b10bb17ce43a0800000000000000
+      internalID: -6679182275611228517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_15
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 1218
+        width: 891
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60137a238bb6f4660800000000000000
+      internalID: 7372229553896763654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_16
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 680
+        width: 890
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3672b5081c2b5c410800000000000000
+      internalID: 1496798995322447715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_17
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 682
+        width: 889
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da95a55000c5b8e40800000000000000
+      internalID: 5659718511880722861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_18
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 683
+        width: 888
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824205b1c63e671c0800000000000000
+      internalID: -4506164323683392472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_19
+      rect:
+        serializedVersion: 2
+        x: 2930
+        y: 683
+        width: 888
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb71fe79328a1be0800000000000000
+      internalID: -1505747941947507786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 123
+        width: 887
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8297d2041e48f5d0800000000000000
+      internalID: -3028584901552663923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_21
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 102
+        width: 887
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b072d397da86490800000000000000
+      internalID: -7752756022289691793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CownoseRayRESIZED_22
+      rect:
+        serializedVersion: 2
+        x: 1970
+        y: 83
+        width: 887
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51264db73c4853eb0800000000000000
+      internalID: -4740737057606573547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

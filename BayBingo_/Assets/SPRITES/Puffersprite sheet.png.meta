@@ -1,0 +1,3564 @@
+fileFormatVersion: 2
+guid: 74daf5b62b486774b8f0fa967829e6c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1965390397484986413
+    second: Puffersprite sheet_0
+  - first:
+      213: 1493412923116677278
+    second: Puffersprite sheet_1
+  - first:
+      213: -5880988720705221182
+    second: Puffersprite sheet_2
+  - first:
+      213: -1258624059777752048
+    second: Puffersprite sheet_3
+  - first:
+      213: -958152073533505256
+    second: Puffersprite sheet_4
+  - first:
+      213: -5111748862987897029
+    second: Puffersprite sheet_5
+  - first:
+      213: -2967002719450777580
+    second: Puffersprite sheet_6
+  - first:
+      213: -3930502485233233552
+    second: Puffersprite sheet_7
+  - first:
+      213: -4671427501127948592
+    second: Puffersprite sheet_8
+  - first:
+      213: 6130592301442873519
+    second: Puffersprite sheet_9
+  - first:
+      213: -8235258759262318644
+    second: Puffersprite sheet_10
+  - first:
+      213: -8266755766355173071
+    second: Puffersprite sheet_11
+  - first:
+      213: 6395765570145989212
+    second: Puffersprite sheet_12
+  - first:
+      213: -7342878608726247841
+    second: Puffersprite sheet_13
+  - first:
+      213: 4095123792672587757
+    second: Puffersprite sheet_14
+  - first:
+      213: -1522136764546786484
+    second: Puffersprite sheet_15
+  - first:
+      213: -1864445206085706606
+    second: Puffersprite sheet_16
+  - first:
+      213: 801733406049755792
+    second: Puffersprite sheet_17
+  - first:
+      213: 804695205698904062
+    second: Puffersprite sheet_18
+  - first:
+      213: 3315678477669686650
+    second: Puffersprite sheet_19
+  - first:
+      213: 6680415163674172052
+    second: Puffersprite sheet_20
+  - first:
+      213: 8092002779741148114
+    second: Puffersprite sheet_21
+  - first:
+      213: 435500153809021304
+    second: Puffersprite sheet_22
+  - first:
+      213: 1371533980851687412
+    second: Puffersprite sheet_23
+  - first:
+      213: 3982186021688680879
+    second: Puffersprite sheet_24
+  - first:
+      213: 4581080585344739938
+    second: Puffersprite sheet_25
+  - first:
+      213: 5602600139609312934
+    second: Puffersprite sheet_26
+  - first:
+      213: -285557701612340301
+    second: Puffersprite sheet_27
+  - first:
+      213: 27026445701926278
+    second: Puffersprite sheet_28
+  - first:
+      213: 939369590768288010
+    second: Puffersprite sheet_29
+  - first:
+      213: -6671948839493876178
+    second: Puffersprite sheet_30
+  - first:
+      213: 7911804721729735450
+    second: Puffersprite sheet_31
+  - first:
+      213: 4114221623990223788
+    second: Puffersprite sheet_32
+  - first:
+      213: 1573225164063137696
+    second: Puffersprite sheet_33
+  - first:
+      213: 8363243749069814661
+    second: Puffersprite sheet_34
+  - first:
+      213: -2315205671386202920
+    second: Puffersprite sheet_35
+  - first:
+      213: 8529293804054712380
+    second: Puffersprite sheet_36
+  - first:
+      213: 7668608218477225739
+    second: Puffersprite sheet_37
+  - first:
+      213: -7936392692272521983
+    second: Puffersprite sheet_38
+  - first:
+      213: 5346453520966851526
+    second: Puffersprite sheet_39
+  - first:
+      213: 4952647107426967434
+    second: Puffersprite sheet_40
+  - first:
+      213: -508000732348198059
+    second: Puffersprite sheet_41
+  - first:
+      213: 3360554927808483605
+    second: Puffersprite sheet_42
+  - first:
+      213: -1886497836843426943
+    second: Puffersprite sheet_43
+  - first:
+      213: -6294353399532641411
+    second: Puffersprite sheet_44
+  - first:
+      213: -3737449322725623460
+    second: Puffersprite sheet_45
+  - first:
+      213: 1715170591962610888
+    second: Puffersprite sheet_46
+  - first:
+      213: -3992170447027357377
+    second: Puffersprite sheet_47
+  - first:
+      213: -4436337059814050819
+    second: Puffersprite sheet_48
+  - first:
+      213: 7055682845526051305
+    second: Puffersprite sheet_49
+  - first:
+      213: 7349101607871920979
+    second: Puffersprite sheet_50
+  - first:
+      213: 8698552494582325046
+    second: Puffersprite sheet_51
+  - first:
+      213: 1654191476989850956
+    second: Puffersprite sheet_52
+  - first:
+      213: -6560641045239808113
+    second: Puffersprite sheet_53
+  - first:
+      213: 2572106238722548325
+    second: Puffersprite sheet_54
+  - first:
+      213: -7875519077939812237
+    second: Puffersprite sheet_55
+  - first:
+      213: 2076511396619536928
+    second: Puffersprite sheet_56
+  - first:
+      213: -3761563850886154526
+    second: Puffersprite sheet_57
+  - first:
+      213: -5240180078908461428
+    second: Puffersprite sheet_58
+  - first:
+      213: -8901017762931586513
+    second: Puffersprite sheet_59
+  - first:
+      213: -3730003855644411058
+    second: Puffersprite sheet_60
+  - first:
+      213: 1625867249359137400
+    second: Puffersprite sheet_61
+  - first:
+      213: -3022390037345702999
+    second: Puffersprite sheet_62
+  - first:
+      213: 9079364662768094807
+    second: Puffersprite sheet_63
+  - first:
+      213: 6370462763040327753
+    second: Puffersprite sheet_64
+  - first:
+      213: 5062512240777704183
+    second: Puffersprite sheet_65
+  - first:
+      213: 4041234743938795341
+    second: Puffersprite sheet_66
+  - first:
+      213: 8237266300644006593
+    second: Puffersprite sheet_67
+  - first:
+      213: -265036572559373559
+    second: Puffersprite sheet_68
+  - first:
+      213: -6827244807237051786
+    second: Puffersprite sheet_69
+  - first:
+      213: -595876662484306075
+    second: Puffersprite sheet_70
+  - first:
+      213: 8309535335502808176
+    second: Puffersprite sheet_71
+  - first:
+      213: -8083104613924665256
+    second: Puffersprite sheet_72
+  - first:
+      213: -1260659964399953875
+    second: Puffersprite sheet_73
+  - first:
+      213: 6062619216069746593
+    second: Puffersprite sheet_74
+  - first:
+      213: 363296799078045800
+    second: Puffersprite sheet_75
+  - first:
+      213: 8624124122427421695
+    second: Puffersprite sheet_76
+  - first:
+      213: 7311310126653253324
+    second: Puffersprite sheet_77
+  - first:
+      213: -2280340584606937691
+    second: Puffersprite sheet_78
+  - first:
+      213: -8362326560415333118
+    second: Puffersprite sheet_79
+  - first:
+      213: -2666005394193686086
+    second: Puffersprite sheet_80
+  - first:
+      213: 9135751512641950364
+    second: Puffersprite sheet_81
+  - first:
+      213: -1817098939720376841
+    second: Puffersprite sheet_82
+  - first:
+      213: -1943425826701041022
+    second: Puffersprite sheet_83
+  - first:
+      213: -7082009961106527245
+    second: Puffersprite sheet_84
+  - first:
+      213: 3408770691407034422
+    second: Puffersprite sheet_85
+  - first:
+      213: -1635661255202451748
+    second: Puffersprite sheet_86
+  - first:
+      213: -1951376822509583921
+    second: Puffersprite sheet_87
+  - first:
+      213: 146959964183378993
+    second: Puffersprite sheet_88
+  - first:
+      213: 1164918069478511955
+    second: Puffersprite sheet_89
+  - first:
+      213: 6098761987171090356
+    second: Puffersprite sheet_90
+  - first:
+      213: -4567200910773632386
+    second: Puffersprite sheet_91
+  - first:
+      213: -8018388510753506738
+    second: Puffersprite sheet_92
+  - first:
+      213: -2668091460818625332
+    second: Puffersprite sheet_93
+  - first:
+      213: 1179274406905519658
+    second: Puffersprite sheet_94
+  - first:
+      213: -8470055940546026718
+    second: Puffersprite sheet_95
+  - first:
+      213: 2548121496495844675
+    second: Puffersprite sheet_96
+  - first:
+      213: -9157589893647047791
+    second: Puffersprite sheet_97
+  - first:
+      213: 2897933283458911944
+    second: Puffersprite sheet_98
+  - first:
+      213: 8331401480214103653
+    second: Puffersprite sheet_99
+  - first:
+      213: -768450821844448175
+    second: Puffersprite sheet_100
+  - first:
+      213: -7576063553886301252
+    second: Puffersprite sheet_101
+  - first:
+      213: -2198544944508421323
+    second: Puffersprite sheet_102
+  - first:
+      213: 7743369454321890835
+    second: Puffersprite sheet_103
+  - first:
+      213: -8848976343965800101
+    second: Puffersprite sheet_104
+  - first:
+      213: -1311895216699111174
+    second: Puffersprite sheet_105
+  - first:
+      213: -5431618895518532953
+    second: Puffersprite sheet_106
+  - first:
+      213: 6812547944210337947
+    second: Puffersprite sheet_107
+  - first:
+      213: 3614252007233008536
+    second: Puffersprite sheet_108
+  - first:
+      213: 510514322945304799
+    second: Puffersprite sheet_109
+  - first:
+      213: 6311233146987898152
+    second: Puffersprite sheet_110
+  - first:
+      213: -365572083397821830
+    second: Puffersprite sheet_111
+  - first:
+      213: -23243242502294712
+    second: Puffersprite sheet_112
+  - first:
+      213: -3889436241803303629
+    second: Puffersprite sheet_113
+  - first:
+      213: -6487063211651000995
+    second: Puffersprite sheet_114
+  - first:
+      213: 169515250364097670
+    second: Puffersprite sheet_115
+  - first:
+      213: 5843292567887610137
+    second: Puffersprite sheet_116
+  - first:
+      213: -7757961658603978143
+    second: Puffersprite sheet_117
+  - first:
+      213: -679170049268718153
+    second: Puffersprite sheet_118
+  - first:
+      213: 3527155499439623157
+    second: Puffersprite sheet_119
+  - first:
+      213: 8523843678920539290
+    second: Puffersprite sheet_120
+  - first:
+      213: -5949439191887972553
+    second: Puffersprite sheet_121
+  - first:
+      213: 1586792219885199965
+    second: Puffersprite sheet_122
+  - first:
+      213: 4614559174828568060
+    second: Puffersprite sheet_123
+  - first:
+      213: -242323344069763741
+    second: Puffersprite sheet_124
+  - first:
+      213: 9103727749034720122
+    second: Puffersprite sheet_125
+  - first:
+      213: -4152425338780694653
+    second: Puffersprite sheet_126
+  - first:
+      213: 4660167508181498251
+    second: Puffersprite sheet_127
+  - first:
+      213: -5410460076904482075
+    second: Puffersprite sheet_128
+  - first:
+      213: 4870344539387435232
+    second: Puffersprite sheet_129
+  - first:
+      213: 2518421154090553600
+    second: Puffersprite sheet_130
+  - first:
+      213: -3205074598888165071
+    second: Puffersprite sheet_131
+  - first:
+      213: 6437948489254888166
+    second: Puffersprite sheet_132
+  - first:
+      213: -7799232975995979613
+    second: Puffersprite sheet_133
+  - first:
+      213: -7000911524340678155
+    second: Puffersprite sheet_134
+  - first:
+      213: -6642743246630338989
+    second: Puffersprite sheet_135
+  - first:
+      213: -2477570597295707259
+    second: Puffersprite sheet_136
+  - first:
+      213: -6527624301306350212
+    second: Puffersprite sheet_137
+  - first:
+      213: -7592725414329935643
+    second: Puffersprite sheet_138
+  - first:
+      213: -4597952897117249155
+    second: Puffersprite sheet_139
+  - first:
+      213: 1214788136178436567
+    second: Puffersprite sheet_140
+  - first:
+      213: -8574363619925215879
+    second: Puffersprite sheet_141
+  - first:
+      213: 1171498356056536423
+    second: Puffersprite sheet_142
+  - first:
+      213: -8914303164104285017
+    second: Puffersprite sheet_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Puffersprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 6196
+        width: 618
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df81f8b8d789b4e0800000000000000
+      internalID: -1965390397484986413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 6196
+        width: 619
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98e851242ba9b410800000000000000
+      internalID: 1493412923116677278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 6196
+        width: 623
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd4946dae7826ea0800000000000000
+      internalID: -5880988720705221182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 6196
+        width: 618
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014ef2b0618788ee0800000000000000
+      internalID: -1258624059777752048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 6196
+        width: 619
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8114b3004c5f3b2f0800000000000000
+      internalID: -958152073533505256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 6196
+        width: 622
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3779980e7b6f09b0800000000000000
+      internalID: -5111748862987897029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_6
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 6196
+        width: 618
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418b48b1fb613d6d0800000000000000
+      internalID: -2967002719450777580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_7
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 6196
+        width: 619
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07112ea70dc0479c0800000000000000
+      internalID: -3930502485233233552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_8
+      rect:
+        serializedVersion: 2
+        x: 7822
+        y: 6196
+        width: 623
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d627412071cb2fb0800000000000000
+      internalID: -4671427501127948592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_9
+      rect:
+        serializedVersion: 2
+        x: 8784
+        y: 6196
+        width: 618
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa83f36873d341550800000000000000
+      internalID: 6130592301442873519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_10
+      rect:
+        serializedVersion: 2
+        x: 9745
+        y: 6196
+        width: 619
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfcebc6acb76bd80800000000000000
+      internalID: -8235258759262318644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_11
+      rect:
+        serializedVersion: 2
+        x: 10702
+        y: 6196
+        width: 623
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131ec7dfd65964d80800000000000000
+      internalID: -8266755766355173071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 5656
+        width: 618
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52b93b56e252c850800000000000000
+      internalID: 6395765570145989212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 5656
+        width: 619
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56be024fcad81a90800000000000000
+      internalID: -7342878608726247841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 5656
+        width: 623
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defff7d746dc4d830800000000000000
+      internalID: 4095123792672587757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 5656
+        width: 618
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b50a16da840eae0800000000000000
+      internalID: -1522136764546786484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 5656
+        width: 619
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cd41c96f82026e0800000000000000
+      internalID: -1864445206085706606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 5656
+        width: 622
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092e828f844502b00800000000000000
+      internalID: 801733406049755792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 5656
+        width: 618
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff9420b60ada2b00800000000000000
+      internalID: 804695205698904062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_19
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 5656
+        width: 619
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7dd8ea1208a30e20800000000000000
+      internalID: 3315678477669686650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 7822
+        y: 5656
+        width: 623
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a9eee623a95bc50800000000000000
+      internalID: 6680415163674172052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 8784
+        y: 5656
+        width: 618
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3d1f7a7a19c4070800000000000000
+      internalID: 8092002779741148114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 9745
+        y: 5656
+        width: 619
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8792a6f15153b0600800000000000000
+      internalID: 435500153809021304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 10702
+        y: 5656
+        width: 623
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffca0e83eaa80310800000000000000
+      internalID: 1371533980851687412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 5116
+        width: 618
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1a7449611934730800000000000000
+      internalID: 3982186021688680879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 5110
+        width: 619
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a69e05584439f30800000000000000
+      internalID: 4581080585344739938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 5100
+        width: 623
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae87f3a42f60cd40800000000000000
+      internalID: 5602600139609312934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 5088
+        width: 618
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbf48888ce790cf0800000000000000
+      internalID: -285557701612340301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_28
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 5077
+        width: 619
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dca9fb864006000800000000000000
+      internalID: 27026445701926278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_29
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 5071
+        width: 622
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a014c827aaf490d00800000000000000
+      internalID: 939369590768288010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_30
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 5065
+        width: 618
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26436641e97863a0800000000000000
+      internalID: -6671948839493876178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 5065
+        width: 619
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b85f2d9706ccd60800000000000000
+      internalID: 7911804721729735450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 7822
+        y: 5065
+        width: 623
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca30b29d4c6a81930800000000000000
+      internalID: 4114221623990223788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 8784
+        y: 5071
+        width: 618
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af50bf83f735d510800000000000000
+      internalID: 1573225164063137696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 9745
+        y: 5082
+        width: 619
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bff4121e5301470800000000000000
+      internalID: 8363243749069814661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 10702
+        y: 5105
+        width: 623
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc3e0755bcbedfd0800000000000000
+      internalID: -2315205671386202920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_36
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 4576
+        width: 618
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c301f9f46832e5670800000000000000
+      internalID: 8529293804054712380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 4576
+        width: 619
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07e9ff6b8e5c6a60800000000000000
+      internalID: 7668608218477225739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_38
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 4576
+        width: 623
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d171b25e44cd190800000000000000
+      internalID: -7936392692272521983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_39
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 4576
+        width: 618
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb9d5d862b623a40800000000000000
+      internalID: 5346453520966851526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_40
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 4576
+        width: 619
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fdc00dd465bb440800000000000000
+      internalID: 4952647107426967434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_41
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 4576
+        width: 622
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5535fb2860833f8f0800000000000000
+      internalID: -508000732348198059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_42
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 4576
+        width: 618
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5119630e6e613ae20800000000000000
+      internalID: 3360554927808483605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_43
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 4576
+        width: 619
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b97656630d1d5e0800000000000000
+      internalID: -1886497836843426943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_44
+      rect:
+        serializedVersion: 2
+        x: 7822
+        y: 4576
+        width: 623
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73a51a9ee6f5a8a0800000000000000
+      internalID: -6294353399532641411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_45
+      rect:
+        serializedVersion: 2
+        x: 8784
+        y: 4570
+        width: 618
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c593ae094a9e12cc0800000000000000
+      internalID: -3737449322725623460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_46
+      rect:
+        serializedVersion: 2
+        x: 9745
+        y: 4559
+        width: 619
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccb027e0928dc710800000000000000
+      internalID: 1715170591962610888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_47
+      rect:
+        serializedVersion: 2
+        x: 10702
+        y: 4542
+        width: 623
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f393f1e3126f898c0800000000000000
+      internalID: -3992170447027357377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3985
+        width: 618
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3f1e5e2f6fe62c0800000000000000
+      internalID: -4436337059814050819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 3968
+        width: 619
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9c5675a22dae160800000000000000
+      internalID: 7055682845526051305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_50
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 3957
+        width: 623
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b3573a9f04df560800000000000000
+      internalID: 7349101607871920979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_51
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3952
+        width: 618
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fdaab286777b870800000000000000
+      internalID: 8698552494582325046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_52
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 3957
+        width: 619
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c457570526ed4f610800000000000000
+      internalID: 1654191476989850956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_53
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 3974
+        width: 622
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f32a7aabbe3f4a0800000000000000
+      internalID: -6560641045239808113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_54
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 3997
+        width: 618
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562af9b1ff4f1b320800000000000000
+      internalID: 2572106238722548325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_55
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 4013
+        width: 619
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378e599ff1984b290800000000000000
+      internalID: -7875519077939812237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_56
+      rect:
+        serializedVersion: 2
+        x: 7822
+        y: 4030
+        width: 623
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ace870d1041dc10800000000000000
+      internalID: 2076511396619536928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_57
+      rect:
+        serializedVersion: 2
+        x: 8784
+        y: 4036
+        width: 618
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6faf37b9d3ccbc0800000000000000
+      internalID: -3761563850886154526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_58
+      rect:
+        serializedVersion: 2
+        x: 9745
+        y: 4036
+        width: 619
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e259d5bf32747b0800000000000000
+      internalID: -5240180078908461428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_59
+      rect:
+        serializedVersion: 2
+        x: 10702
+        y: 4036
+        width: 623
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a4505118b397480800000000000000
+      internalID: -8901017762931586513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 3496
+        width: 618
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b3a75714d5c3cc0800000000000000
+      internalID: -3730003855644411058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 3496
+        width: 619
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a2ef926ad309610800000000000000
+      internalID: 1625867249359137400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_62
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 3496
+        width: 623
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab645b36405e06d0800000000000000
+      internalID: -3022390037345702999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_63
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 3496
+        width: 618
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ec6866e02600e70800000000000000
+      internalID: 9079364662768094807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_64
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 3496
+        width: 619
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9484fdd712e686850800000000000000
+      internalID: 6370462763040327753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_65
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 3496
+        width: 622
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f23f968f08a14640800000000000000
+      internalID: 5062512240777704183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_66
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 3496
+        width: 618
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4740769699551830800000000000000
+      internalID: 4041234743938795341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_67
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 3485
+        width: 619
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca9e2abe06a05270800000000000000
+      internalID: 8237266300644006593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_68
+      rect:
+        serializedVersion: 2
+        x: 7822
+        y: 3457
+        width: 623
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b8c1834a6625cf0800000000000000
+      internalID: -265036572559373559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_69
+      rect:
+        serializedVersion: 2
+        x: 8784
+        y: 3428
+        width: 618
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a51062501c041a0800000000000000
+      internalID: -6827244807237051786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_70
+      rect:
+        serializedVersion: 2
+        x: 9745
+        y: 3395
+        width: 619
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5677da225550bb7f0800000000000000
+      internalID: -595876662484306075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_71
+      rect:
+        serializedVersion: 2
+        x: 10702
+        y: 3372
+        width: 623
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0748331ac56615370800000000000000
+      internalID: 8309535335502808176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_72
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2810
+        width: 618
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85803b40e2b03df80800000000000000
+      internalID: -8083104613924665256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_73
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 2793
+        width: 619
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28526f017c318ee0800000000000000
+      internalID: -1260659964399953875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_74
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 2776
+        width: 624
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af5b4e4e00c22450800000000000000
+      internalID: 6062619216069746593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_75
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2765
+        width: 618
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86855119380ba0500800000000000000
+      internalID: 363296799078045800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_76
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 2759
+        width: 619
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3f920623b0fa770800000000000000
+      internalID: 8624124122427421695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_77
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 2754
+        width: 623
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc622edb2ddf67560800000000000000
+      internalID: 7311310126653253324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_78
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 2753
+        width: 618
+        height: 394
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adc89fe15a9a50e0800000000000000
+      internalID: -2280340584606937691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_79
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 2759
+        width: 619
+        height: 388
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20541ae7c4c03fb80800000000000000
+      internalID: -8362326560415333118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_80
+      rect:
+        serializedVersion: 2
+        x: 7822
+        y: 2765
+        width: 623
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab16fc51832700bd0800000000000000
+      internalID: -2666005394193686086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_81
+      rect:
+        serializedVersion: 2
+        x: 8784
+        y: 2776
+        width: 618
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92d243f895b8ce70800000000000000
+      internalID: 9135751512641950364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_82
+      rect:
+        serializedVersion: 2
+        x: 9745
+        y: 2787
+        width: 619
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd5a38442e58c6e0800000000000000
+      internalID: -1817098939720376841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_83
+      rect:
+        serializedVersion: 2
+        x: 10702
+        y: 2798
+        width: 623
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2822a20e1809705e0800000000000000
+      internalID: -1943425826701041022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_84
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2258
+        width: 618
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fba7746675a7bd90800000000000000
+      internalID: -7082009961106527245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_85
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 2258
+        width: 619
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638341622e26e4f20800000000000000
+      internalID: 3408770691407034422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_86
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 2258
+        width: 623
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdec9c621c6fc49e0800000000000000
+      internalID: -1635661255202451748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_87
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 2258
+        width: 618
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1c2676e115be4e0800000000000000
+      internalID: -1951376822509583921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_88
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 2258
+        width: 619
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13cba5d0f4b1a0200800000000000000
+      internalID: 146959964183378993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_89
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 2258
+        width: 622
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35553bbefce9a2010800000000000000
+      internalID: 1164918069478511955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_90
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 2258
+        width: 618
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bffcf6f6b723a450800000000000000
+      internalID: 6098761987171090356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_91
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 2258
+        width: 619
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e724f7f38fa0e90c0800000000000000
+      internalID: -4567200910773632386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_92
+      rect:
+        serializedVersion: 2
+        x: 7822
+        y: 2258
+        width: 623
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ab679f126f8b090800000000000000
+      internalID: -8018388510753506738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_93
+      rect:
+        serializedVersion: 2
+        x: 8784
+        y: 2258
+        width: 618
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc17a9d3f809fad0800000000000000
+      internalID: -2668091460818625332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_94
+      rect:
+        serializedVersion: 2
+        x: 9745
+        y: 2258
+        width: 619
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e105433df9d5010800000000000000
+      internalID: 1179274406905519658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_95
+      rect:
+        serializedVersion: 2
+        x: 10702
+        y: 2258
+        width: 623
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22321149ff0547a80800000000000000
+      internalID: -8470055940546026718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1718
+        width: 618
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34deb23200fbc5320800000000000000
+      internalID: 2548121496495844675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_97
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1718
+        width: 619
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193e57eb284b9e080800000000000000
+      internalID: -9157589893647047791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_98
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 1718
+        width: 623
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ce8957a7f6873820800000000000000
+      internalID: 2897933283458911944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_99
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1718
+        width: 618
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566435d21851f9370800000000000000
+      internalID: 8331401480214103653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_100
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 1718
+        width: 619
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15cca988c0ae555f0800000000000000
+      internalID: -768450821844448175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_101
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 1718
+        width: 622
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3d2d2665a6cd690800000000000000
+      internalID: -7576063553886301252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_102
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 1718
+        width: 618
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b38d775033d71e0800000000000000
+      internalID: -2198544944508421323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_103
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 1718
+        width: 619
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31677791e79f57b60800000000000000
+      internalID: 7743369454321890835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_104
+      rect:
+        serializedVersion: 2
+        x: 7822
+        y: 1718
+        width: 623
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59651826ee123580800000000000000
+      internalID: -8848976343965800101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_105
+      rect:
+        serializedVersion: 2
+        x: 8784
+        y: 1718
+        width: 618
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af88d1a40463bcde0800000000000000
+      internalID: -1311895216699111174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_106
+      rect:
+        serializedVersion: 2
+        x: 9745
+        y: 1718
+        width: 619
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa715974630f94b0800000000000000
+      internalID: -5431618895518532953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_107
+      rect:
+        serializedVersion: 2
+        x: 10702
+        y: 1718
+        width: 623
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9099f5c2480b8e50800000000000000
+      internalID: 6812547944210337947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_108
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1178
+        width: 618
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893bddb2d07682230800000000000000
+      internalID: 3614252007233008536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_109
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1178
+        width: 619
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd867e76216b51700800000000000000
+      internalID: 510514322945304799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_110
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 1178
+        width: 623
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82562ecdb11069750800000000000000
+      internalID: 6311233146987898152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_111
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 1178
+        width: 618
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7af545802a3deaf0800000000000000
+      internalID: -365572083397821830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_112
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 1178
+        width: 619
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843f833e46c6daff0800000000000000
+      internalID: -23243242502294712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_113
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 1178
+        width: 622
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 335a8ce5852f50ac0800000000000000
+      internalID: -3889436241803303629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_114
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 1178
+        width: 618
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d559902016259f5a0800000000000000
+      internalID: -6487063211651000995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_115
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 1178
+        width: 619
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684a6f9d83d3a5200800000000000000
+      internalID: 169515250364097670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_116
+      rect:
+        serializedVersion: 2
+        x: 7822
+        y: 1178
+        width: 623
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9110f93a1ab871150800000000000000
+      internalID: 5843292567887610137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_117
+      rect:
+        serializedVersion: 2
+        x: 8784
+        y: 1178
+        width: 618
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1624fc599fe265490800000000000000
+      internalID: -7757961658603978143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_118
+      rect:
+        serializedVersion: 2
+        x: 9745
+        y: 1178
+        width: 619
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5e047407a1396f0800000000000000
+      internalID: -679170049268718153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_119
+      rect:
+        serializedVersion: 2
+        x: 10702
+        y: 1178
+        width: 623
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb0aa33d39f2f030800000000000000
+      internalID: 3527155499439623157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_120
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 638
+        width: 618
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c740b2aa6ca4670800000000000000
+      internalID: 8523843678920539290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_121
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 639
+        width: 619
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737fab293985f6da0800000000000000
+      internalID: -5949439191887972553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_122
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 644
+        width: 623
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d526c96ed1b650610800000000000000
+      internalID: 1586792219885199965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_123
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 644
+        width: 618
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd2daade153a0040800000000000000
+      internalID: 4614559174828568060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_124
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 650
+        width: 619
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ddfe3d33813acf0800000000000000
+      internalID: -242323344069763741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_125
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 655
+        width: 622
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7bb4157720f65e70800000000000000
+      internalID: 9103727749034720122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_126
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 667
+        width: 618
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38745a5a72f9f56c0800000000000000
+      internalID: -4152425338780694653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_127
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 672
+        width: 619
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89b9f678ad3ca040800000000000000
+      internalID: 4660167508181498251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_128
+      rect:
+        serializedVersion: 2
+        x: 7822
+        y: 678
+        width: 623
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eafca4d93f2ae4b0800000000000000
+      internalID: -5410460076904482075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_129
+      rect:
+        serializedVersion: 2
+        x: 8784
+        y: 689
+        width: 618
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e893fbed80f69340800000000000000
+      internalID: 4870344539387435232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_130
+      rect:
+        serializedVersion: 2
+        x: 9745
+        y: 700
+        width: 619
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001956c42ba33f220800000000000000
+      internalID: 2518421154090553600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_131
+      rect:
+        serializedVersion: 2
+        x: 10702
+        y: 706
+        width: 623
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131b4ae22a94583d0800000000000000
+      internalID: -3205074598888165071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_132
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 177
+        width: 618
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2ec409a00385950800000000000000
+      internalID: 6437948489254888166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_133
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 188
+        width: 619
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a83f313eee83c390800000000000000
+      internalID: -7799232975995979613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_134
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 194
+        width: 623
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f14cbf9f04c7de90800000000000000
+      internalID: -7000911524340678155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_135
+      rect:
+        serializedVersion: 2
+        x: 3024
+        y: 205
+        width: 618
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e3972463c30d3a0800000000000000
+      internalID: -6642743246630338989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_136
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 217
+        width: 619
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bac322ba6ed9dd0800000000000000
+      internalID: -2477570597295707259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_137
+      rect:
+        serializedVersion: 2
+        x: 4943
+        y: 222
+        width: 622
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c757d6568483965a0800000000000000
+      internalID: -6527624301306350212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_138
+      rect:
+        serializedVersion: 2
+        x: 5904
+        y: 233
+        width: 618
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e898c1b67831a690800000000000000
+      internalID: -7592725414329935643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_139
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 239
+        width: 619
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d712959733ac030c0800000000000000
+      internalID: -4597952897117249155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_140
+      rect:
+        serializedVersion: 2
+        x: 7822
+        y: 245
+        width: 623
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d94646af5bcbd010800000000000000
+      internalID: 1214788136178436567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_141
+      rect:
+        serializedVersion: 2
+        x: 8784
+        y: 250
+        width: 618
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975335377bdb10980800000000000000
+      internalID: -8574363619925215879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_142
+      rect:
+        serializedVersion: 2
+        x: 9745
+        y: 256
+        width: 619
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76534b74c8ff14010800000000000000
+      internalID: 1171498356056536423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Puffersprite sheet_143
+      rect:
+        serializedVersion: 2
+        x: 10702
+        y: 256
+        width: 623
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a46c6390880a4480800000000000000
+      internalID: -8914303164104285017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

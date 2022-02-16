@@ -1,0 +1,1836 @@
+fileFormatVersion: 2
+guid: f5a6a7883c65e124994fd441f861e9dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6482836113048796188
+    second: dogfish-redo_0
+  - first:
+      213: -5974751394055837644
+    second: dogfish-redo_1
+  - first:
+      213: 7026177276596001313
+    second: dogfish-redo_2
+  - first:
+      213: -6905592706350810873
+    second: dogfish-redo_3
+  - first:
+      213: -8619823973994393126
+    second: dogfish-redo_4
+  - first:
+      213: -6998108410402340882
+    second: dogfish-redo_5
+  - first:
+      213: 4583999055281942881
+    second: dogfish-redo_6
+  - first:
+      213: 8686799786567159186
+    second: dogfish-redo_7
+  - first:
+      213: 3479468976984417033
+    second: dogfish-redo_8
+  - first:
+      213: 710071504821092286
+    second: dogfish-redo_9
+  - first:
+      213: -7093283927754004469
+    second: dogfish-redo_10
+  - first:
+      213: 7844497229113426127
+    second: dogfish-redo_11
+  - first:
+      213: -2545094375208756140
+    second: dogfish-redo_12
+  - first:
+      213: -4672056268133036620
+    second: dogfish-redo_13
+  - first:
+      213: -854742535770707777
+    second: dogfish-redo_14
+  - first:
+      213: -5632001735414510241
+    second: dogfish-redo_15
+  - first:
+      213: 5935904132948685646
+    second: dogfish-redo_16
+  - first:
+      213: -3482238418593517503
+    second: dogfish-redo_17
+  - first:
+      213: 7260791798125444938
+    second: dogfish-redo_18
+  - first:
+      213: 5367371361990501900
+    second: dogfish-redo_19
+  - first:
+      213: 5286533481773882798
+    second: dogfish-redo_20
+  - first:
+      213: 1694068762521745594
+    second: dogfish-redo_21
+  - first:
+      213: 5503570219325559260
+    second: dogfish-redo_22
+  - first:
+      213: 5014476961164467528
+    second: dogfish-redo_23
+  - first:
+      213: -1132444243967515986
+    second: dogfish-redo_24
+  - first:
+      213: -1084066682310567392
+    second: dogfish-redo_25
+  - first:
+      213: 3544391074055437923
+    second: dogfish-redo_26
+  - first:
+      213: -3366791177845156284
+    second: dogfish-redo_27
+  - first:
+      213: 8865381816795044003
+    second: dogfish-redo_28
+  - first:
+      213: 3743152421082855351
+    second: dogfish-redo_29
+  - first:
+      213: 6036159947521506087
+    second: dogfish-redo_30
+  - first:
+      213: 1809205101782882985
+    second: dogfish-redo_31
+  - first:
+      213: -8885632775529126369
+    second: dogfish-redo_32
+  - first:
+      213: 4261013035707370595
+    second: dogfish-redo_33
+  - first:
+      213: -7932788180639066737
+    second: dogfish-redo_34
+  - first:
+      213: 3699786461102929827
+    second: dogfish-redo_35
+  - first:
+      213: 359147237738050757
+    second: dogfish-redo_36
+  - first:
+      213: 8469594845872823792
+    second: dogfish-redo_37
+  - first:
+      213: 4126556758354447834
+    second: dogfish-redo_38
+  - first:
+      213: -5016415146201008856
+    second: dogfish-redo_39
+  - first:
+      213: 1918272818741477509
+    second: dogfish-redo_40
+  - first:
+      213: 8322349537454001713
+    second: dogfish-redo_41
+  - first:
+      213: 8248855407336257320
+    second: dogfish-redo_42
+  - first:
+      213: -4787350666008088146
+    second: dogfish-redo_43
+  - first:
+      213: 3598530511119604393
+    second: dogfish-redo_44
+  - first:
+      213: -3836237709517716569
+    second: dogfish-redo_45
+  - first:
+      213: 7978838599020780225
+    second: dogfish-redo_46
+  - first:
+      213: 8375652629014146317
+    second: dogfish-redo_47
+  - first:
+      213: -2121915466200358051
+    second: dogfish-redo_48
+  - first:
+      213: 197383154056962443
+    second: dogfish-redo_49
+  - first:
+      213: -1027468579433344088
+    second: dogfish-redo_50
+  - first:
+      213: 7687847990841376926
+    second: dogfish-redo_51
+  - first:
+      213: -5544814104931786748
+    second: dogfish-redo_52
+  - first:
+      213: -8701181559929628101
+    second: dogfish-redo_53
+  - first:
+      213: -3552173832066574320
+    second: dogfish-redo_54
+  - first:
+      213: -1263889832775506009
+    second: dogfish-redo_55
+  - first:
+      213: 915004504951329775
+    second: dogfish-redo_56
+  - first:
+      213: -6504475968811507826
+    second: dogfish-redo_57
+  - first:
+      213: 5322155199250446478
+    second: dogfish-redo_58
+  - first:
+      213: -5519535169669358290
+    second: dogfish-redo_59
+  - first:
+      213: 542128968473448075
+    second: dogfish-redo_60
+  - first:
+      213: 4171088429495441045
+    second: dogfish-redo_61
+  - first:
+      213: 1209740586611502464
+    second: dogfish-redo_62
+  - first:
+      213: 7471919806265296657
+    second: dogfish-redo_63
+  - first:
+      213: -7022393536839464929
+    second: dogfish-redo_64
+  - first:
+      213: -6395352799524660459
+    second: dogfish-redo_65
+  - first:
+      213: 5467307281678550031
+    second: dogfish-redo_66
+  - first:
+      213: 5092764495315172572
+    second: dogfish-redo_67
+  - first:
+      213: 5884935067021177877
+    second: dogfish-redo_68
+  - first:
+      213: -2458113718603124663
+    second: dogfish-redo_69
+  - first:
+      213: -4877689344337741326
+    second: dogfish-redo_70
+  - first:
+      213: -8163888533677081398
+    second: dogfish-redo_71
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dogfish-redo_0
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3036
+        width: 554
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e307a817e65806a0800000000000000
+      internalID: -6482836113048796188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_1
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 3035
+        width: 555
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4382800434b651da0800000000000000
+      internalID: -5974751394055837644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_2
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 3035
+        width: 554
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a1d6cb10ff18160800000000000000
+      internalID: 7026177276596001313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_3
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 3035
+        width: 554
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7097e6e55086a20a0800000000000000
+      internalID: -6905592706350810873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_4
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 3035
+        width: 553
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad11ba3f3cb306880800000000000000
+      internalID: -8619823973994393126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_5
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 3034
+        width: 556
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef7b427a79b1ee90800000000000000
+      internalID: -6998108410402340882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_6
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2759
+        width: 554
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1617ecc8ad2ad9f30800000000000000
+      internalID: 4583999055281942881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_7
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2758
+        width: 553
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d46499166bd8870800000000000000
+      internalID: 8686799786567159186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_8
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 2758
+        width: 555
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903e52c799e894030800000000000000
+      internalID: 3479468976984417033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_9
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2756
+        width: 553
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebffcf1854eaad900800000000000000
+      internalID: 710071504821092286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_10
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 2756
+        width: 554
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b082c3b79d79f8d90800000000000000
+      internalID: -7093283927754004469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_11
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 2753
+        width: 552
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc087defaa04ddc60800000000000000
+      internalID: 7844497229113426127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2479
+        width: 550
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c56d576220eacd0800000000000000
+      internalID: -2545094375208756140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_13
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2477
+        width: 551
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd0b47e395892fb0800000000000000
+      internalID: -4672056268133036620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_14
+      rect:
+        serializedVersion: 2
+        x: 1238
+        y: 2478
+        width: 550
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb868fc31385324f0800000000000000
+      internalID: -854742535770707777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_15
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2478
+        width: 546
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d0c32e24c17d1b0800000000000000
+      internalID: -5632001735414510241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_16
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 2477
+        width: 547
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43fd21fb51906250800000000000000
+      internalID: 5935904132948685646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_17
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 2477
+        width: 544
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 140f384ab9a9cafc0800000000000000
+      internalID: -3482238418593517503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_18
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2202
+        width: 541
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f365bcba383c460800000000000000
+      internalID: 7260791798125444938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_19
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 2201
+        width: 542
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c066c01f0dbbc7a40800000000000000
+      internalID: 5367371361990501900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_20
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 2201
+        width: 539
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead5752413a8d5940800000000000000
+      internalID: 5286533481773882798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_21
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2200
+        width: 536
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8b13f509a828710800000000000000
+      internalID: 1694068762521745594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_22
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 2200
+        width: 533
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1915f84fb906c40800000000000000
+      internalID: 5503570219325559260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_23
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 2201
+        width: 531
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d96947a30079540800000000000000
+      internalID: 5014476961164467528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_24
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1926
+        width: 529
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea26166c5ffb840f0800000000000000
+      internalID: -1132444243967515986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_25
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1926
+        width: 526
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ada08981f94f0f0800000000000000
+      internalID: -1084066682310567392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_26
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1926
+        width: 522
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eb32227e4303130800000000000000
+      internalID: 3544391074055437923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_27
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1926
+        width: 523
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446de930341c641d0800000000000000
+      internalID: -3366791177845156284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_28
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 1927
+        width: 521
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a89644aac9280b70800000000000000
+      internalID: 8865381816795044003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_29
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 1927
+        width: 517
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b779ce7b4952f330800000000000000
+      internalID: 3743152421082855351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1652
+        width: 516
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bb577cd7fb4c350800000000000000
+      internalID: 6036159947521506087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_31
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1652
+        width: 514
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aad79954769b1910800000000000000
+      internalID: 1809205101782882985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_32
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1653
+        width: 513
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16a40a9114efa480800000000000000
+      internalID: -8885632775529126369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_33
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1654
+        width: 511
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c85a8b7c8222b30800000000000000
+      internalID: 4261013035707370595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_34
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 1654
+        width: 512
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85579eed2319e190800000000000000
+      internalID: -7932788180639066737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_35
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 1654
+        width: 511
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7f6de1f28485330800000000000000
+      internalID: 3699786461102929827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_36
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1379
+        width: 509
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c470778282fbf400800000000000000
+      internalID: 359147237738050757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_37
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1378
+        width: 512
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fd9ab373ab0a8570800000000000000
+      internalID: 8469594845872823792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_38
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 1378
+        width: 511
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add443f1289744930800000000000000
+      internalID: 4126556758354447834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_39
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1378
+        width: 511
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825bccca00d126ab0800000000000000
+      internalID: -5016415146201008856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_40
+      rect:
+        serializedVersion: 2
+        x: 2445
+        y: 1378
+        width: 513
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5808f5717f21f9a10800000000000000
+      internalID: 1918272818741477509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_41
+      rect:
+        serializedVersion: 2
+        x: 3046
+        y: 1378
+        width: 513
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e05948fccee7370800000000000000
+      internalID: 8322349537454001713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_42
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1102
+        width: 515
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82776d5e942d97270800000000000000
+      internalID: 8248855407336257320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_43
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1102
+        width: 518
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1bb590fe9ef8db0800000000000000
+      internalID: -4787350666008088146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_44
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 1102
+        width: 518
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa50bc1f6c80f130800000000000000
+      internalID: 3598530511119604393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_45
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 1101
+        width: 523
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a30d32e022f2cac0800000000000000
+      internalID: -3836237709517716569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_46
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 1101
+        width: 522
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca1fce9e678abe60800000000000000
+      internalID: 7978838599020780225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_47
+      rect:
+        serializedVersion: 2
+        x: 3041
+        y: 1101
+        width: 527
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d6472a0bb4c3470800000000000000
+      internalID: 8375652629014146317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_48
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 825
+        width: 528
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5368b930217d82e0800000000000000
+      internalID: -2121915466200358051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_49
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 825
+        width: 530
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81263eceee3db200800000000000000
+      internalID: 197383154056962443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_50
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 825
+        width: 533
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3100155c2bdb1f0800000000000000
+      internalID: -1027468579433344088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_51
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 826
+        width: 535
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e900d450409b0ba60800000000000000
+      internalID: 7687847990841376926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_52
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 826
+        width: 537
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40027f103fcdc03b0800000000000000
+      internalID: -5544814104931786748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_53
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 826
+        width: 541
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a173ad8713f3780800000000000000
+      internalID: -8701181559929628101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_54
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 551
+        width: 542
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018db3f48b424bec0800000000000000
+      internalID: -3552173832066574320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_55
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 552
+        width: 543
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7203ab4e2c57ee0800000000000000
+      internalID: -1263889832775506009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_56
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 553
+        width: 547
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe39185dfbfb2bc00800000000000000
+      internalID: 915004504951329775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_57
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 553
+        width: 548
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fdcec81957bb5a0800000000000000
+      internalID: -6504475968811507826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_58
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 554
+        width: 551
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8832daa4f71cd940800000000000000
+      internalID: 5322155199250446478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_59
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 555
+        width: 551
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d1596c10ca663b0800000000000000
+      internalID: -5519535169669358290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_60
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 280
+        width: 551
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e0f4cac67068700800000000000000
+      internalID: 542128968473448075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 281
+        width: 553
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59651d6c3dea2e930800000000000000
+      internalID: 4171088429495441045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_62
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 282
+        width: 554
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08de95f67acd9c010800000000000000
+      internalID: 1209740586611502464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_63
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 282
+        width: 554
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11706a2d97791b760800000000000000
+      internalID: 7471919806265296657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_64
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 283
+        width: 553
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f184fa3d8427b8e90800000000000000
+      internalID: -7022393536839464929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_65
+      rect:
+        serializedVersion: 2
+        x: 3039
+        y: 284
+        width: 556
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b580b43842f37a0800000000000000
+      internalID: -6395352799524660459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_66
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 9
+        width: 556
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f044b527107cfdb40800000000000000
+      internalID: 5467307281678550031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_67
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 9
+        width: 553
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdc7bfb63522da640800000000000000
+      internalID: 5092764495315172572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_68
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 10
+        width: 555
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5147904834d7ba150800000000000000
+      internalID: 5884935067021177877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_69
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 10
+        width: 554
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9407529b89603edd0800000000000000
+      internalID: -2458113718603124663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_70
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 11
+        width: 554
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f97a0a6267fe4cb0800000000000000
+      internalID: -4877689344337741326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dogfish-redo_71
+      rect:
+        serializedVersion: 2
+        x: 3042
+        y: 11
+        width: 554
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accfa4cf1aa04be80800000000000000
+      internalID: -8163888533677081398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
