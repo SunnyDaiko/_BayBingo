@@ -12,14 +12,14 @@ public class HueCycle : MonoBehaviour
     public float Speed = 0f;
     private int index;
     private float changer;
-    [SerializeField]
+    /*[SerializeField]
     public float m_Hue;
     [SerializeField]
     public float m_Saturation;
     [SerializeField]
     public float m_Value;
     public Slider m_SliderHue, m_SliderSaturation, m_SliderValue;
-
+    */
     void Start()
     {
         //grabs sprite renderer from image
@@ -27,13 +27,13 @@ public class HueCycle : MonoBehaviour
         //int Num = Random.Range(0, 255);
 
         //maximum and minimum values for the Sliders
-        m_SliderHue.maxValue = 1;
+        /*m_SliderHue.maxValue = 1;
         m_SliderSaturation.maxValue = 1;
         m_SliderValue.maxValue = 1;
 
         m_SliderHue.minValue = 0;
         m_SliderSaturation.minValue = 0;
-        m_SliderValue.minValue = 0;
+        m_SliderValue.minValue = 0;*/
     }
 
     // Update is called once per frame
@@ -61,13 +61,13 @@ public class HueCycle : MonoBehaviour
 
         //These are the Sliders that determine the amount of the hue, saturation and value in the Color
         //This didn't do anything
-        m_Hue = m_SliderHue.value;
+       /* m_Hue = m_SliderHue.value;
         m_Saturation = m_SliderSaturation.value;
         m_Value = m_SliderValue.value;
 
         //Create an RGB color from the HSV values from the Sliders
         //Change the Color of your GameObject to the new Color
-        sprite.material.color = Color.HSVToRGB(m_Hue, m_Saturation, m_Value);
+        sprite.material.color = Color.HSVToRGB(m_Hue, m_Saturation, m_Value);*/
     }
 
 }
