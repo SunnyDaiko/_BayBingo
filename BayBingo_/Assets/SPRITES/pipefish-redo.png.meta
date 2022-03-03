@@ -1,7 +1,295 @@
 fileFormatVersion: 2
 guid: 2b24d170c5cc72c4cb0f81465e6af6f5
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4436030172541047233
+    second: pipefish-redo_0
+  - first:
+      213: -5996913443389079407
+    second: pipefish-redo_1
+  - first:
+      213: 7016605200628477188
+    second: pipefish-redo_2
+  - first:
+      213: -7890410503477303760
+    second: pipefish-redo_3
+  - first:
+      213: 2235500399812072994
+    second: pipefish-redo_4
+  - first:
+      213: 3051193104868923028
+    second: pipefish-redo_5
+  - first:
+      213: 388716706687732735
+    second: pipefish-redo_6
+  - first:
+      213: 2553994247919811706
+    second: pipefish-redo_7
+  - first:
+      213: -3798596374032932060
+    second: pipefish-redo_8
+  - first:
+      213: -6168807985886854673
+    second: pipefish-redo_9
+  - first:
+      213: -2734589904450793822
+    second: pipefish-redo_10
+  - first:
+      213: -7264998144206029489
+    second: pipefish-redo_11
+  - first:
+      213: 1392086487123887529
+    second: pipefish-redo_12
+  - first:
+      213: -4480207600549567443
+    second: pipefish-redo_13
+  - first:
+      213: -4404745564531608804
+    second: pipefish-redo_14
+  - first:
+      213: -9028000880337559432
+    second: pipefish-redo_15
+  - first:
+      213: -6637571702306327300
+    second: pipefish-redo_16
+  - first:
+      213: 2826734850841023550
+    second: pipefish-redo_17
+  - first:
+      213: -1343152440334209302
+    second: pipefish-redo_18
+  - first:
+      213: 5723121550133439393
+    second: pipefish-redo_19
+  - first:
+      213: -6139697183056487867
+    second: pipefish-redo_20
+  - first:
+      213: 3879642837322651856
+    second: pipefish-redo_21
+  - first:
+      213: -8275899008891050350
+    second: pipefish-redo_22
+  - first:
+      213: -6437082138067346960
+    second: pipefish-redo_23
+  - first:
+      213: -3829877774521891193
+    second: pipefish-redo_24
+  - first:
+      213: 401584106426744104
+    second: pipefish-redo_25
+  - first:
+      213: -7415638278114758689
+    second: pipefish-redo_26
+  - first:
+      213: 8843168480859082321
+    second: pipefish-redo_27
+  - first:
+      213: 6401808470219855312
+    second: pipefish-redo_28
+  - first:
+      213: 3962230134273896998
+    second: pipefish-redo_29
+  - first:
+      213: 6804465297057548845
+    second: pipefish-redo_30
+  - first:
+      213: 8476970349982743302
+    second: pipefish-redo_31
+  - first:
+      213: -5061231625985193077
+    second: pipefish-redo_32
+  - first:
+      213: -6775818722915885349
+    second: pipefish-redo_33
+  - first:
+      213: 7000922933397082487
+    second: pipefish-redo_34
+  - first:
+      213: -5526200531711134904
+    second: pipefish-redo_35
+  - first:
+      213: 2583215079992805733
+    second: pipefish-redo_36
+  - first:
+      213: 3043695796369718803
+    second: pipefish-redo_37
+  - first:
+      213: -5790204833246425832
+    second: pipefish-redo_38
+  - first:
+      213: -8236667909191882023
+    second: pipefish-redo_39
+  - first:
+      213: -8105751568183707875
+    second: pipefish-redo_40
+  - first:
+      213: -36570504837177669
+    second: pipefish-redo_41
+  - first:
+      213: -3894354661390263001
+    second: pipefish-redo_42
+  - first:
+      213: 8605589240539835899
+    second: pipefish-redo_43
+  - first:
+      213: 6735266662209394389
+    second: pipefish-redo_44
+  - first:
+      213: 479314567056589750
+    second: pipefish-redo_45
+  - first:
+      213: 5167521262205109626
+    second: pipefish-redo_46
+  - first:
+      213: 1443919403582779499
+    second: pipefish-redo_47
+  - first:
+      213: -6122009363468695348
+    second: pipefish-redo_48
+  - first:
+      213: 3429925166247719382
+    second: pipefish-redo_49
+  - first:
+      213: -7086634048658558265
+    second: pipefish-redo_50
+  - first:
+      213: 4033883595538261617
+    second: pipefish-redo_51
+  - first:
+      213: -576373806872813843
+    second: pipefish-redo_52
+  - first:
+      213: -3210380599588406136
+    second: pipefish-redo_53
+  - first:
+      213: -3689104420714880035
+    second: pipefish-redo_54
+  - first:
+      213: -2756933358166958504
+    second: pipefish-redo_55
+  - first:
+      213: -6770615277989739300
+    second: pipefish-redo_56
+  - first:
+      213: -2842606479720731077
+    second: pipefish-redo_57
+  - first:
+      213: 384337101763123656
+    second: pipefish-redo_58
+  - first:
+      213: -6358258547597536875
+    second: pipefish-redo_59
+  - first:
+      213: -2519767027706285864
+    second: pipefish-redo_60
+  - first:
+      213: -8494464983651019555
+    second: pipefish-redo_61
+  - first:
+      213: -4608618078624481449
+    second: pipefish-redo_62
+  - first:
+      213: -1523212583110725407
+    second: pipefish-redo_63
+  - first:
+      213: 7524629626085507803
+    second: pipefish-redo_64
+  - first:
+      213: -1997899100788079535
+    second: pipefish-redo_65
+  - first:
+      213: -5945303065784675464
+    second: pipefish-redo_66
+  - first:
+      213: 8368199424199234656
+    second: pipefish-redo_67
+  - first:
+      213: -1820216985121536694
+    second: pipefish-redo_68
+  - first:
+      213: -6451284310198162777
+    second: pipefish-redo_69
+  - first:
+      213: 1846971230028217990
+    second: pipefish-redo_70
+  - first:
+      213: 8883425190066437503
+    second: pipefish-redo_71
+  - first:
+      213: 6010802389001571724
+    second: pipefish-redo_72
+  - first:
+      213: -7601979099167812790
+    second: pipefish-redo_73
+  - first:
+      213: 1332435028196202703
+    second: pipefish-redo_74
+  - first:
+      213: 2803297026909629571
+    second: pipefish-redo_75
+  - first:
+      213: -6431038425536036957
+    second: pipefish-redo_76
+  - first:
+      213: -111327557028562896
+    second: pipefish-redo_77
+  - first:
+      213: 653092648483622028
+    second: pipefish-redo_78
+  - first:
+      213: 1403898389739202150
+    second: pipefish-redo_79
+  - first:
+      213: -4095733109918518450
+    second: pipefish-redo_80
+  - first:
+      213: -5992041103841084619
+    second: pipefish-redo_81
+  - first:
+      213: -4866477467687614821
+    second: pipefish-redo_82
+  - first:
+      213: 8327795415027786369
+    second: pipefish-redo_83
+  - first:
+      213: 5688019236146803404
+    second: pipefish-redo_84
+  - first:
+      213: -7511503654544746996
+    second: pipefish-redo_85
+  - first:
+      213: 5770952725641523922
+    second: pipefish-redo_86
+  - first:
+      213: -6068952941128112749
+    second: pipefish-redo_87
+  - first:
+      213: -8817265080945351894
+    second: pipefish-redo_88
+  - first:
+      213: 632516231645785598
+    second: pipefish-redo_89
+  - first:
+      213: 7271942369646937584
+    second: pipefish-redo_90
+  - first:
+      213: 8703206306257519233
+    second: pipefish-redo_91
+  - first:
+      213: 4459820388854472178
+    second: pipefish-redo_92
+  - first:
+      213: 657004626676696714
+    second: pipefish-redo_93
+  - first:
+      213: -4382739446240728433
+    second: pipefish-redo_94
+  - first:
+      213: -6411367464055850656
+    second: pipefish-redo_95
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +329,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +363,2037 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: pipefish-redo_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 3085
+        width: 413
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1593750f1ff8d30800000000000000
+      internalID: 4436030172541047233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_1
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3086
+        width: 412
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190870a0ffea6cca0800000000000000
+      internalID: -5996913443389079407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_2
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 3086
+        width: 412
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d6e90214dff5160800000000000000
+      internalID: 7016605200628477188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_3
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 3086
+        width: 413
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0366938c371af7290800000000000000
+      internalID: -7890410503477303760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_4
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 3088
+        width: 413
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226da0af4c7160f10800000000000000
+      internalID: 2235500399812072994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_5
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 3088
+        width: 412
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49655d486f3085a20800000000000000
+      internalID: 3051193104868923028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_6
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 3090
+        width: 413
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbc16409cff46500800000000000000
+      internalID: 388716706687732735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_7
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 3093
+        width: 414
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7cb6a1ac3c917320800000000000000
+      internalID: 2553994247919811706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_8
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2824
+        width: 413
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4232ea049bca84bc0800000000000000
+      internalID: -3798596374032932060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_9
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 2823
+        width: 412
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe10f9112ddf36aa0800000000000000
+      internalID: -6168807985886854673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_10
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2823
+        width: 412
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae47da68f8cc0ad0800000000000000
+      internalID: -2734589904450793822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_11
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 2823
+        width: 412
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d3ab0fdaa8d2b90800000000000000
+      internalID: -7264998144206029489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_12
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 2820
+        width: 414
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a504a1d84fa15310800000000000000
+      internalID: 1392086487123887529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_13
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 2818
+        width: 414
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24ec39acea13d1c0800000000000000
+      internalID: -4480207600549567443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_14
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 2814
+        width: 414
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13bd141f333fd2c0800000000000000
+      internalID: -4404745564531608804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_15
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 2816
+        width: 412
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870e09f180916b280800000000000000
+      internalID: -9028000880337559432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2545
+        width: 413
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4b8d044bb92e3a0800000000000000
+      internalID: -6637571702306327300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_17
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 2541
+        width: 412
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e349892ce549a3720800000000000000
+      internalID: 2826734850841023550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_18
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 2539
+        width: 412
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee2eaac8f92c5de0800000000000000
+      internalID: -1343152440334209302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_19
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 2539
+        width: 411
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab261a3abc9c6f40800000000000000
+      internalID: 5723121550133439393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_20
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 2538
+        width: 411
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a937701f96bcaa0800000000000000
+      internalID: -6139697183056487867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_21
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 2536
+        width: 410
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d85106fa9247d530800000000000000
+      internalID: 3879642837322651856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_22
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 2533
+        width: 410
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296aa02f2b9162d80800000000000000
+      internalID: -8275899008891050350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_23
+      rect:
+        serializedVersion: 2
+        x: 3390
+        y: 2531
+        width: 407
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9db7a86e3eaa6a0800000000000000
+      internalID: -6437082138067346960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2259
+        width: 407
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7868574a47a89dac0800000000000000
+      internalID: -3829877774521891193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_25
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 2260
+        width: 410
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d320bfd96b29500800000000000000
+      internalID: 401584106426744104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_26
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2260
+        width: 411
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf2e2a964c561990800000000000000
+      internalID: -7415638278114758689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_27
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 2256
+        width: 409
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e498651ee39ba70800000000000000
+      internalID: 8843168480859082321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_28
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 2254
+        width: 409
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d59a8ba2eac7d850800000000000000
+      internalID: 6401808470219855312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_29
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 2254
+        width: 411
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6227eb7705bacf630800000000000000
+      internalID: 3962230134273896998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_30
+      rect:
+        serializedVersion: 2
+        x: 2908
+        y: 2254
+        width: 411
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a8695d2215e6e50800000000000000
+      internalID: 6804465297057548845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_31
+      rect:
+        serializedVersion: 2
+        x: 3388
+        y: 2253
+        width: 409
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b7d32de9f34a570800000000000000
+      internalID: 8476970349982743302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1980
+        width: 409
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b0e27d6a4e2c9b0800000000000000
+      internalID: -5061231625985193077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_33
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1983
+        width: 411
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde582675c477f1a0800000000000000
+      internalID: -6775818722915885349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_34
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1984
+        width: 409
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771d401c056482160800000000000000
+      internalID: 7000922933397082487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_35
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1984
+        width: 406
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84378cd35edfe43b0800000000000000
+      internalID: -5526200531711134904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_36
+      rect:
+        serializedVersion: 2
+        x: 1948
+        y: 1984
+        width: 409
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5694765cd6c69d320800000000000000
+      internalID: 2583215079992805733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_37
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 1986
+        width: 410
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e77fa53316d3a20800000000000000
+      internalID: 3043695796369718803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_38
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 1988
+        width: 411
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dc899c16f05afa0800000000000000
+      internalID: -5790204833246425832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_39
+      rect:
+        serializedVersion: 2
+        x: 3386
+        y: 1990
+        width: 411
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da22c32d2a71bd80800000000000000
+      internalID: -8236667909191882023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_40
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1721
+        width: 408
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1738d415e5928f80800000000000000
+      internalID: -8105751568183707875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_41
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1720
+        width: 413
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe5ce1d1531e7ff0800000000000000
+      internalID: -36570504837177669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_42
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1721
+        width: 409
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d5272911974f9c0800000000000000
+      internalID: -3894354661390263001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_43
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 1723
+        width: 410
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdec45e1d13d6770800000000000000
+      internalID: 8605589240539835899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_44
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 1725
+        width: 407
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d695842859787d50800000000000000
+      internalID: 6735266662209394389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_45
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 1728
+        width: 410
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b304192f0ed6a600800000000000000
+      internalID: 479314567056589750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_46
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 1729
+        width: 411
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7583039539b6b740800000000000000
+      internalID: 5167521262205109626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_47
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 1728
+        width: 410
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6078de1c05d90410800000000000000
+      internalID: 1443919403582779499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_48
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1459
+        width: 407
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc845d27be04a0ba0800000000000000
+      internalID: -6122009363468695348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_49
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1461
+        width: 412
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d13e5424ca899f20800000000000000
+      internalID: 3429925166247719382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_50
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1465
+        width: 409
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2b48c11e737ad90800000000000000
+      internalID: -7086634048658558265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_51
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1465
+        width: 410
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1766559f1cb3bf730800000000000000
+      internalID: 4033883595538261617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_52
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1463
+        width: 409
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee918f831f4008f0800000000000000
+      internalID: -576373806872813843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_53
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 1463
+        width: 409
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88c3abf9adf6273d0800000000000000
+      internalID: -3210380599588406136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_54
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 1461
+        width: 409
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd367f7331badccc0800000000000000
+      internalID: -3689104420714880035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_55
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 1461
+        width: 409
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e9805b7b76db9d0800000000000000
+      internalID: -2756933358166958504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_56
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1191
+        width: 407
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4c694e641f902a0800000000000000
+      internalID: -6770615277989739300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_57
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1191
+        width: 408
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ea50ca7780d88d0800000000000000
+      internalID: -2842606479720731077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_58
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1189
+        width: 408
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c91898ce80755500800000000000000
+      internalID: 384337101763123656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_59
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1189
+        width: 412
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5919b58d98de2c7a0800000000000000
+      internalID: -6358258547597536875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_60
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1189
+        width: 412
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d033d41d3df70dd0800000000000000
+      internalID: -2519767027706285864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_61
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 1189
+        width: 412
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd49c7c5a199d1a80800000000000000
+      internalID: -8494464983651019555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_62
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 1189
+        width: 412
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ff4266646ea00c0800000000000000
+      internalID: -4608618078624481449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_63
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 1189
+        width: 413
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0b74ad9367cdae0800000000000000
+      internalID: -1523212583110725407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_64
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 921
+        width: 413
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2053917cadc6860800000000000000
+      internalID: 7524629626085507803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_65
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 921
+        width: 413
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15444786a590644e0800000000000000
+      internalID: -1997899100788079535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_66
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 921
+        width: 412
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8731dd97c5a0e7da0800000000000000
+      internalID: -5945303065784675464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_67
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 921
+        width: 414
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06416092a01d12470800000000000000
+      internalID: 8368199424199234656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_68
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 921
+        width: 414
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45c2b3cb4a4db6e0800000000000000
+      internalID: -1820216985121536694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_69
+      rect:
+        serializedVersion: 2
+        x: 2425
+        y: 921
+        width: 412
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa6699a91f6876a0800000000000000
+      internalID: -6451284310198162777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_70
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 923
+        width: 412
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68eb23c4c82c1a910800000000000000
+      internalID: 1846971230028217990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_71
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 924
+        width: 414
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7dbaaad424484b70800000000000000
+      internalID: 8883425190066437503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_72
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 655
+        width: 413
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d028b1de8aa6350800000000000000
+      internalID: 6010802389001571724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_73
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 655
+        width: 411
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a43982c4948508690800000000000000
+      internalID: -7601979099167812790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_74
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 655
+        width: 412
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc81ced3992cd7210800000000000000
+      internalID: 1332435028196202703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_75
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 655
+        width: 414
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c6bd02bcf47e620800000000000000
+      internalID: 2803297026909629571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_76
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 655
+        width: 415
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af790500ac50c6a0800000000000000
+      internalID: -6431038425536036957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_77
+      rect:
+        serializedVersion: 2
+        x: 2424
+        y: 655
+        width: 415
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038b99d3d2c747ef0800000000000000
+      internalID: -111327557028562896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_78
+      rect:
+        serializedVersion: 2
+        x: 2905
+        y: 655
+        width: 414
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c0946bd40401900800000000000000
+      internalID: 653092648483622028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_79
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 655
+        width: 413
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666e525b526ab7310800000000000000
+      internalID: 1403898389739202150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_80
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 386
+        width: 415
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e433088cf680927c0800000000000000
+      internalID: -4095733109918518450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_81
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 386
+        width: 412
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b330efc5ef7dca0800000000000000
+      internalID: -5992041103841084619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_82
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 385
+        width: 412
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96890fd68cc67cb0800000000000000
+      internalID: -4866477467687614821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_83
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 385
+        width: 413
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182abd2bec5429370800000000000000
+      internalID: 8327795415027786369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_84
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 385
+        width: 413
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc27e1edb57efee40800000000000000
+      internalID: 5688019236146803404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_85
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 386
+        width: 413
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06dfcd4937c1c790800000000000000
+      internalID: -7511503654544746996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_86
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 384
+        width: 413
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d27f6b9dea861050800000000000000
+      internalID: 5770952725641523922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_87
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 386
+        width: 413
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3952f79647fb6cba0800000000000000
+      internalID: -6068952941128112749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_88
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 118
+        width: 413
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23ebcfef18c2a580800000000000000
+      internalID: -8817265080945351894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_89
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 118
+        width: 412
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd6ae5592627c800800000000000000
+      internalID: 632516231645785598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_90
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 120
+        width: 412
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f50be98e012be460800000000000000
+      internalID: 7271942369646937584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_91
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 123
+        width: 414
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1824b63260008c870800000000000000
+      internalID: 8703206306257519233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_92
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 124
+        width: 413
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fd17b7b30774ed30800000000000000
+      internalID: 4459820388854472178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_93
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 124
+        width: 413
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a864adc1a362e1900800000000000000
+      internalID: 657004626676696714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_94
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 123
+        width: 414
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8aaab3c1b16d23c0800000000000000
+      internalID: -4382739446240728433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pipefish-redo_95
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 123
+        width: 416
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0693474a24f3607a0800000000000000
+      internalID: -6411367464055850656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

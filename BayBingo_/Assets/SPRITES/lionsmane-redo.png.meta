@@ -1,7 +1,151 @@
 fileFormatVersion: 2
 guid: 1e12ddc5e78e9154d93f8776a71c751d
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 60151821469416472
+    second: lionsmane-redo_0
+  - first:
+      213: -471881747644891953
+    second: lionsmane-redo_1
+  - first:
+      213: 7260949355105698004
+    second: lionsmane-redo_2
+  - first:
+      213: 8359343882268839607
+    second: lionsmane-redo_3
+  - first:
+      213: 1895138540945455775
+    second: lionsmane-redo_4
+  - first:
+      213: -4342322123155265568
+    second: lionsmane-redo_5
+  - first:
+      213: -1919540208349956961
+    second: lionsmane-redo_6
+  - first:
+      213: 4929331443150896702
+    second: lionsmane-redo_7
+  - first:
+      213: 7398062714249599032
+    second: lionsmane-redo_8
+  - first:
+      213: -5961933681882805716
+    second: lionsmane-redo_9
+  - first:
+      213: 1360642307195049118
+    second: lionsmane-redo_10
+  - first:
+      213: 7680344319294818797
+    second: lionsmane-redo_11
+  - first:
+      213: 3872637230659781018
+    second: lionsmane-redo_12
+  - first:
+      213: 104788497948770069
+    second: lionsmane-redo_13
+  - first:
+      213: 2197428557036680012
+    second: lionsmane-redo_14
+  - first:
+      213: 160458493080269711
+    second: lionsmane-redo_15
+  - first:
+      213: 3220926744633207242
+    second: lionsmane-redo_16
+  - first:
+      213: 7348106472138837376
+    second: lionsmane-redo_17
+  - first:
+      213: -6659203274888225808
+    second: lionsmane-redo_18
+  - first:
+      213: -8435474736637896563
+    second: lionsmane-redo_19
+  - first:
+      213: 3826528382991459790
+    second: lionsmane-redo_20
+  - first:
+      213: -7320545847246403095
+    second: lionsmane-redo_21
+  - first:
+      213: 2795279244005345087
+    second: lionsmane-redo_22
+  - first:
+      213: 8919253034880605515
+    second: lionsmane-redo_23
+  - first:
+      213: 5926435492557257357
+    second: lionsmane-redo_24
+  - first:
+      213: 9164745341275551223
+    second: lionsmane-redo_25
+  - first:
+      213: 6948705785342851507
+    second: lionsmane-redo_26
+  - first:
+      213: -702692839925058759
+    second: lionsmane-redo_27
+  - first:
+      213: -2238663129524476017
+    second: lionsmane-redo_28
+  - first:
+      213: -7763481744838624064
+    second: lionsmane-redo_29
+  - first:
+      213: 6236573217526865066
+    second: lionsmane-redo_30
+  - first:
+      213: -8094155586554513952
+    second: lionsmane-redo_31
+  - first:
+      213: -5036567352303949771
+    second: lionsmane-redo_32
+  - first:
+      213: 6304493699022840386
+    second: lionsmane-redo_33
+  - first:
+      213: 9180853631332642005
+    second: lionsmane-redo_34
+  - first:
+      213: -1730192154664816155
+    second: lionsmane-redo_35
+  - first:
+      213: -7766933661385726211
+    second: lionsmane-redo_36
+  - first:
+      213: 1159197052960574377
+    second: lionsmane-redo_37
+  - first:
+      213: 3564851960190573549
+    second: lionsmane-redo_38
+  - first:
+      213: 3083487214365863963
+    second: lionsmane-redo_39
+  - first:
+      213: 2163264161585227091
+    second: lionsmane-redo_40
+  - first:
+      213: 7732406093072825186
+    second: lionsmane-redo_41
+  - first:
+      213: -4463082681147441556
+    second: lionsmane-redo_42
+  - first:
+      213: -3555718965684775284
+    second: lionsmane-redo_43
+  - first:
+      213: 4250131056863504824
+    second: lionsmane-redo_44
+  - first:
+      213: 8252869793079512994
+    second: lionsmane-redo_45
+  - first:
+      213: -4169717385006038521
+    second: lionsmane-redo_46
+  - first:
+      213: -1111944894988207740
+    second: lionsmane-redo_47
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +185,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +219,1029 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: lionsmane-redo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf64f43c3b5d000800000000000000
+      internalID: 60151821469416472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccb2a7fc0a8379f0800000000000000
+      internalID: -471881747644891953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d04d23e7f214c460800000000000000
+      internalID: 7260949355105698004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_3
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be08f1a8fa520470800000000000000
+      internalID: 8359343882268839607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_4
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ab43d4672ec4a10800000000000000
+      internalID: 1895138540945455775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_5
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7a20d1909fcb3c0800000000000000
+      internalID: -4342322123155265568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_6
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94b835c95c6c55e0800000000000000
+      internalID: -1919540208349956961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_7
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e3c21b4d0886440800000000000000
+      internalID: 4929331443150896702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_8
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838d8ec87d23ba660800000000000000
+      internalID: 7398062714249599032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_9
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a40fc67e4f24da0800000000000000
+      internalID: -5961933681882805716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e949aba28f8f1e210800000000000000
+      internalID: 1360642307195049118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9c1485770169a60800000000000000
+      internalID: 7680344319294818797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_12
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91cd6d0b0f5eb530800000000000000
+      internalID: 3872637230659781018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_13
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f78cc6598447100800000000000000
+      internalID: 104788497948770069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43787151a5de7e10800000000000000
+      internalID: 2197428557036680012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_15
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f837e3936201a3200800000000000000
+      internalID: 160458493080269711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_16
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac9ea6d1fc703bc20800000000000000
+      internalID: 3220926744633207242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_17
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d859b87e7b9f560800000000000000
+      internalID: 7348106472138837376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb5b2947e1c593a0800000000000000
+      internalID: -6659203274888225808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_19
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d889aea8b6c2fea80800000000000000
+      internalID: -8435474736637896563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5e72f5a4f8a1530800000000000000
+      internalID: 3826528382991459790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9caec7652386a90800000000000000
+      internalID: -7320545847246403095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3706f299a3dac620800000000000000
+      internalID: 2795279244005345087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_23
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d12e5016d87cb70800000000000000
+      internalID: 8919253034880605515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a742e4eadee3250800000000000000
+      internalID: 5926435492557257357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_25
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f535abb457bf2f70800000000000000
+      internalID: 9164745341275551223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_26
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9ff009813ce6060800000000000000
+      internalID: 6948705785342851507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_27
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9337e0ac5988f36f0800000000000000
+      internalID: -702692839925058759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_28
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87ede0aebbaee0e0800000000000000
+      internalID: -2238663129524476017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_29
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ccf9aa5c72924490800000000000000
+      internalID: -7763481744838624064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac576e6c42cc8650800000000000000
+      internalID: 6236573217526865066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5bca2f068cbaf80800000000000000
+      internalID: -8094155586554513952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_32
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538e79e8da48a1ab0800000000000000
+      internalID: -5036567352303949771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_33
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242e1fadd9f0e7750800000000000000
+      internalID: 6304493699022840386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_34
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcef664cb1f86f70800000000000000
+      internalID: 9180853631332642005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_35
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1390cf66f1df7e0800000000000000
+      internalID: -1730192154664816155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_36
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df664176cfe463490800000000000000
+      internalID: -7766933661385726211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_37
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab0566f39b461010800000000000000
+      internalID: 1159197052960574377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_38
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb930c68f5e87130800000000000000
+      internalID: 3564851960190573549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_39
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b107cb1d84fbaca20800000000000000
+      internalID: 3083487214365863963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355ee922b45750e10800000000000000
+      internalID: 2163264161585227091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26bfba4af560f4b60800000000000000
+      internalID: 7732406093072825186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_42
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e320ba2f1ff02c0800000000000000
+      internalID: -4463082681147441556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_43
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 0
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c865d31907c87aec0800000000000000
+      internalID: -3555718965684775284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_44
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b964359daf7bfa30800000000000000
+      internalID: 4250131056863504824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_45
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 0
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af4e0ae955188270800000000000000
+      internalID: 8252869793079512994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_46
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702c1f461203226c0800000000000000
+      internalID: -4169717385006038521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lionsmane-redo_47
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 0
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4893b6462049190f0800000000000000
+      internalID: -1111944894988207740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -1,7 +1,169 @@
 fileFormatVersion: 2
 guid: d8081ce3f6989374a8c7235934d72284
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 7478947886216452670
+    second: horseshoespritesheet_0
+  - first:
+      213: 4622411575237914054
+    second: horseshoespritesheet_1
+  - first:
+      213: 5977879256355764670
+    second: horseshoespritesheet_2
+  - first:
+      213: 4522338718344544421
+    second: horseshoespritesheet_3
+  - first:
+      213: -7512286182435286857
+    second: horseshoespritesheet_4
+  - first:
+      213: -8706823744005103239
+    second: horseshoespritesheet_5
+  - first:
+      213: 6499638013713968233
+    second: horseshoespritesheet_6
+  - first:
+      213: 3957679564663798245
+    second: horseshoespritesheet_7
+  - first:
+      213: 6693409654592116297
+    second: horseshoespritesheet_8
+  - first:
+      213: -6773462584114441305
+    second: horseshoespritesheet_9
+  - first:
+      213: 2296725032541482164
+    second: horseshoespritesheet_10
+  - first:
+      213: -2854547180560827027
+    second: horseshoespritesheet_11
+  - first:
+      213: 7288592802677505882
+    second: horseshoespritesheet_12
+  - first:
+      213: -1793048987981521385
+    second: horseshoespritesheet_13
+  - first:
+      213: 1357097638771194430
+    second: horseshoespritesheet_14
+  - first:
+      213: -3009000350931574412
+    second: horseshoespritesheet_15
+  - first:
+      213: -357685244716735250
+    second: horseshoespritesheet_16
+  - first:
+      213: -6957500296531427643
+    second: horseshoespritesheet_17
+  - first:
+      213: -8669349531684418687
+    second: horseshoespritesheet_18
+  - first:
+      213: -6926268527464746775
+    second: horseshoespritesheet_19
+  - first:
+      213: -8944444875102091207
+    second: horseshoespritesheet_20
+  - first:
+      213: -6454332988652073098
+    second: horseshoespritesheet_21
+  - first:
+      213: -4805897049392155639
+    second: horseshoespritesheet_22
+  - first:
+      213: 6369578739542600931
+    second: horseshoespritesheet_23
+  - first:
+      213: 5622417230562768580
+    second: horseshoespritesheet_24
+  - first:
+      213: 1202850508280468860
+    second: horseshoespritesheet_25
+  - first:
+      213: -879895187300943953
+    second: horseshoespritesheet_26
+  - first:
+      213: -7043977963525221843
+    second: horseshoespritesheet_27
+  - first:
+      213: -4776998822457694026
+    second: horseshoespritesheet_28
+  - first:
+      213: 3763565641462010820
+    second: horseshoespritesheet_29
+  - first:
+      213: -2935958508631834666
+    second: horseshoespritesheet_30
+  - first:
+      213: 2923087696766064387
+    second: horseshoespritesheet_31
+  - first:
+      213: -3543683334631648863
+    second: horseshoespritesheet_32
+  - first:
+      213: -4275819401933577948
+    second: horseshoespritesheet_33
+  - first:
+      213: -8696738025698240335
+    second: horseshoespritesheet_34
+  - first:
+      213: -1068870112594112496
+    second: horseshoespritesheet_35
+  - first:
+      213: 8640506624009994320
+    second: horseshoespritesheet_36
+  - first:
+      213: 2388437558453900850
+    second: horseshoespritesheet_37
+  - first:
+      213: -4274107990154693712
+    second: horseshoespritesheet_38
+  - first:
+      213: 4884040219980392383
+    second: horseshoespritesheet_39
+  - first:
+      213: 6147313532091817936
+    second: horseshoespritesheet_40
+  - first:
+      213: -8693487567854128968
+    second: horseshoespritesheet_41
+  - first:
+      213: 8836708973285944401
+    second: horseshoespritesheet_42
+  - first:
+      213: 1162090493246966658
+    second: horseshoespritesheet_43
+  - first:
+      213: 9221824800050607643
+    second: horseshoespritesheet_44
+  - first:
+      213: 7638128382434559873
+    second: horseshoespritesheet_45
+  - first:
+      213: 2422043578395280056
+    second: horseshoespritesheet_46
+  - first:
+      213: -6837359353802355503
+    second: horseshoespritesheet_47
+  - first:
+      213: -6146068108747556899
+    second: horseshoespritesheet_48
+  - first:
+      213: -4018539821987826304
+    second: horseshoespritesheet_49
+  - first:
+      213: -5818105341151790265
+    second: horseshoespritesheet_50
+  - first:
+      213: 6202295481723161333
+    second: horseshoespritesheet_51
+  - first:
+      213: 6988555947200740104
+    second: horseshoespritesheet_52
+  - first:
+      213: -8127301432193350012
+    second: horseshoespritesheet_53
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +203,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +237,1155 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: horseshoespritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8100
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a17933a7f8ac760800000000000000
+      internalID: 7478947886216452670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 8100
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cda5bb46da162040800000000000000
+      internalID: 4622411575237914054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 8100
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9f241f281b5f250800000000000000
+      internalID: 5977879256355764670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 8100
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a00cec9a1392ce30800000000000000
+      internalID: 4522338718344544421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 8100
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b09ed4d48ffeb790800000000000000
+      internalID: -7512286182435286857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7290
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971a3a08fe52b2780800000000000000
+      internalID: -8706823744005103239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 7290
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ceb00465a533a50800000000000000
+      internalID: 6499638013713968233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 7290
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9bb9a68908ce630800000000000000
+      internalID: 3957679564663798245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 7290
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946122e1e94c3ec50800000000000000
+      internalID: 6693409654592116297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 7290
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a39576caa3dff1a0800000000000000
+      internalID: -6773462584114441305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6480
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bce16f9f3b9fdf10800000000000000
+      internalID: 2296725032541482164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 6480
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d341c967c9268d0800000000000000
+      internalID: -2854547180560827027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 6480
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5fbf049988462560800000000000000
+      internalID: 7288592802677505882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 6480
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71edc76027fcd17e0800000000000000
+      internalID: -1793048987981521385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 6480
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a7a7cbc1165d210800000000000000
+      internalID: 1357097638771194430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5670
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471a2b98f12ed36d0800000000000000
+      internalID: -3009000350931574412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 5670
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4a24f3a2f390bf0800000000000000
+      internalID: -357685244716735250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 5670
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceb19cb75ef17f90800000000000000
+      internalID: -6957500296531427643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 5670
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b404a788840b780800000000000000
+      internalID: -8669349531684418687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 5670
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0fe71a873f0ef90800000000000000
+      internalID: -6926268527464746775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4860
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9380a7a96c2fed380800000000000000
+      internalID: -8944444875102091207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4860
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fce45e75a9d66a0800000000000000
+      internalID: -6454332988652073098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 4860
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904f1e7a8160e4db0800000000000000
+      internalID: -4805897049392155639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4860
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec215bbd1a456850800000000000000
+      internalID: 6369578739542600931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4860
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6babeaea6d60e40800000000000000
+      internalID: 5622417230562768580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7594ff0a2261b010800000000000000
+      internalID: 1202850508280468860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7f9513dfbf9c3f0800000000000000
+      internalID: -879895187300943953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22566edc53ce3e90800000000000000
+      internalID: -7043977963525221843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b823fe61e0b4bdb0800000000000000
+      internalID: -4776998822457694026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 4050
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3553cb20fda3430800000000000000
+      internalID: 3763565641462010820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfb6b1ba416147d0800000000000000
+      internalID: -2935958508631834666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3075e05e5c4e09820800000000000000
+      internalID: 2923087696766064387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a11fca48ce42dec0800000000000000
+      internalID: -3543683334631648863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421a60088ec39a4c0800000000000000
+      internalID: -4275819401933577948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 3240
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8df99c7dafe4780800000000000000
+      internalID: -8696738025698240335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010dbc3bb4c9a21f0800000000000000
+      internalID: -1068870112594112496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0508683cefe39e770800000000000000
+      internalID: 8640506624009994320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23698df0e4f652120800000000000000
+      internalID: 2388437558453900850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3bb2b9d615fa4c0800000000000000
+      internalID: -4274107990154693712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 2430
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7e6ac04b897c340800000000000000
+      internalID: 4884040219980392383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfd84b6615af4550800000000000000
+      internalID: 6147313532091817936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0b7cafd178a5780800000000000000
+      internalID: -8693487567854128968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c27380efb42aa70800000000000000
+      internalID: 8836708973285944401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b08d68523902010800000000000000
+      internalID: 1162090493246966658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 1620
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1677ebdbc08aff70800000000000000
+      internalID: 9221824800050607643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18747d79b45100a60800000000000000
+      internalID: 7638128382434559873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b244c05dc3dc9120800000000000000
+      internalID: 2422043578395280056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc8ae2c4e1dc11a0800000000000000
+      internalID: -6837359353802355503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7bebc4e97c4baa0800000000000000
+      internalID: -6146068108747556899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 810
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08577a2b2574b38c0800000000000000
+      internalID: -4018539821987826304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b38d29400f14fa0800000000000000
+      internalID: -5818105341151790265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa8e1421eaf21650800000000000000
+      internalID: 6202295481723161333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bf7d56b965cf060800000000000000
+      internalID: 6988555947200740104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: horseshoespritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 4320
+        y: 0
+        width: 1440
+        height: 810
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486879f5866063f80800000000000000
+      internalID: -8127301432193350012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
