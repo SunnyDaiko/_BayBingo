@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: 6bcbcef57e1f8b94d932fac8ab361a5f
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4315683182131298944
+    second: Burrfish-swim-spritesheet_0
+  - first:
+      213: -905598150371452196
+    second: Burrfish-swim-spritesheet_1
+  - first:
+      213: 1178242068738689106
+    second: Burrfish-swim-spritesheet_2
+  - first:
+      213: 3468639201655189748
+    second: Burrfish-swim-spritesheet_3
+  - first:
+      213: -7115887704304174583
+    second: Burrfish-swim-spritesheet_4
+  - first:
+      213: 1027007845788433227
+    second: Burrfish-swim-spritesheet_5
+  - first:
+      213: -877707409988933734
+    second: Burrfish-swim-spritesheet_6
+  - first:
+      213: -8125072519786309512
+    second: Burrfish-swim-spritesheet_7
+  - first:
+      213: 6804145230975677270
+    second: Burrfish-swim-spritesheet_8
+  - first:
+      213: 6640534365179757181
+    second: Burrfish-swim-spritesheet_9
+  - first:
+      213: 1985972408268816487
+    second: Burrfish-swim-spritesheet_10
+  - first:
+      213: -1236238908674452059
+    second: Burrfish-swim-spritesheet_11
+  - first:
+      213: -2188326271039515753
+    second: Burrfish-swim-spritesheet_12
+  - first:
+      213: 1421932717547837195
+    second: Burrfish-swim-spritesheet_13
+  - first:
+      213: -1405185341152115912
+    second: Burrfish-swim-spritesheet_14
+  - first:
+      213: -4714674376082525626
+    second: Burrfish-swim-spritesheet_15
+  - first:
+      213: -8834093944224031087
+    second: Burrfish-swim-spritesheet_16
+  - first:
+      213: 7151844832442796577
+    second: Burrfish-swim-spritesheet_17
+  - first:
+      213: -6199394829471985085
+    second: Burrfish-swim-spritesheet_18
+  - first:
+      213: -4684049299836331572
+    second: Burrfish-swim-spritesheet_19
+  - first:
+      213: -3778804771604103278
+    second: Burrfish-swim-spritesheet_20
+  - first:
+      213: 7833425818484612175
+    second: Burrfish-swim-spritesheet_21
+  - first:
+      213: 4394956867260103351
+    second: Burrfish-swim-spritesheet_22
+  - first:
+      213: 8722511029241958808
+    second: Burrfish-swim-spritesheet_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +113,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +147,525 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 3813
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082401a1df264eb30800000000000000
+      internalID: 4315683182131298944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 3813
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdadbd1c74bae63f0800000000000000
+      internalID: -905598150371452196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 3813
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258479e3be4f95010800000000000000
+      internalID: 1178242068738689106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 3453
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0f6ace9f4132030800000000000000
+      internalID: 3468639201655189748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 3453
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a3163a5d94f3d90800000000000000
+      internalID: -7115887704304174583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 3453
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b32c5c13aa04e00800000000000000
+      internalID: 1027007845788433227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 3093
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a97a1eac2c1c1d3f0800000000000000
+      internalID: -877707409988933734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 3093
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87859db7791fd3f80800000000000000
+      internalID: -8125072519786309512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 3093
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6533974a90e2d6e50800000000000000
+      internalID: 6804145230975677270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2733
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72405372dae72c50800000000000000
+      internalID: 6640534365179757181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2733
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760079812679f8b10800000000000000
+      internalID: 1985972408268816487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 2733
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a551fe234ff7dee0800000000000000
+      internalID: -1236238908674452059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2373
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793d80ac9d081a1e0800000000000000
+      internalID: -2188326271039515753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2373
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07d1fbd548bbb310800000000000000
+      internalID: 1421932717547837195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 2373
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833ca019067cf7ce0800000000000000
+      internalID: -1405185341152115912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2013
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642f6f562ac129eb0800000000000000
+      internalID: -4714674376082525626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 2013
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19ed81edc5ef66580800000000000000
+      internalID: -8834093944224031087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 2013
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a4776abf4704360800000000000000
+      internalID: 7151844832442796577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1653
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342dde69f3357f9a0800000000000000
+      internalID: -6199394829471985085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1653
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc996dc9af9eefeb0800000000000000
+      internalID: -4684049299836331572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1653
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f7cf8c41dfe8bc0800000000000000
+      internalID: -3778804771604103278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1293
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c1625574be5bc60800000000000000
+      internalID: 7833425818484612175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1293
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bab33c3cf50efc30800000000000000
+      internalID: 4394956867260103351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-swim-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1293
+        width: 406
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891d46731959c0970800000000000000
+      internalID: 8722511029241958808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

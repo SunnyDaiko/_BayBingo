@@ -1,7 +1,70 @@
 fileFormatVersion: 2
 guid: 33d5e39cac3da8c45821f0ea591e7566
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2891429610021693369
+    second: Terrapin_0
+  - first:
+      213: -6818112163673933148
+    second: Terrapin_1
+  - first:
+      213: -5249763554059801513
+    second: Terrapin_2
+  - first:
+      213: -46146075532927478
+    second: Terrapin_3
+  - first:
+      213: 4299069905807223777
+    second: Terrapin_4
+  - first:
+      213: -3434505067489220627
+    second: Terrapin_5
+  - first:
+      213: 5143051165216028878
+    second: Terrapin_6
+  - first:
+      213: -1514907887737939583
+    second: Terrapin_7
+  - first:
+      213: 965710679840326341
+    second: Terrapin_8
+  - first:
+      213: 7996627650586972314
+    second: Terrapin_9
+  - first:
+      213: 8119448066221413547
+    second: Terrapin_10
+  - first:
+      213: -3858616139311396191
+    second: Terrapin_11
+  - first:
+      213: -2432639768073543326
+    second: Terrapin_12
+  - first:
+      213: -7421018454643875374
+    second: Terrapin_13
+  - first:
+      213: -2798961901202601340
+    second: Terrapin_14
+  - first:
+      213: -5685193611868455827
+    second: Terrapin_15
+  - first:
+      213: -8374745202501010989
+    second: Terrapin_16
+  - first:
+      213: -767837527327152221
+    second: Terrapin_17
+  - first:
+      213: 3570896794550916090
+    second: Terrapin_18
+  - first:
+      213: 2126634054266641284
+    second: Terrapin_19
+  - first:
+      213: -5262197528818069911
+    second: Terrapin_20
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +104,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +138,462 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Terrapin_0
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 5507
+        width: 1037
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7485c91d6149fd7d0800000000000000
+      internalID: -2891429610021693369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_1
+      rect:
+        serializedVersion: 2
+        x: 2391
+        y: 5518
+        width: 1049
+        height: 806
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aaf17d6c133161a0800000000000000
+      internalID: -6818112163673933148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_2
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 5531
+        width: 1064
+        height: 808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c297dacd71527b0800000000000000
+      internalID: -5249763554059801513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_3
+      rect:
+        serializedVersion: 2
+        x: 6212
+        y: 5537
+        width: 1080
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ed418836e0c5ff0800000000000000
+      internalID: -46146075532927478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_4
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 4464
+        width: 1098
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb26384d4d59ab30800000000000000
+      internalID: 4299069905807223777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_5
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 4464
+        width: 1098
+        height: 829
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7a60186df2650d0800000000000000
+      internalID: -3434505067489220627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_6
+      rect:
+        serializedVersion: 2
+        x: 4281
+        y: 4468
+        width: 1091
+        height: 833
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec83c5429c9cf5740800000000000000
+      internalID: 5143051165216028878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_7
+      rect:
+        serializedVersion: 2
+        x: 6197
+        y: 4472
+        width: 1087
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18951fb6d47f9fae0800000000000000
+      internalID: -1514907887737939583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_8
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 3396
+        width: 1084
+        height: 847
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c20fab2fb4e66d00800000000000000
+      internalID: 965710679840326341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_9
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 3396
+        width: 1076
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a909d42fa7ab9fe60800000000000000
+      internalID: 7996627650586972314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_10
+      rect:
+        serializedVersion: 2
+        x: 4273
+        y: 3392
+        width: 1076
+        height: 870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba41c5f5ff21ea070800000000000000
+      internalID: 8119448066221413547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_11
+      rect:
+        serializedVersion: 2
+        x: 6186
+        y: 3396
+        width: 1076
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa41cba011737ac0800000000000000
+      internalID: -3858616139311396191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_12
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2302
+        width: 1072
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261ec7505078d3ed0800000000000000
+      internalID: -2432639768073543326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_13
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 2290
+        width: 1125
+        height: 734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d16553a80f330990800000000000000
+      internalID: -7421018454643875374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_14
+      rect:
+        serializedVersion: 2
+        x: 4161
+        y: 2293
+        width: 1155
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a87fafaf61829d0800000000000000
+      internalID: -2798961901202601340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_15
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 2301
+        width: 1088
+        height: 787
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cb24d08822a11b0800000000000000
+      internalID: -5685193611868455827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_16
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1251
+        width: 1072
+        height: 765
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d935801c9de6cb80800000000000000
+      internalID: -8374745202501010989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_17
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 1329
+        width: 1102
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7637a46d71855f0800000000000000
+      internalID: -767837527327152221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_18
+      rect:
+        serializedVersion: 2
+        x: 4183
+        y: 1348
+        width: 1129
+        height: 649
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3d9c817bf5e8130800000000000000
+      internalID: 3570896794550916090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_19
+      rect:
+        serializedVersion: 2
+        x: 6190
+        y: 1254
+        width: 1060
+        height: 739
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bdfcba762538d10800000000000000
+      internalID: 2126634054266641284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Terrapin_20
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 111
+        width: 1042
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e4cd45a3be8f6b0800000000000000
+      internalID: -5262197528818069911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

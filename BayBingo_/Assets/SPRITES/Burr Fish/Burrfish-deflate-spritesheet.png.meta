@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: e27cb3b406fbf454687d9a1a91f41309
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2077774702772222458
+    second: Burrfish-deflate-spritesheet_0
+  - first:
+      213: 1696923033274929167
+    second: Burrfish-deflate-spritesheet_1
+  - first:
+      213: -6213654294489429780
+    second: Burrfish-deflate-spritesheet_2
+  - first:
+      213: -4295371960845114483
+    second: Burrfish-deflate-spritesheet_3
+  - first:
+      213: 2224965209124095457
+    second: Burrfish-deflate-spritesheet_4
+  - first:
+      213: 1846596022703814496
+    second: Burrfish-deflate-spritesheet_5
+  - first:
+      213: 3015848386226847981
+    second: Burrfish-deflate-spritesheet_6
+  - first:
+      213: 6359341874999987229
+    second: Burrfish-deflate-spritesheet_7
+  - first:
+      213: 7103440430541276360
+    second: Burrfish-deflate-spritesheet_8
+  - first:
+      213: 8196185040517294963
+    second: Burrfish-deflate-spritesheet_9
+  - first:
+      213: -8326946414039702353
+    second: Burrfish-deflate-spritesheet_10
+  - first:
+      213: 265694992349649582
+    second: Burrfish-deflate-spritesheet_11
+  - first:
+      213: 5413233660027159649
+    second: Burrfish-deflate-spritesheet_12
+  - first:
+      213: 8129582513803643253
+    second: Burrfish-deflate-spritesheet_13
+  - first:
+      213: 3979467052078062056
+    second: Burrfish-deflate-spritesheet_14
+  - first:
+      213: 7375016145891269406
+    second: Burrfish-deflate-spritesheet_15
+  - first:
+      213: -143508037198052061
+    second: Burrfish-deflate-spritesheet_16
+  - first:
+      213: -977793572792756704
+    second: Burrfish-deflate-spritesheet_17
+  - first:
+      213: -6984273750118324894
+    second: Burrfish-deflate-spritesheet_18
+  - first:
+      213: -7703465757805794162
+    second: Burrfish-deflate-spritesheet_19
+  - first:
+      213: 438673764759309970
+    second: Burrfish-deflate-spritesheet_20
+  - first:
+      213: 7442836016147436253
+    second: Burrfish-deflate-spritesheet_21
+  - first:
+      213: -1579309889567279743
+    second: Burrfish-deflate-spritesheet_22
+  - first:
+      213: -3838529756912986177
+    second: Burrfish-deflate-spritesheet_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +113,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +147,525 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3761
+        width: 408
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60608f59ae24a23e0800000000000000
+      internalID: -2077774702772222458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 3763
+        width: 408
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00d781128eac8710800000000000000
+      internalID: 1696923033274929167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 3763
+        width: 408
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce880eb275aa4c9a0800000000000000
+      internalID: -6213654294489429780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3405
+        width: 408
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8367af95f5c364c0800000000000000
+      internalID: -4295371960845114483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 3405
+        width: 408
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5c17fb11aa0ee10800000000000000
+      internalID: 2224965209124095457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 3408
+        width: 408
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067f8e88c4d60a910800000000000000
+      internalID: 1846596022703814496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 3051
+        width: 408
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de08c7de0227ad920800000000000000
+      internalID: 3015848386226847981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 3053
+        width: 408
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c04a8fdbbe04850800000000000000
+      internalID: 6359341874999987229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 3057
+        width: 408
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c48f899f6d749260800000000000000
+      internalID: 7103440430541276360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2699
+        width: 408
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b676d7ed2beb170800000000000000
+      internalID: 8196185040517294963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2702
+        width: 408
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4637fba5eb07c80800000000000000
+      internalID: -8326946414039702353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2707
+        width: 408
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaad9951030ffa300800000000000000
+      internalID: 265694992349649582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2349
+        width: 408
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1644b10555baf1b40800000000000000
+      internalID: 5413233660027159649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2353
+        width: 408
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5794e73593412d070800000000000000
+      internalID: 8129582513803643253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2357
+        width: 407
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9db722338e93730800000000000000
+      internalID: 3979467052078062056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1999
+        width: 408
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b9e943c12595660800000000000000
+      internalID: 7375016145891269406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2003
+        width: 408
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32585645338220ef0800000000000000
+      internalID: -143508037198052061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 2005
+        width: 408
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02617061ded2e62f0800000000000000
+      internalID: -977793572792756704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1647
+        width: 408
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265ac1e4700e21f90800000000000000
+      internalID: -6984273750118324894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1649
+        width: 407
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ca99e35bac71590800000000000000
+      internalID: -7703465757805794162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1651
+        width: 407
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e03c0077b761600800000000000000
+      internalID: 438673764759309970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1293
+        width: 407
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd293ff3ce34a4760800000000000000
+      internalID: 7442836016147436253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 1293
+        width: 408
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185b412e50a251ae0800000000000000
+      internalID: -1579309889567279743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-deflate-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 1293
+        width: 408
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb75f63068dcabac0800000000000000
+      internalID: -3838529756912986177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
