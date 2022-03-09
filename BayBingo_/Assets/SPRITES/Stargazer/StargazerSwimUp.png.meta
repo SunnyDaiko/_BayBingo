@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: 3a63ea4e80c8a2c4b91ddcc94b580e6f
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4091589958116517128
+    second: StargazerSwimUp_0
+  - first:
+      213: 8380438182087723415
+    second: StargazerSwimUp_1
+  - first:
+      213: -8104216239639780782
+    second: StargazerSwimUp_2
+  - first:
+      213: -8374060651140706929
+    second: StargazerSwimUp_3
+  - first:
+      213: -146164020685623524
+    second: StargazerSwimUp_4
+  - first:
+      213: 1629878646750764125
+    second: StargazerSwimUp_5
+  - first:
+      213: -4610600882460256656
+    second: StargazerSwimUp_6
+  - first:
+      213: -2464400998960544427
+    second: StargazerSwimUp_7
+  - first:
+      213: -7705697286230999134
+    second: StargazerSwimUp_8
+  - first:
+      213: -6606777339799954865
+    second: StargazerSwimUp_9
+  - first:
+      213: 5101334557895195084
+    second: StargazerSwimUp_10
+  - first:
+      213: -6317992842934305876
+    second: StargazerSwimUp_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +77,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +111,273 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: StargazerSwimUp_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 971
+        width: 307
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8052714836f38c830800000000000000
+      internalID: 4091589958116517128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimUp_1
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 971
+        width: 307
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7998579002c4d4470800000000000000
+      internalID: 8380438182087723415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimUp_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 783
+        width: 307
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252a15d944a088f80800000000000000
+      internalID: -8104216239639780782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimUp_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 782
+        width: 307
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d8e29943c59cb80800000000000000
+      internalID: -8374060651140706929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimUp_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 594
+        width: 307
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f271cf898b8fdf0800000000000000
+      internalID: -146164020685623524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimUp_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 594
+        width: 307
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cd2966efd7e9610800000000000000
+      internalID: 1629878646750764125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimUp_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 407
+        width: 307
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0769ad7ecead300c0800000000000000
+      internalID: -4610600882460256656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimUp_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 407
+        width: 307
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555c6d03950bccdd0800000000000000
+      internalID: -2464400998960544427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimUp_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 219
+        width: 307
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af728b052ddf0590800000000000000
+      internalID: -7705697286230999134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimUp_9
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 219
+        width: 307
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a9f1f73030054a0800000000000000
+      internalID: -6606777339799954865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimUp_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 31
+        width: 307
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc974cb90c49bc640800000000000000
+      internalID: 5101334557895195084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimUp_11
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 31
+        width: 307
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cabb077cbfaf158a0800000000000000
+      internalID: -6317992842934305876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

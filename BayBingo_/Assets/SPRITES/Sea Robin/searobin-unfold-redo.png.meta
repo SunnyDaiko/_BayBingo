@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: 64c056b6ed77e4342a9ddcaf75dc0bd7
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4867984409157356389
+    second: searobin-unfold-redo_0
+  - first:
+      213: -8744081397927364202
+    second: searobin-unfold-redo_1
+  - first:
+      213: -2718831462370200713
+    second: searobin-unfold-redo_2
+  - first:
+      213: 5523582171782194606
+    second: searobin-unfold-redo_3
+  - first:
+      213: 6721195279830223601
+    second: searobin-unfold-redo_4
+  - first:
+      213: 2051054356895054971
+    second: searobin-unfold-redo_5
+  - first:
+      213: 7265438465994717994
+    second: searobin-unfold-redo_6
+  - first:
+      213: -5666481443445044107
+    second: searobin-unfold-redo_7
+  - first:
+      213: 197903542225050740
+    second: searobin-unfold-redo_8
+  - first:
+      213: -662603935105303206
+    second: searobin-unfold-redo_9
+  - first:
+      213: -8326201808372801164
+    second: searobin-unfold-redo_10
+  - first:
+      213: 5884169511999264431
+    second: searobin-unfold-redo_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +77,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +111,273 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: searobin-unfold-redo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b943908b8f1717cb0800000000000000
+      internalID: -4867984409157356389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-unfold-redo_1
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1080
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6993075fb48c6a680800000000000000
+      internalID: -8744081397927364202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-unfold-redo_2
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b441a035c44ad0800000000000000
+      internalID: -2718831462370200713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-unfold-redo_3
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1080
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea522c458b4b7ac40800000000000000
+      internalID: 5523582171782194606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-unfold-redo_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa00502f7b764d50800000000000000
+      internalID: 6721195279830223601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-unfold-redo_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 540
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c3fb5121fc67c10800000000000000
+      internalID: 2051054356895054971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-unfold-redo_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 540
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bf2177ac504d460800000000000000
+      internalID: 7265438465994717994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-unfold-redo_7
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 540
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c8d15462d9c51b0800000000000000
+      internalID: -5666481443445044107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-unfold-redo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c9d1e19381fb200800000000000000
+      internalID: 197903542225050740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-unfold-redo_9
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5db54d4b35fdc6f0800000000000000
+      internalID: -662603935105303206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-unfold-redo_10
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47169b3c193637c80800000000000000
+      internalID: -8326201808372801164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-unfold-redo_11
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa656e8def4c8a150800000000000000
+      internalID: 5884169511999264431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

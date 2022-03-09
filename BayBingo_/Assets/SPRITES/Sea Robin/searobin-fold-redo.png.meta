@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: 08088c5cf5161a84085aeb0a3f2c3dcd
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 3292752126586023017
+    second: searobin-fold-redo_0
+  - first:
+      213: 3657010144845049468
+    second: searobin-fold-redo_1
+  - first:
+      213: -6526737206692464111
+    second: searobin-fold-redo_2
+  - first:
+      213: 7988471705231154312
+    second: searobin-fold-redo_3
+  - first:
+      213: -3252891900719721237
+    second: searobin-fold-redo_4
+  - first:
+      213: -7714146310648452492
+    second: searobin-fold-redo_5
+  - first:
+      213: 289265351382916572
+    second: searobin-fold-redo_6
+  - first:
+      213: 8612603300882789158
+    second: searobin-fold-redo_7
+  - first:
+      213: -6351065728356840432
+    second: searobin-fold-redo_8
+  - first:
+      213: -1776292481680331568
+    second: searobin-fold-redo_9
+  - first:
+      213: -3122984310738306575
+    second: searobin-fold-redo_10
+  - first:
+      213: 2025061242158076570
+    second: searobin-fold-redo_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +77,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +111,273 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: searobin-fold-redo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c62960d9432bd20800000000000000
+      internalID: 3292752126586023017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-redo_1
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1080
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e2d7fd95f40c230800000000000000
+      internalID: 3657010144845049468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-redo_2
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a35c4371f5c65a0800000000000000
+      internalID: -6526737206692464111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-redo_3
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1080
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cdf80f0b0ccde60800000000000000
+      internalID: 7988471705231154312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-redo_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be41bd40d086bd2d0800000000000000
+      internalID: -3252891900719721237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-redo_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 540
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aa8604dc8d1f490800000000000000
+      internalID: -7714146310648452492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-redo_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 540
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cddd103fd4da30400800000000000000
+      internalID: 289265351382916572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-redo_7
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 540
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623b974121d168770800000000000000
+      internalID: 8612603300882789158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-redo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c02249e5b7cd7a0800000000000000
+      internalID: -6351065728356840432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-redo_9
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc2f3c26675957e0800000000000000
+      internalID: -1776292481680331568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-redo_10
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9335fc05ee8a4d0800000000000000
+      internalID: -3122984310738306575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-redo_11
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a925e3378767a1c10800000000000000
+      internalID: 2025061242158076570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

@@ -1,7 +1,67 @@
 fileFormatVersion: 2
 guid: 61d07269d70d56e41a4c8092b8b050a5
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -6233557479000170568
+    second: Flounder-transition-spritesheet_0
+  - first:
+      213: -8997335214508121409
+    second: Flounder-transition-spritesheet_1
+  - first:
+      213: -500262322077237813
+    second: Flounder-transition-spritesheet_2
+  - first:
+      213: 8059388491936869884
+    second: Flounder-transition-spritesheet_3
+  - first:
+      213: -5220258187558473236
+    second: Flounder-transition-spritesheet_4
+  - first:
+      213: 6860226088317857032
+    second: Flounder-transition-spritesheet_5
+  - first:
+      213: -6304286316362550483
+    second: Flounder-transition-spritesheet_6
+  - first:
+      213: -224641972316415162
+    second: Flounder-transition-spritesheet_7
+  - first:
+      213: 6390946649976096608
+    second: Flounder-transition-spritesheet_8
+  - first:
+      213: -4235905441705423724
+    second: Flounder-transition-spritesheet_9
+  - first:
+      213: 2833406665984571849
+    second: Flounder-transition-spritesheet_10
+  - first:
+      213: -1154723108687803683
+    second: Flounder-transition-spritesheet_11
+  - first:
+      213: -6057689013850113257
+    second: Flounder-transition-spritesheet_12
+  - first:
+      213: -9075642595749438230
+    second: Flounder-transition-spritesheet_13
+  - first:
+      213: -3381385116465004648
+    second: Flounder-transition-spritesheet_14
+  - first:
+      213: -760077050350180750
+    second: Flounder-transition-spritesheet_15
+  - first:
+      213: -8729113846914542139
+    second: Flounder-transition-spritesheet_16
+  - first:
+      213: -3643705703187251007
+    second: Flounder-transition-spritesheet_17
+  - first:
+      213: -802475674857836762
+    second: Flounder-transition-spritesheet_18
+  - first:
+      213: 6554550635988137410
+    second: Flounder-transition-spritesheet_19
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +101,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +135,441 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf1739ef74fd79a0800000000000000
+      internalID: -6233557479000170568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2160
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb26126da4b032380800000000000000
+      internalID: -8997335214508121409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2160
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdf21e8116be09f0800000000000000
+      internalID: -500262322077237813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 2160
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfda4c80223b8df60800000000000000
+      internalID: 8059388491936869884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1b0c626daed87b0800000000000000
+      internalID: -5220258187558473236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1620
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dad01c74b643f50800000000000000
+      internalID: 6860226088317857032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1620
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23bade2ffca288a0800000000000000
+      internalID: -6304286316362550483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1620
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64bdf6ef059e1ecf0800000000000000
+      internalID: -224641972316415162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0674c421e1431b850800000000000000
+      internalID: 6390946649976096608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1080
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c010d817a0735c0800000000000000
+      internalID: -4235905441705423724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9fb36c958425720800000000000000
+      internalID: 2833406665984571849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 1080
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda8abc537999ffe0800000000000000
+      internalID: -1154723108687803683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b7da9dfe3ceeba0800000000000000
+      internalID: -6057689013850113257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 540
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec53fbd427dc0280800000000000000
+      internalID: -9075642595749438230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 540
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f7f44e628e211d0800000000000000
+      internalID: -3381385116465004648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 540
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27663f323f9a375f0800000000000000
+      internalID: -760077050350180750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c517be7435fbd680800000000000000
+      internalID: -8729113846914542139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c08577d7f4fe6dc0800000000000000
+      internalID: -3643705703187251007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fe43b10a80dd4f0800000000000000
+      internalID: -802475674857836762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-transition-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 0
+        width: 960
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c53260731176fa50800000000000000
+      internalID: 6554550635988137410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

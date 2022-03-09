@@ -1,7 +1,295 @@
 fileFormatVersion: 2
 guid: 8cc381beeb815e2408a68212299ea3ef
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6528494693396369097
+    second: StargazerBury_0
+  - first:
+      213: 7884426775084359248
+    second: StargazerBury_1
+  - first:
+      213: 5689245852774847088
+    second: StargazerBury_2
+  - first:
+      213: -2724812322465835135
+    second: StargazerBury_3
+  - first:
+      213: -4824014239816500787
+    second: StargazerBury_4
+  - first:
+      213: 2652508093704984974
+    second: StargazerBury_5
+  - first:
+      213: 7898062572777917986
+    second: StargazerBury_6
+  - first:
+      213: -5071673545042730671
+    second: StargazerBury_7
+  - first:
+      213: 1699648729794040874
+    second: StargazerBury_8
+  - first:
+      213: 5803833057316116727
+    second: StargazerBury_9
+  - first:
+      213: 3041146986219396564
+    second: StargazerBury_10
+  - first:
+      213: 8549635256735703830
+    second: StargazerBury_11
+  - first:
+      213: -143868780915123197
+    second: StargazerBury_12
+  - first:
+      213: -4631520649569032117
+    second: StargazerBury_13
+  - first:
+      213: 5604481215200417284
+    second: StargazerBury_14
+  - first:
+      213: 6467255855020099475
+    second: StargazerBury_15
+  - first:
+      213: -8154079488567557910
+    second: StargazerBury_16
+  - first:
+      213: 1461194676450174828
+    second: StargazerBury_17
+  - first:
+      213: 3725176218381641796
+    second: StargazerBury_18
+  - first:
+      213: -8070867093163214052
+    second: StargazerBury_19
+  - first:
+      213: 1246439163072250097
+    second: StargazerBury_20
+  - first:
+      213: -3199653790765358063
+    second: StargazerBury_21
+  - first:
+      213: 494401892519863019
+    second: StargazerBury_22
+  - first:
+      213: -8205903705150193769
+    second: StargazerBury_23
+  - first:
+      213: 964579177227260452
+    second: StargazerBury_24
+  - first:
+      213: -3394227731440762714
+    second: StargazerBury_25
+  - first:
+      213: 849515317122605921
+    second: StargazerBury_26
+  - first:
+      213: 3016951238558465878
+    second: StargazerBury_27
+  - first:
+      213: 1521787465419443141
+    second: StargazerBury_28
+  - first:
+      213: -5493128774468561723
+    second: StargazerBury_29
+  - first:
+      213: 3548470213544271943
+    second: StargazerBury_30
+  - first:
+      213: 1251273129086540046
+    second: StargazerBury_31
+  - first:
+      213: -6148558157992243241
+    second: StargazerBury_32
+  - first:
+      213: 3551339085590031407
+    second: StargazerBury_33
+  - first:
+      213: -3617315798137469086
+    second: StargazerBury_34
+  - first:
+      213: -1748002369743972059
+    second: StargazerBury_35
+  - first:
+      213: -3538976380747126878
+    second: StargazerBury_36
+  - first:
+      213: 6321166897786544574
+    second: StargazerBury_37
+  - first:
+      213: -2571795817828209715
+    second: StargazerBury_38
+  - first:
+      213: 7734727787642332322
+    second: StargazerBury_39
+  - first:
+      213: 4621530245188183415
+    second: StargazerBury_40
+  - first:
+      213: 5028080693783478272
+    second: StargazerBury_41
+  - first:
+      213: 1108025615014250428
+    second: StargazerBury_42
+  - first:
+      213: 7526902667993633155
+    second: StargazerBury_43
+  - first:
+      213: 4398911392010009786
+    second: StargazerBury_44
+  - first:
+      213: 3287039030358481909
+    second: StargazerBury_45
+  - first:
+      213: -6386992338935268264
+    second: StargazerBury_46
+  - first:
+      213: 1838355952355807475
+    second: StargazerBury_47
+  - first:
+      213: 1344387554262228557
+    second: StargazerBury_48
+  - first:
+      213: -4278843927345189804
+    second: StargazerBury_49
+  - first:
+      213: 693481049017245978
+    second: StargazerBury_50
+  - first:
+      213: -8398650647821050221
+    second: StargazerBury_51
+  - first:
+      213: -9120213277910859191
+    second: StargazerBury_52
+  - first:
+      213: -3606960015650681468
+    second: StargazerBury_53
+  - first:
+      213: -3958913010660284752
+    second: StargazerBury_54
+  - first:
+      213: -646619398222574257
+    second: StargazerBury_55
+  - first:
+      213: -4255233973787843116
+    second: StargazerBury_56
+  - first:
+      213: -446168316948882327
+    second: StargazerBury_57
+  - first:
+      213: 2599224420667229072
+    second: StargazerBury_58
+  - first:
+      213: -1380100531672576732
+    second: StargazerBury_59
+  - first:
+      213: 7379940221988249128
+    second: StargazerBury_60
+  - first:
+      213: -7529756376082055453
+    second: StargazerBury_61
+  - first:
+      213: 2594916358559929447
+    second: StargazerBury_62
+  - first:
+      213: -2592174548044650226
+    second: StargazerBury_63
+  - first:
+      213: 8880325598470134642
+    second: StargazerBury_64
+  - first:
+      213: -2787491144059887169
+    second: StargazerBury_65
+  - first:
+      213: -4144296007793464012
+    second: StargazerBury_66
+  - first:
+      213: 1524933165053418582
+    second: StargazerBury_67
+  - first:
+      213: -5236343938207234054
+    second: StargazerBury_68
+  - first:
+      213: -5237169818980472711
+    second: StargazerBury_69
+  - first:
+      213: -5912182741806991601
+    second: StargazerBury_70
+  - first:
+      213: -8088111170878761551
+    second: StargazerBury_71
+  - first:
+      213: -8296956443281812790
+    second: StargazerBury_72
+  - first:
+      213: 1951179904324134814
+    second: StargazerBury_73
+  - first:
+      213: 5659794221681225626
+    second: StargazerBury_74
+  - first:
+      213: 994796001779185115
+    second: StargazerBury_75
+  - first:
+      213: 4503749222987235031
+    second: StargazerBury_76
+  - first:
+      213: -6540874780179972406
+    second: StargazerBury_77
+  - first:
+      213: -187703571728029114
+    second: StargazerBury_78
+  - first:
+      213: -6444301000613050096
+    second: StargazerBury_79
+  - first:
+      213: -2371650183464408050
+    second: StargazerBury_80
+  - first:
+      213: 7869825686008462217
+    second: StargazerBury_81
+  - first:
+      213: 344784701842052982
+    second: StargazerBury_82
+  - first:
+      213: -9170678658024057122
+    second: StargazerBury_83
+  - first:
+      213: 3921533100059278600
+    second: StargazerBury_84
+  - first:
+      213: 8347343369174628238
+    second: StargazerBury_85
+  - first:
+      213: 3766355532574271810
+    second: StargazerBury_86
+  - first:
+      213: 2091591552613209221
+    second: StargazerBury_87
+  - first:
+      213: -367391227722486730
+    second: StargazerBury_88
+  - first:
+      213: 4768567664616781671
+    second: StargazerBury_89
+  - first:
+      213: -3513045981753128036
+    second: StargazerBury_90
+  - first:
+      213: 6386222255623116555
+    second: StargazerBury_91
+  - first:
+      213: -5851608829265346735
+    second: StargazerBury_92
+  - first:
+      213: 3947243051332848481
+    second: StargazerBury_93
+  - first:
+      213: 266486090116102779
+    second: StargazerBury_94
+  - first:
+      213: -1685514172949881927
+    second: StargazerBury_95
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +329,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +363,2037 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: StargazerBury_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1880
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cec9ed855fd99a50800000000000000
+      internalID: 6528494693396369097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1880
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e5b72e06c1b6d60800000000000000
+      internalID: 7884426775084359248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_2
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1880
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072528ec5f244fe40800000000000000
+      internalID: 5689245852774847088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_3
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1880
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18711df11a58f2ad0800000000000000
+      internalID: -2724812322465835135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_4
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1880
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9bf4c8b98ad0db0800000000000000
+      internalID: -4824014239816500787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_5
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1880
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e895221ce0a9fc420800000000000000
+      internalID: 2652508093704984974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_6
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1880
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e4c30701e8b9d60800000000000000
+      internalID: 7898062572777917986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_7
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1880
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1516bfa18cbcd99b0800000000000000
+      internalID: -5071673545042730671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_8
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 1880
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24515eb38d569710800000000000000
+      internalID: 1699648729794040874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1692
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f81ff46a6b5b8050800000000000000
+      internalID: 5803833057316116727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_10
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1692
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd5b5f3213543a20800000000000000
+      internalID: 3041146986219396564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_11
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1692
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61323e4d7f766a670800000000000000
+      internalID: 8549635256735703830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_12
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1692
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c19432b10e00ef0800000000000000
+      internalID: -143868780915123197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_13
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1692
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b482d80128889bfb0800000000000000
+      internalID: -4631520649569032117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_14
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1692
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406de5ea8fd17cd40800000000000000
+      internalID: 5604481215200417284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_15
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1692
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397c9066fee40c950800000000000000
+      internalID: 6467255855020099475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_16
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1692
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0c1a548e3e6de80800000000000000
+      internalID: -8154079488567557910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_17
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 1692
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67218501d4374410800000000000000
+      internalID: 1461194676450174828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1504
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448ee56a80c72b330800000000000000
+      internalID: 3725176218381641796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_19
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1504
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bfd9ad3258eff80800000000000000
+      internalID: -8070867093163214052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_20
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1504
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f08e0d90dd3c4110800000000000000
+      internalID: 1246439163072250097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_21
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1504
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114e23d64db8893d0800000000000000
+      internalID: -3199653790765358063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_22
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1504
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be26debd6e77cd600800000000000000
+      internalID: 494401892519863019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_23
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1504
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ff5719e06ce1e80800000000000000
+      internalID: -8205903705150193769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_24
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1504
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4229e50b6afd26d00800000000000000
+      internalID: 964579177227260452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_25
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1504
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a081b49cd745e0d0800000000000000
+      internalID: -3394227731440762714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_26
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 1504
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163a8541ea51acb00800000000000000
+      internalID: 849515317122605921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1316
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fb3feba2d5ed920800000000000000
+      internalID: 3016951238558465878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_28
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1316
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbc7f313a97e1510800000000000000
+      internalID: 1521787465419443141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_29
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1316
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c41354cb7c74c3b0800000000000000
+      internalID: -5493128774468561723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_30
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1316
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7406c5ecbd2be3130800000000000000
+      internalID: 3548470213544271943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_31
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1316
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09d138084a6d5110800000000000000
+      internalID: 1251273129086540046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_32
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1316
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfca088eeeebaaa0800000000000000
+      internalID: -6148558157992243241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_33
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1316
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ced812514e84130800000000000000
+      internalID: 3551339085590031407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_34
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1316
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2678b9b6276bccdc0800000000000000
+      internalID: -3617315798137469086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_35
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 1316
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5299ed42b19ddb7e0800000000000000
+      internalID: -1748002369743972059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7e1156bb703eec0800000000000000
+      internalID: -3538976380747126878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_37
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1128
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb166847dcb49b750800000000000000
+      internalID: 6321166897786544574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_38
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1128
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcba38364552f4cd0800000000000000
+      internalID: -2571795817828209715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_39
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1128
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4a3c841f5475b60800000000000000
+      internalID: 7734727787642332322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_40
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 1128
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7756a27a549f22040800000000000000
+      internalID: 4621530245188183415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_41
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1128
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000c6f640c457c540800000000000000
+      internalID: 5028080693783478272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_42
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 1128
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb745f02d6f706f00800000000000000
+      internalID: 1108025615014250428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_43
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1128
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38153b8e81ee47860800000000000000
+      internalID: 7526902667993633155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_44
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 1128
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcfc27ca921c0d30800000000000000
+      internalID: 4398911392010009786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 940
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb9c572598ed9d20800000000000000
+      internalID: 3287039030358481909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_46
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 940
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c3f96be48dc57a0800000000000000
+      internalID: -6386992338935268264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_47
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 940
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f094e6aff6238910800000000000000
+      internalID: 1838355952355807475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_48
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 940
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e91449b5938a210800000000000000
+      internalID: 1344387554262228557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_49
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 940
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ca04d4e1e7e94c0800000000000000
+      internalID: -4278843927345189804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_50
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 940
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a116321075dbf9900800000000000000
+      internalID: 693481049017245978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_51
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 940
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e9508dbbff17b80800000000000000
+      internalID: -8398650647821050221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_52
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 940
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942825e385e7e6180800000000000000
+      internalID: -9120213277910859191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_53
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 940
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d8a1ce9f081fdc0800000000000000
+      internalID: -3606960015650681468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 752
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6ebee879d1f09c0800000000000000
+      internalID: -3958913010660284752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_55
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 752
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d0110551fb607f0800000000000000
+      internalID: -646619398222574257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_56
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 752
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5a33cfe3f52f4c0800000000000000
+      internalID: -4255233973787843116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_57
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 752
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c5a369744eec9f0800000000000000
+      internalID: -446168316948882327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_58
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 752
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093046dd6dc421420800000000000000
+      internalID: 2599224420667229072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_59
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 752
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42d0457e0e5e8dce0800000000000000
+      internalID: -1380100531672576732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_60
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 752
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e1a330880da6660800000000000000
+      internalID: 7379940221988249128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_61
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 752
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee7566687ee08790800000000000000
+      internalID: -7529756376082055453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_62
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 752
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76490ddfdaef20420800000000000000
+      internalID: 2594916358559929447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e096df38bfeb60cd0800000000000000
+      internalID: -2592174548044650226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_64
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 564
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bde92f4114d3b70800000000000000
+      internalID: 8880325598470134642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_65
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 564
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb163cfb297d059d0800000000000000
+      internalID: -2787491144059887169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_66
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 564
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43da6630db08c76c0800000000000000
+      internalID: -4144296007793464012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_67
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 564
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c983952a6a92510800000000000000
+      internalID: 1524933165053418582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_68
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 564
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af743697ee4c457b0800000000000000
+      internalID: -5236343938207234054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_69
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 564
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978a54f1cc5d157b0800000000000000
+      internalID: -5237169818980472711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_70
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 564
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f073663de15b3fda0800000000000000
+      internalID: -5912182741806991601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_71
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 564
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b517e32eb141cf80800000000000000
+      internalID: -8088111170878761551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac29c41f21a4bdc80800000000000000
+      internalID: -8296956443281812790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_73
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 376
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97ee1209cbf31b10800000000000000
+      internalID: 1951179904324134814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_74
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 376
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f2e159bd0ab8e40800000000000000
+      internalID: 5659794221681225626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_75
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 376
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5f60661b93ecd00800000000000000
+      internalID: 994796001779185115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_76
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 376
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de78917e08808e30800000000000000
+      internalID: 4503749222987235031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_77
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 376
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acebf0fda052a35a0800000000000000
+      internalID: -6540874780179972406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_78
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 376
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a24149894256df0800000000000000
+      internalID: -187703571728029114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_79
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 376
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019c3c0226e3196a0800000000000000
+      internalID: -6444301000613050096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_80
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 376
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c2d1349b4361fd0800000000000000
+      internalID: -2371650183464408050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b77cae3cc373d60800000000000000
+      internalID: 7869825686008462217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_82
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 188
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 677d84d0cdbe8c400800000000000000
+      internalID: 344784701842052982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_83
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 188
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6583f49543bb080800000000000000
+      internalID: -9170678658024057122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_84
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 188
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d38fbc3951c6630800000000000000
+      internalID: 3921533100059278600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_85
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 188
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87bdd17198b7d370800000000000000
+      internalID: 8347343369174628238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_86
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 188
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249aae0e668c44430800000000000000
+      internalID: 3766355532574271810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_87
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 188
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584d7b47f63d60d10800000000000000
+      internalID: 2091591552613209221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_88
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 188
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ca10aff93c6eaf0800000000000000
+      internalID: -367391227722486730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_89
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 188
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767b5e8a60b5d2240800000000000000
+      internalID: 4768567664616781671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bcdf1ea472f3fc0800000000000000
+      internalID: -3513045981753128036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_91
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b071c1b4e4b60a850800000000000000
+      internalID: 6386222255623116555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_92
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 0
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f791fd5c8eacea0800000000000000
+      internalID: -5851608829265346735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_93
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bc2dc44ac67c630800000000000000
+      internalID: 3947243051332848481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_94
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 0
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7af3f2efafb2b300800000000000000
+      internalID: 266486090116102779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerBury_95
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 0
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb9f693ac9db98e0800000000000000
+      internalID: -1685514172949881927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

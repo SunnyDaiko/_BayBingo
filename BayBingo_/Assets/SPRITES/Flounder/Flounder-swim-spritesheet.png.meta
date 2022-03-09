@@ -1,7 +1,151 @@
 fileFormatVersion: 2
 guid: fb4660e391e098348b6fc754276bd6f9
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2685367051246310353
+    second: Flounder-swim-spritesheet_0
+  - first:
+      213: -7056548572896858814
+    second: Flounder-swim-spritesheet_1
+  - first:
+      213: 4787664963808798029
+    second: Flounder-swim-spritesheet_2
+  - first:
+      213: -3040773228905996669
+    second: Flounder-swim-spritesheet_3
+  - first:
+      213: -1464181584423861502
+    second: Flounder-swim-spritesheet_4
+  - first:
+      213: 7244605068124845680
+    second: Flounder-swim-spritesheet_5
+  - first:
+      213: 282616668212458385
+    second: Flounder-swim-spritesheet_6
+  - first:
+      213: -8457476951543436788
+    second: Flounder-swim-spritesheet_7
+  - first:
+      213: -6073667890904169712
+    second: Flounder-swim-spritesheet_8
+  - first:
+      213: -1569508529408422450
+    second: Flounder-swim-spritesheet_9
+  - first:
+      213: -934232090969927726
+    second: Flounder-swim-spritesheet_10
+  - first:
+      213: 2104297693373257706
+    second: Flounder-swim-spritesheet_11
+  - first:
+      213: 6897232672584258941
+    second: Flounder-swim-spritesheet_12
+  - first:
+      213: -2527819923829836526
+    second: Flounder-swim-spritesheet_13
+  - first:
+      213: 8523670097294510002
+    second: Flounder-swim-spritesheet_14
+  - first:
+      213: 5220483576734249103
+    second: Flounder-swim-spritesheet_15
+  - first:
+      213: 5402439091045614538
+    second: Flounder-swim-spritesheet_16
+  - first:
+      213: 3349279285931291504
+    second: Flounder-swim-spritesheet_17
+  - first:
+      213: -7187383469635329956
+    second: Flounder-swim-spritesheet_18
+  - first:
+      213: 5217327431641825625
+    second: Flounder-swim-spritesheet_19
+  - first:
+      213: 4067374253261029692
+    second: Flounder-swim-spritesheet_20
+  - first:
+      213: 7788816944809974596
+    second: Flounder-swim-spritesheet_21
+  - first:
+      213: 10754303486349523
+    second: Flounder-swim-spritesheet_22
+  - first:
+      213: -1866427817538273777
+    second: Flounder-swim-spritesheet_23
+  - first:
+      213: 5763226690878574636
+    second: Flounder-swim-spritesheet_24
+  - first:
+      213: 4682324050736928002
+    second: Flounder-swim-spritesheet_25
+  - first:
+      213: -1090431617091116005
+    second: Flounder-swim-spritesheet_26
+  - first:
+      213: 3497759493677260756
+    second: Flounder-swim-spritesheet_27
+  - first:
+      213: -6307165118760798525
+    second: Flounder-swim-spritesheet_28
+  - first:
+      213: 551741947202312758
+    second: Flounder-swim-spritesheet_29
+  - first:
+      213: 432084725864384266
+    second: Flounder-swim-spritesheet_30
+  - first:
+      213: 7496947342417655318
+    second: Flounder-swim-spritesheet_31
+  - first:
+      213: -6318297759784180084
+    second: Flounder-swim-spritesheet_32
+  - first:
+      213: -1547008030656106237
+    second: Flounder-swim-spritesheet_33
+  - first:
+      213: -3522060079504260827
+    second: Flounder-swim-spritesheet_34
+  - first:
+      213: 7547340789741717195
+    second: Flounder-swim-spritesheet_35
+  - first:
+      213: 4628990339806659369
+    second: Flounder-swim-spritesheet_36
+  - first:
+      213: -3318236968587782713
+    second: Flounder-swim-spritesheet_37
+  - first:
+      213: 3581303723668061286
+    second: Flounder-swim-spritesheet_38
+  - first:
+      213: 2799740201438581203
+    second: Flounder-swim-spritesheet_39
+  - first:
+      213: -6509986426893893878
+    second: Flounder-swim-spritesheet_40
+  - first:
+      213: 6679654796709260113
+    second: Flounder-swim-spritesheet_41
+  - first:
+      213: -7074616654485376587
+    second: Flounder-swim-spritesheet_42
+  - first:
+      213: -3651507331233350764
+    second: Flounder-swim-spritesheet_43
+  - first:
+      213: -67488614192707033
+    second: Flounder-swim-spritesheet_44
+  - first:
+      213: 2548151106138001586
+    second: Flounder-swim-spritesheet_45
+  - first:
+      213: 1604859955286512192
+    second: Flounder-swim-spritesheet_46
+  - first:
+      213: -8889141552623102993
+    second: Flounder-swim-spritesheet_47
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +185,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +219,1029 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cece205e8abbad0800000000000000
+      internalID: -2685367051246310353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d613cc57a121e90800000000000000
+      internalID: -7056548572896858814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45286f1be3317240800000000000000
+      internalID: 4787664963808798029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e5a88ebd00dc5d0800000000000000
+      internalID: -3040773228905996669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2034fb54b9e2eabe0800000000000000
+      internalID: -1464181584423861502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2520
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07673970de10a8460800000000000000
+      internalID: 7244605068124845680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1937864cc5e0ce300800000000000000
+      internalID: 282616668212458385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a233fa58101aa80800000000000000
+      internalID: -8457476951543436788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01306fe9b3ff5bba0800000000000000
+      internalID: -6073667890904169712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd4aa0ee4cf73ae0800000000000000
+      internalID: -1569508529408422450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df87ffecd0f803f0800000000000000
+      internalID: -934232090969927726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2160
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7df236a97f33d10800000000000000
+      internalID: 2104297693373257706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d755a969294e7bf50800000000000000
+      internalID: 6897232672584258941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215b7f71c216becd0800000000000000
+      internalID: -2527819923829836526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7cbdb0bc82a4670800000000000000
+      internalID: 8523670097294510002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80710b5722e27840800000000000000
+      internalID: 5220483576734249103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3457edab159fa40800000000000000
+      internalID: 5402439091045614538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 073328be3c70b7e20800000000000000
+      internalID: 3349279285931291504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c502fd390d8414c90800000000000000
+      internalID: -7187383469635329956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95189ef08aba76840800000000000000
+      internalID: 5217327431641825625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31813e5557327830800000000000000
+      internalID: 4067374253261029692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b11ff8ebf671c60800000000000000
+      internalID: 7788816944809974596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d05c176bf4362000800000000000000
+      internalID: 10754303486349523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e39b8e9cd1916e0800000000000000
+      internalID: -1866427817538273777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c201ed5f3281bff40800000000000000
+      internalID: 5763226690878574636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20551778ae4faf040800000000000000
+      internalID: 4682324050736928002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14ed6bb8320ed0f0800000000000000
+      internalID: -1090431617091116005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df12624ab98a8030800000000000000
+      internalID: 3497759493677260756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c63784cdb27878a0800000000000000
+      internalID: -6307165118760798525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a1da2b06e28a700800000000000000
+      internalID: 551741947202312758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07c406d4c21ff500800000000000000
+      internalID: 432084725864384266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 720
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616fc9c23e18a0860800000000000000
+      internalID: 7496947342417655318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 720
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86eaeac9a5e058a0800000000000000
+      internalID: -6318297759784180084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 720
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301f01c746ce78ae0800000000000000
+      internalID: -1547008030656106237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 720
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5218093b4012f1fc0800000000000000
+      internalID: -3522060079504260827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 720
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc60f53f57a8db860800000000000000
+      internalID: 7547340789741717195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92304e8403a7d3040800000000000000
+      internalID: 4628990339806659369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 360
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c591cece0143f1d0800000000000000
+      internalID: -3318236968587782713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 360
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cb40a13c853b130800000000000000
+      internalID: 3581303723668061286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 360
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1902a21ecaad620800000000000000
+      internalID: 2799740201438581203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 360
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0fff5c06d1e7a5a0800000000000000
+      internalID: -6509986426893893878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 360
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15be614b5a6e2bc50800000000000000
+      internalID: 6679654796709260113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1365bb2a9e1dd90800000000000000
+      internalID: -7074616654485376587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bf913cd6d335dc0800000000000000
+      internalID: -3651507331233350764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a09a4867b301ff0800000000000000
+      internalID: -67488614192707033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0df5b2ee9dc5320800000000000000
+      internalID: 2548151106138001586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0421a1d50ab954610800000000000000
+      internalID: 1604859955286512192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flounder-swim-spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe35cb5cadc63a480800000000000000
+      internalID: -8889141552623102993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

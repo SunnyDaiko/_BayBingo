@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: a25d36cbb3d632e4aaca942384945f5f
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -7972015670146935718
+    second: Longnose-Gar-swim-spritesheet_0
+  - first:
+      213: -6296101990048468695
+    second: Longnose-Gar-swim-spritesheet_1
+  - first:
+      213: -3718788798862187628
+    second: Longnose-Gar-swim-spritesheet_2
+  - first:
+      213: 3665352121885708134
+    second: Longnose-Gar-swim-spritesheet_3
+  - first:
+      213: -8889945056044352860
+    second: Longnose-Gar-swim-spritesheet_4
+  - first:
+      213: -6578377697338490245
+    second: Longnose-Gar-swim-spritesheet_5
+  - first:
+      213: 4277636139141389543
+    second: Longnose-Gar-swim-spritesheet_6
+  - first:
+      213: 6261657977369260349
+    second: Longnose-Gar-swim-spritesheet_7
+  - first:
+      213: 7532349779651978354
+    second: Longnose-Gar-swim-spritesheet_8
+  - first:
+      213: -263914188455049695
+    second: Longnose-Gar-swim-spritesheet_9
+  - first:
+      213: 5195342337364267953
+    second: Longnose-Gar-swim-spritesheet_10
+  - first:
+      213: -5361003479854473502
+    second: Longnose-Gar-swim-spritesheet_11
+  - first:
+      213: -8892465834365075618
+    second: Longnose-Gar-swim-spritesheet_12
+  - first:
+      213: -4457422223516629959
+    second: Longnose-Gar-swim-spritesheet_13
+  - first:
+      213: -113407247901525097
+    second: Longnose-Gar-swim-spritesheet_14
+  - first:
+      213: -8863594001202426299
+    second: Longnose-Gar-swim-spritesheet_15
+  - first:
+      213: 4115530488747473220
+    second: Longnose-Gar-swim-spritesheet_16
+  - first:
+      213: -6099095316525290134
+    second: Longnose-Gar-swim-spritesheet_17
+  - first:
+      213: -928460552216358107
+    second: Longnose-Gar-swim-spritesheet_18
+  - first:
+      213: -1157091170821354259
+    second: Longnose-Gar-swim-spritesheet_19
+  - first:
+      213: -8071536458352351267
+    second: Longnose-Gar-swim-spritesheet_20
+  - first:
+      213: -7687420594092384101
+    second: Longnose-Gar-swim-spritesheet_21
+  - first:
+      213: -4010728197006699320
+    second: Longnose-Gar-swim-spritesheet_22
+  - first:
+      213: -1032764173768382598
+    second: Longnose-Gar-swim-spritesheet_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +113,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +147,525 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3867
+        width: 582
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a545b0d4cf5bd5190800000000000000
+      internalID: -7972015670146935718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 3867
+        width: 580
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921f7852990cf98a0800000000000000
+      internalID: -6296101990048468695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 3865
+        width: 580
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4932e195a45346cc0800000000000000
+      internalID: -3718788798862187628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3503
+        width: 582
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fc8b1c552fdd230800000000000000
+      internalID: 3665352121885708134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 3503
+        width: 580
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa7cbd821290a480800000000000000
+      internalID: -8889945056044352860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 3505
+        width: 580
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7289c78658e4b4a0800000000000000
+      internalID: -6578377697338490245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3143
+        width: 582
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec55e797673d5b30800000000000000
+      internalID: 4277636139141389543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 3141
+        width: 580
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31f51631c0e5e650800000000000000
+      internalID: 6261657977369260349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 3141
+        width: 580
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274e52c6738488860800000000000000
+      internalID: 7532349779651978354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2779
+        width: 582
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12683f1a173665cf0800000000000000
+      internalID: -263914188455049695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2779
+        width: 580
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b315296450991840800000000000000
+      internalID: 5195342337364267953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 2781
+        width: 580
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee14a72db3e995b0800000000000000
+      internalID: -5361003479854473502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2419
+        width: 582
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f3f5d107d979480800000000000000
+      internalID: -8892465834365075618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2419
+        width: 580
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9340c59aa1e0422c0800000000000000
+      internalID: -4457422223516629959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 2417
+        width: 580
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bffd975b81d6ef0800000000000000
+      internalID: -113407247901525097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2055
+        width: 582
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ecb0d97303ef480800000000000000
+      internalID: -8863594001202426299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 2055
+        width: 580
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449351cac2d4d1930800000000000000
+      internalID: 4115530488747473220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 2057
+        width: 580
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6de24fbf19ab5ba0800000000000000
+      internalID: -6099095316525290134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1695
+        width: 582
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5235e250c027d13f0800000000000000
+      internalID: -928460552216358107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1693
+        width: 580
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decc37ee5bf21ffe0800000000000000
+      internalID: -1157091170821354259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1693
+        width: 580
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd72b402b542cff80800000000000000
+      internalID: -8071536458352351267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1331
+        width: 582
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90e91a03bbc05590800000000000000
+      internalID: -7687420594092384101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1331
+        width: 580
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4d5ce54f70758c0800000000000000
+      internalID: -4010728197006699320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-swim-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 1333
+        width: 580
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7729cda472eaa1f0800000000000000
+      internalID: -1032764173768382598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

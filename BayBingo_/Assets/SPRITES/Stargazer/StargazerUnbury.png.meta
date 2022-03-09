@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: c2e42bb651dd67b42b396023f718a3d5
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 2862617298096564370
+    second: StargazerUnbury_0
+  - first:
+      213: -4957738381260172581
+    second: StargazerUnbury_1
+  - first:
+      213: -4297534190004954015
+    second: StargazerUnbury_2
+  - first:
+      213: -18476933043576193
+    second: StargazerUnbury_3
+  - first:
+      213: -1324177857014292187
+    second: StargazerUnbury_4
+  - first:
+      213: -1967034348191231758
+    second: StargazerUnbury_5
+  - first:
+      213: -4003525834001619287
+    second: StargazerUnbury_6
+  - first:
+      213: -3118438659521151563
+    second: StargazerUnbury_7
+  - first:
+      213: -1086509056049805126
+    second: StargazerUnbury_8
+  - first:
+      213: 1822272345380454339
+    second: StargazerUnbury_9
+  - first:
+      213: -8703930470517858756
+    second: StargazerUnbury_10
+  - first:
+      213: -8676909450440633341
+    second: StargazerUnbury_11
+  - first:
+      213: -6045813170074648253
+    second: StargazerUnbury_12
+  - first:
+      213: 5667246307975808028
+    second: StargazerUnbury_13
+  - first:
+      213: 147035747894636065
+    second: StargazerUnbury_14
+  - first:
+      213: -2681345707737464587
+    second: StargazerUnbury_15
+  - first:
+      213: 9006322823011143370
+    second: StargazerUnbury_16
+  - first:
+      213: 1959529421176492547
+    second: StargazerUnbury_17
+  - first:
+      213: 7236424047136060791
+    second: StargazerUnbury_18
+  - first:
+      213: 6440495271371624233
+    second: StargazerUnbury_19
+  - first:
+      213: 9061368034611290483
+    second: StargazerUnbury_20
+  - first:
+      213: 2060269294835639077
+    second: StargazerUnbury_21
+  - first:
+      213: -5830110600443271278
+    second: StargazerUnbury_22
+  - first:
+      213: -4673702934495849231
+    second: StargazerUnbury_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +113,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +147,525 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: StargazerUnbury_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2982fec044f0ab720800000000000000
+      internalID: 2862617298096564370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_1
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 564
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2daaf9533923bb0800000000000000
+      internalID: -4957738381260172581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_2
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 564
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c98aa6c671c54c0800000000000000
+      internalID: -4297534190004954015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_3
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 564
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f722669c35b5ebff0800000000000000
+      internalID: -18476933043576193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_4
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 564
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521a93d31439f9de0800000000000000
+      internalID: -1324177857014292187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_5
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 564
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0d11f9ea0b3b4e0800000000000000
+      internalID: -1967034348191231758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a6eb3f277e9078c0800000000000000
+      internalID: -4003525834001619287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_7
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 376
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd7565bf8419b4d0800000000000000
+      internalID: -3118438659521151563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_8
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 376
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab808e425c1fbe0f0800000000000000
+      internalID: -1086509056049805126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_9
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 376
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf7b661b030a4910800000000000000
+      internalID: 1822272345380454339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_10
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 376
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e951b3a5d653780800000000000000
+      internalID: -8703930470517858756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_11
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 376
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304914ab3dc659780800000000000000
+      internalID: -8676909450440633341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341825334f4f81ca0800000000000000
+      internalID: -6045813170074648253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_13
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 188
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14ca81ad7a16ae40800000000000000
+      internalID: 5667246307975808028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_14
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 188
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e2b82db306a0200800000000000000
+      internalID: 147035747894636065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_15
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 188
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f04a420942f9cad0800000000000000
+      internalID: -2681345707737464587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_16
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 188
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace8216d3e2ecfc70800000000000000
+      internalID: 9006322823011143370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_17
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 188
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302d62460a5a13b10800000000000000
+      internalID: 1959529421176492547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775b3a5a451fc6460800000000000000
+      internalID: 7236424047136060791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_19
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 0
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f40bb735c316950800000000000000
+      internalID: 6440495271371624233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_20
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 0
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371e512e73270cd70800000000000000
+      internalID: 9061368034611290483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_21
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 0
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523a254020c879c10800000000000000
+      internalID: 2060269294835639077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_22
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 0
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297e6535c49471fa0800000000000000
+      internalID: -5830110600443271278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerUnbury_23
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 0
+        width: 488
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f49ca381fba32fb0800000000000000
+      internalID: -4673702934495849231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

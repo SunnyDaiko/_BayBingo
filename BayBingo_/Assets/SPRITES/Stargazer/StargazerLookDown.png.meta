@@ -1,7 +1,40 @@
 fileFormatVersion: 2
 guid: ea7512b3c96a6ee4bb80ea095f2c65d0
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1784023904940272738
+    second: StargazerLookDown_0
+  - first:
+      213: -6639540960004922240
+    second: StargazerLookDown_1
+  - first:
+      213: 7306302769388157092
+    second: StargazerLookDown_2
+  - first:
+      213: 4370702420678403544
+    second: StargazerLookDown_3
+  - first:
+      213: -5722709206242287190
+    second: StargazerLookDown_4
+  - first:
+      213: 4832699606467723657
+    second: StargazerLookDown_5
+  - first:
+      213: 6834499432189549925
+    second: StargazerLookDown_6
+  - first:
+      213: -8774141091247750085
+    second: StargazerLookDown_7
+  - first:
+      213: 3471256849835513982
+    second: StargazerLookDown_8
+  - first:
+      213: -5470374684488142721
+    second: StargazerLookDown_9
+  - first:
+      213: 980898003884314106
+    second: StargazerLookDown_10
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +74,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +108,252 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: StargazerLookDown_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 971
+        width: 307
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93da3be5bfdd37e0800000000000000
+      internalID: -1784023904940272738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerLookDown_1
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 971
+        width: 307
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0842047bcac9bd3a0800000000000000
+      internalID: -6639540960004922240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerLookDown_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 782
+        width: 307
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a875d688a3356560800000000000000
+      internalID: 7306302769388157092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerLookDown_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 782
+        width: 307
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5e973d1bad7ac30800000000000000
+      internalID: 4370702420678403544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerLookDown_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 594
+        width: 307
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa122111c4ad490b0800000000000000
+      internalID: -5722709206242287190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerLookDown_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 595
+        width: 307
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981cda5ffa2311340800000000000000
+      internalID: 4832699606467723657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerLookDown_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 407
+        width: 307
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d5449d50509de50800000000000000
+      internalID: 6834499432189549925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerLookDown_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 407
+        width: 307
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3405073a2dfb3680800000000000000
+      internalID: -8774141091247750085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerLookDown_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 219
+        width: 307
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e785692a6b16c2030800000000000000
+      internalID: 3471256849835513982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerLookDown_9
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 219
+        width: 307
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f707bce25335514b0800000000000000
+      internalID: -5470374684488142721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerLookDown_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 30
+        width: 307
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd0a6a9989dc9d00800000000000000
+      internalID: 980898003884314106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

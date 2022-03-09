@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: c95d99d9cb5bbe340a10762a3c0e8152
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3840980601514699995
+    second: StargazerSwimForwrd_0
+  - first:
+      213: 2376155033956653173
+    second: StargazerSwimForwrd_1
+  - first:
+      213: -5783268047894928752
+    second: StargazerSwimForwrd_2
+  - first:
+      213: 3812484279250949070
+    second: StargazerSwimForwrd_3
+  - first:
+      213: -776773925980674542
+    second: StargazerSwimForwrd_4
+  - first:
+      213: -762919033204559736
+    second: StargazerSwimForwrd_5
+  - first:
+      213: 2088185323958104997
+    second: StargazerSwimForwrd_6
+  - first:
+      213: -6907866413649666077
+    second: StargazerSwimForwrd_7
+  - first:
+      213: -987614782626340611
+    second: StargazerSwimForwrd_8
+  - first:
+      213: 8826664002947367843
+    second: StargazerSwimForwrd_9
+  - first:
+      213: -6028858890701933661
+    second: StargazerSwimForwrd_10
+  - first:
+      213: -8019176587834484126
+    second: StargazerSwimForwrd_11
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +77,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +111,273 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: StargazerSwimForwrd_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 970
+        width: 307
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523dc894e7812bac0800000000000000
+      internalID: -3840980601514699995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimForwrd_1
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 970
+        width: 307
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5781e3af96cc9f020800000000000000
+      internalID: 2376155033956653173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimForwrd_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 783
+        width: 307
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0922b5cf954bdbfa0800000000000000
+      internalID: -5783268047894928752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimForwrd_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 783
+        width: 307
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec39388a04aa8e430800000000000000
+      internalID: 3812484279250949070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimForwrd_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 595
+        width: 307
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216e227da385835f0800000000000000
+      internalID: -776773925980674542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimForwrd_5
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 595
+        width: 307
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88035717e219965f0800000000000000
+      internalID: -762919033204559736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimForwrd_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 407
+        width: 307
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3f4bb0d79bafc10800000000000000
+      internalID: 2088185323958104997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimForwrd_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 406
+        width: 307
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef5f82a8145220a0800000000000000
+      internalID: -6907866413649666077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimForwrd_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 218
+        width: 307
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0e1aa76994b42f0800000000000000
+      internalID: -987614782626340611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimForwrd_9
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 218
+        width: 307
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3c76f152c9e7a70800000000000000
+      internalID: 8826664002947367843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimForwrd_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 31
+        width: 307
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a371caf7c0355ca0800000000000000
+      internalID: -6028858890701933661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StargazerSwimForwrd_11
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 31
+        width: 307
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a1ffa716926b090800000000000000
+      internalID: -8019176587834484126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

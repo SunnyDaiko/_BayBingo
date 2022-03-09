@@ -1,7 +1,55 @@
 fileFormatVersion: 2
 guid: 225194b27271df048924f71796f9df63
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 484011021041859348
+    second: searobin-fold-spritesheet_0
+  - first:
+      213: 5184442188480911072
+    second: searobin-fold-spritesheet_1
+  - first:
+      213: 5405278736953803594
+    second: searobin-fold-spritesheet_2
+  - first:
+      213: -8246806218824353125
+    second: searobin-fold-spritesheet_3
+  - first:
+      213: -729444691211204974
+    second: searobin-fold-spritesheet_4
+  - first:
+      213: -6278296872545281943
+    second: searobin-fold-spritesheet_5
+  - first:
+      213: 8044335430378094546
+    second: searobin-fold-spritesheet_6
+  - first:
+      213: 6830820491399463482
+    second: searobin-fold-spritesheet_7
+  - first:
+      213: 1755843021046991430
+    second: searobin-fold-spritesheet_8
+  - first:
+      213: 8367307138609039173
+    second: searobin-fold-spritesheet_9
+  - first:
+      213: -3874580126459325656
+    second: searobin-fold-spritesheet_10
+  - first:
+      213: 7236074861211798684
+    second: searobin-fold-spritesheet_11
+  - first:
+      213: 2915749723927965756
+    second: searobin-fold-spritesheet_12
+  - first:
+      213: -7304402138244225564
+    second: searobin-fold-spritesheet_13
+  - first:
+      213: -693988897106722700
+    second: searobin-fold-spritesheet_14
+  - first:
+      213: -2745838662942522970
+    second: searobin-fold-spritesheet_15
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +89,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +123,357 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: searobin-fold-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1737
+        width: 620
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bf290957d87b600800000000000000
+      internalID: 484011021041859348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1737
+        width: 619
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e614fab3b6d2f740800000000000000
+      internalID: 5184442188480911072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 1737
+        width: 606
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a438a147f58630b40800000000000000
+      internalID: 5405278736953803594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1424
+        width: 573
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9afd7bff657d8d80800000000000000
+      internalID: -8246806218824353125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1424
+        width: 549
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296cf090bed70e5f0800000000000000
+      internalID: -729444691211204974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 1424
+        width: 573
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9681e7d12420fd8a0800000000000000
+      internalID: -6278296872545281943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1211
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df76c5047833af60800000000000000
+      internalID: 8044335430378094546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1111
+        width: 605
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a320352bb03fbce50800000000000000
+      internalID: 6830820491399463482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1111
+        width: 618
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64acadebce10e5810800000000000000
+      internalID: 1755843021046991430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 1111
+        width: 571
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547c16bb285ae1470800000000000000
+      internalID: 8367307138609039173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 796
+        width: 617
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8239a9447e9ba3ac0800000000000000
+      internalID: -3874580126459325656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 797
+        width: 600
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cc9a67fb3bb6460800000000000000
+      internalID: 7236074861211798684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 996
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c307ba4fce2d67820800000000000000
+      internalID: 2915749723927965756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 797
+        width: 618
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e56955a4fc81aa90800000000000000
+      internalID: -7304402138244225564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 996
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47083e566c47e56f0800000000000000
+      internalID: -693988897106722700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: searobin-fold-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 795
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a107ccb842d4e9d0800000000000000
+      internalID: -2745838662942522970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

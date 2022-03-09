@@ -1,7 +1,115 @@
 fileFormatVersion: 2
 guid: 22f6c0548215b4743928bed29b73af73
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -3995496844284079700
+    second: Longnose-Gar-snap-spritesheet_0
+  - first:
+      213: 5459596683593163591
+    second: Longnose-Gar-snap-spritesheet_1
+  - first:
+      213: 6257473914007828769
+    second: Longnose-Gar-snap-spritesheet_2
+  - first:
+      213: -3402227064794366363
+    second: Longnose-Gar-snap-spritesheet_3
+  - first:
+      213: -7014997061890869993
+    second: Longnose-Gar-snap-spritesheet_4
+  - first:
+      213: -3478521193143933773
+    second: Longnose-Gar-snap-spritesheet_5
+  - first:
+      213: 26904014336857580
+    second: Longnose-Gar-snap-spritesheet_6
+  - first:
+      213: 5749024250107944702
+    second: Longnose-Gar-snap-spritesheet_7
+  - first:
+      213: 1123762733851465219
+    second: Longnose-Gar-snap-spritesheet_8
+  - first:
+      213: -7598273575672694545
+    second: Longnose-Gar-snap-spritesheet_9
+  - first:
+      213: -4656672727172157865
+    second: Longnose-Gar-snap-spritesheet_10
+  - first:
+      213: -3830201426537672208
+    second: Longnose-Gar-snap-spritesheet_11
+  - first:
+      213: 6865314675967633012
+    second: Longnose-Gar-snap-spritesheet_12
+  - first:
+      213: 8550175634342309931
+    second: Longnose-Gar-snap-spritesheet_13
+  - first:
+      213: 6675060599750362216
+    second: Longnose-Gar-snap-spritesheet_14
+  - first:
+      213: -7047923880181161816
+    second: Longnose-Gar-snap-spritesheet_15
+  - first:
+      213: 785515935055977537
+    second: Longnose-Gar-snap-spritesheet_16
+  - first:
+      213: -9215445492555662727
+    second: Longnose-Gar-snap-spritesheet_17
+  - first:
+      213: 4993593636733340925
+    second: Longnose-Gar-snap-spritesheet_18
+  - first:
+      213: 1119719866705158121
+    second: Longnose-Gar-snap-spritesheet_19
+  - first:
+      213: -5225734889737423608
+    second: Longnose-Gar-snap-spritesheet_20
+  - first:
+      213: -4717858537992093702
+    second: Longnose-Gar-snap-spritesheet_21
+  - first:
+      213: 586373848228452841
+    second: Longnose-Gar-snap-spritesheet_22
+  - first:
+      213: -9169359191571139681
+    second: Longnose-Gar-snap-spritesheet_23
+  - first:
+      213: -8511182885761909519
+    second: Longnose-Gar-snap-spritesheet_24
+  - first:
+      213: -8553795513080657897
+    second: Longnose-Gar-snap-spritesheet_25
+  - first:
+      213: -8741264953553915651
+    second: Longnose-Gar-snap-spritesheet_26
+  - first:
+      213: 4426491510440488918
+    second: Longnose-Gar-snap-spritesheet_27
+  - first:
+      213: 7087046879207901606
+    second: Longnose-Gar-snap-spritesheet_28
+  - first:
+      213: -8547121919491528504
+    second: Longnose-Gar-snap-spritesheet_29
+  - first:
+      213: -6103217311237617472
+    second: Longnose-Gar-snap-spritesheet_30
+  - first:
+      213: -5083439326467401585
+    second: Longnose-Gar-snap-spritesheet_31
+  - first:
+      213: -7000732556888671102
+    second: Longnose-Gar-snap-spritesheet_32
+  - first:
+      213: -4942539898119692961
+    second: Longnose-Gar-snap-spritesheet_33
+  - first:
+      213: 2585065316187814308
+    second: Longnose-Gar-snap-spritesheet_34
+  - first:
+      213: 6238855973735240766
+    second: Longnose-Gar-snap-spritesheet_35
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +149,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +183,777 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1d0470ac42d88c0800000000000000
+      internalID: -3995496844284079700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743a87ee14264cb40800000000000000
+      internalID: 5459596683593163591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 129b5bb0f5307d650800000000000000
+      internalID: 6257473914007828769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e36b5a28cd8c0d0800000000000000
+      internalID: -3402227064794366363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715f599d659b5ae90800000000000000
+      internalID: -7014997061890869993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1800
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4ecf2a76fc9bfc0800000000000000
+      internalID: -3478521193143933773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce59499fe059f5000800000000000000
+      internalID: 26904014336857580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe5ac88813a8cf40800000000000000
+      internalID: 5749024250107944702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306d903a048689f00800000000000000
+      internalID: 1123762733851465219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8bac7b0728d8690800000000000000
+      internalID: -7598273575672694545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e67a5a3dc206fb0800000000000000
+      internalID: -4656672727172157865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1440
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f11709881468dac0800000000000000
+      internalID: -3830201426537672208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476a354e25f764f50800000000000000
+      internalID: 6865314675967633012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b207c2c407358a670800000000000000
+      internalID: 8550175634342309931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864835edf3492ac50800000000000000
+      internalID: 6675060599750362216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a02fcd829eb03e90800000000000000
+      internalID: -7047923880181161816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c9b62c496b6ea00800000000000000
+      internalID: 785515935055977537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1080
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97abe3966292c1080800000000000000
+      internalID: -9215445492555662727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc442694fecc4540800000000000000
+      internalID: 4993593636733340925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 720
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef98e6494b0a8f00800000000000000
+      internalID: 1119719866705158121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 720
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805f5de0ec57a77b0800000000000000
+      internalID: -5225734889737423608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 720
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affff6ee7acc68eb0800000000000000
+      internalID: -4717858537992093702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 720
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e95c3188e7332800800000000000000
+      internalID: 586373848228452841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 720
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9370788564efb080800000000000000
+      internalID: -9169359191571139681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcf6c3724432e980800000000000000
+      internalID: -8511182885761909519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 360
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7184f710d40da4980800000000000000
+      internalID: -8553795513080657897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 360
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0f8d386d9c0b680800000000000000
+      internalID: -8741264953553915651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 360
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df6611839e0e6d30800000000000000
+      internalID: 4426491510440488918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 360
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a94abd769f3a5260800000000000000
+      internalID: 7087046879207901606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 360
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8a0c816e5826980800000000000000
+      internalID: -8547121919491528504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8caa011340d4ba0800000000000000
+      internalID: -6103217311237617472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88d8a4addef379b0800000000000000
+      internalID: -5083439326467401585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c732bb4d668de90800000000000000
+      internalID: -7000732556888671102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 0
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d516c3622986bb0800000000000000
+      internalID: -4942539898119692961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9be84753fffd320800000000000000
+      internalID: 2585065316187814308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Longnose-Gar-snap-spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 640
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e341057047ed49650800000000000000
+      internalID: 6238855973735240766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

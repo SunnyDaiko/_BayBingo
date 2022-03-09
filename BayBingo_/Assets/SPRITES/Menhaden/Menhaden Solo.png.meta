@@ -1,7 +1,37 @@
 fileFormatVersion: 2
 guid: d57c73b464923b64d87a2adb42a8db2b
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 1993520988426057508
+    second: Menhaden Solo_0
+  - first:
+      213: -2540174231703679610
+    second: Menhaden Solo_1
+  - first:
+      213: -8055993788692337187
+    second: Menhaden Solo_2
+  - first:
+      213: -5506488836425884254
+    second: Menhaden Solo_3
+  - first:
+      213: -8506563271575597224
+    second: Menhaden Solo_4
+  - first:
+      213: 7151971247338315774
+    second: Menhaden Solo_5
+  - first:
+      213: 2189153911569073522
+    second: Menhaden Solo_6
+  - first:
+      213: 6805076496982171492
+    second: Menhaden Solo_7
+  - first:
+      213: -9037439901314150343
+    second: Menhaden Solo_8
+  - first:
+      213: 6471048687808443963
+    second: Menhaden Solo_9
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +71,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +105,231 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Menhaden Solo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 525
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427bb6fd6c86aab10800000000000000
+      internalID: 1993520988426057508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menhaden Solo_1
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1500
+        width: 525
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d83b3aefc7fbcd0800000000000000
+      internalID: -2540174231703679610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menhaden Solo_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1125
+        width: 525
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd6d38e45c533090800000000000000
+      internalID: -8055993788692337187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menhaden Solo_3
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1125
+        width: 525
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad5e21f3950593b0800000000000000
+      internalID: -5506488836425884254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menhaden Solo_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 525
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f0a5236cd92f980800000000000000
+      internalID: -8506563271575597224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menhaden Solo_5
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 750
+        width: 525
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff5869e4f7e04360800000000000000
+      internalID: 7151971247338315774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menhaden Solo_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 525
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2754bb942ef616e10800000000000000
+      internalID: 2189153911569073522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menhaden Solo_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 375
+        width: 525
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f5bf7e40d707e50800000000000000
+      internalID: 6805076496982171492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menhaden Solo_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 525
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9309a3bca40949280800000000000000
+      internalID: -9037439901314150343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menhaden Solo_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 0
+        width: 525
+        height: 375
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3674191f78cdc950800000000000000
+      internalID: 6471048687808443963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
