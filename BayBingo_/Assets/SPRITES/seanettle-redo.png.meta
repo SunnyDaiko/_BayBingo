@@ -1,7 +1,151 @@
 fileFormatVersion: 2
 guid: f5c288e8a38627f41a91a422573cae08
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1901349684809680749
+    second: seanettle-redo_0
+  - first:
+      213: 5733482531632236806
+    second: seanettle-redo_1
+  - first:
+      213: 8123600493591334158
+    second: seanettle-redo_2
+  - first:
+      213: 7032067580412955643
+    second: seanettle-redo_3
+  - first:
+      213: 201028044338037629
+    second: seanettle-redo_4
+  - first:
+      213: 9141705099952576493
+    second: seanettle-redo_5
+  - first:
+      213: 3195482811394916377
+    second: seanettle-redo_6
+  - first:
+      213: 5272541952584870587
+    second: seanettle-redo_7
+  - first:
+      213: 7949767272590444704
+    second: seanettle-redo_8
+  - first:
+      213: -1982129017697383735
+    second: seanettle-redo_9
+  - first:
+      213: 927651498907632778
+    second: seanettle-redo_10
+  - first:
+      213: -6585819323850889977
+    second: seanettle-redo_11
+  - first:
+      213: -4489175020308611178
+    second: seanettle-redo_12
+  - first:
+      213: -2471900668122029479
+    second: seanettle-redo_13
+  - first:
+      213: 2697437457563626747
+    second: seanettle-redo_14
+  - first:
+      213: -6443412418584102511
+    second: seanettle-redo_15
+  - first:
+      213: -5075290986687034322
+    second: seanettle-redo_16
+  - first:
+      213: 499037271137733807
+    second: seanettle-redo_17
+  - first:
+      213: 9051806502317935159
+    second: seanettle-redo_18
+  - first:
+      213: -4214761814756828380
+    second: seanettle-redo_19
+  - first:
+      213: -6098155476956562309
+    second: seanettle-redo_20
+  - first:
+      213: 5706233048652295678
+    second: seanettle-redo_21
+  - first:
+      213: -9161163070300524886
+    second: seanettle-redo_22
+  - first:
+      213: 3348128956521699417
+    second: seanettle-redo_23
+  - first:
+      213: -3810855966058003832
+    second: seanettle-redo_24
+  - first:
+      213: 4664922051762214350
+    second: seanettle-redo_25
+  - first:
+      213: -3781786081896199134
+    second: seanettle-redo_26
+  - first:
+      213: 2028908687354538137
+    second: seanettle-redo_27
+  - first:
+      213: -5787938292529753319
+    second: seanettle-redo_28
+  - first:
+      213: 3166325857562341610
+    second: seanettle-redo_29
+  - first:
+      213: 3237259208351197937
+    second: seanettle-redo_30
+  - first:
+      213: -4068211869270765995
+    second: seanettle-redo_31
+  - first:
+      213: -7195799455669685427
+    second: seanettle-redo_32
+  - first:
+      213: 7153786752966610037
+    second: seanettle-redo_33
+  - first:
+      213: 3851330542911256630
+    second: seanettle-redo_34
+  - first:
+      213: -6738696261298115519
+    second: seanettle-redo_35
+  - first:
+      213: 6727710472617375556
+    second: seanettle-redo_36
+  - first:
+      213: -5709013641146025372
+    second: seanettle-redo_37
+  - first:
+      213: -1271976406213414425
+    second: seanettle-redo_38
+  - first:
+      213: 8377739301374283082
+    second: seanettle-redo_39
+  - first:
+      213: -7840971073189931153
+    second: seanettle-redo_40
+  - first:
+      213: 3522692175067087341
+    second: seanettle-redo_41
+  - first:
+      213: -1692252928893064435
+    second: seanettle-redo_42
+  - first:
+      213: -2537182003687309147
+    second: seanettle-redo_43
+  - first:
+      213: -2326394716495980616
+    second: seanettle-redo_44
+  - first:
+      213: 6094665329610768179
+    second: seanettle-redo_45
+  - first:
+      213: -5282120869620391144
+    second: seanettle-redo_46
+  - first:
+      213: -1629355107655307620
+    second: seanettle-redo_47
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +185,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +219,1029 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: seanettle-redo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3983e13198c0d95e0800000000000000
+      internalID: -1901349684809680749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_1
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609c8d73cfb619f40800000000000000
+      internalID: 5733482531632236806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_2
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d03b5bb93dcb070800000000000000
+      internalID: 8123600493591334158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_3
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb0e07f43ce69160800000000000000
+      internalID: 7032067580412955643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_4
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7309a4f0f13ac200800000000000000
+      internalID: 201028044338037629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_5
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7dc048a5cddde70800000000000000
+      internalID: 9141705099952576493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_6
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9108f03cfa2a85c20800000000000000
+      internalID: 3195482811394916377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_7
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba6a2388f4db2940800000000000000
+      internalID: 5272541952584870587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_8
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a887c9f63f335e60800000000000000
+      internalID: 7949767272590444704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_9
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 2000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca472109201e74e0800000000000000
+      internalID: -1982129017697383735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a848fb39f1eafdc00800000000000000
+      internalID: 927651498907632778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_11
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705e6f6d7387a94a0800000000000000
+      internalID: -6585819323850889977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_12
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fb2fb8a1f33b1c0800000000000000
+      internalID: -4489175020308611178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_13
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9522984607b02bdd0800000000000000
+      internalID: -2471900668122029479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfca9e573193f6520800000000000000
+      internalID: 2697437457563626747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_15
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19934f04b866496a0800000000000000
+      internalID: -6443412418584102511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_16
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c07c6dcb1f099b0800000000000000
+      internalID: -5075290986687034322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_17
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac48db01cfece600800000000000000
+      internalID: 499037271137733807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_18
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a4b3a2e0a7e9d70800000000000000
+      internalID: 9051806502317935159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_19
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bd982d5782285c0800000000000000
+      internalID: -4214761814756828380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cb6e237effe5ba0800000000000000
+      internalID: -6098155476956562309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_21
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efda38e89bc903f40800000000000000
+      internalID: 5706233048652295678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_22
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae6f49b9b20dd080800000000000000
+      internalID: -9161163070300524886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_23
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958dcabfb81f67e20800000000000000
+      internalID: 3348128956521699417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_24
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8824fec80be1d1bc0800000000000000
+      internalID: -3810855966058003832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_25
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec55c28e3e12db040800000000000000
+      internalID: 4664922051762214350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_26
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c8f046895648bc0800000000000000
+      internalID: -3781786081896199134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_27
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998a87793b1282c10800000000000000
+      internalID: 2028908687354538137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_28
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91312ebe9cc1dafa0800000000000000
+      internalID: -5787938292529753319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_29
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 1000
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0332f679c01fb20800000000000000
+      internalID: 3166325857562341610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1faa2a7291e0dec20800000000000000
+      internalID: 3237259208351197937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e8615fbdeca87c0800000000000000
+      internalID: -4068211869270765995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_32
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43fbd12582632c90800000000000000
+      internalID: -7195799455669685427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_33
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c4871462b574360800000000000000
+      internalID: 7153786752966610037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_34
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63876da39bca27530800000000000000
+      internalID: 3851330542911256630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_35
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ca21814775b72a0800000000000000
+      internalID: -6738696261298115519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_36
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447b808a701ad5d50800000000000000
+      internalID: 6727710472617375556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_37
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ab1ad475285c0b0800000000000000
+      internalID: -5709013641146025372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_38
+      rect:
+        serializedVersion: 2
+        x: 3000
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1b8f0a238095ee0800000000000000
+      internalID: -1271976406213414425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_39
+      rect:
+        serializedVersion: 2
+        x: 3375
+        y: 500
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d4e37e185b34470800000000000000
+      internalID: 8377739301374283082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6796682a564f2390800000000000000
+      internalID: -7840971073189931153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 0
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de10ce38edd13e030800000000000000
+      internalID: 3522692175067087341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_42
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 0
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0be6375de8e388e0800000000000000
+      internalID: -1692252928893064435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_43
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 0
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a044b3096e1accd0800000000000000
+      internalID: -2537182003687309147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_44
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b759e3c45cf6bfd0800000000000000
+      internalID: -2326394716495980616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_45
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 0
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33fb65c83d9949450800000000000000
+      internalID: 6094665329610768179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_46
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 0
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81369911e0322b6b0800000000000000
+      internalID: -5282120869620391144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: seanettle-redo_47
+      rect:
+        serializedVersion: 2
+        x: 2625
+        y: 0
+        width: 375
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9eac3b892e5369e0800000000000000
+      internalID: -1629355107655307620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

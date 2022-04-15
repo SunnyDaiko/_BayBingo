@@ -1,7 +1,103 @@
 fileFormatVersion: 2
 guid: 11f6f2bce99669b47a881db42c2715a4
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6885793938548658303
+    second: Snakehead-spritesheets_0
+  - first:
+      213: -774709279006192877
+    second: Snakehead-spritesheets_1
+  - first:
+      213: 6035533237455386257
+    second: Snakehead-spritesheets_2
+  - first:
+      213: -967375881711878761
+    second: Snakehead-spritesheets_3
+  - first:
+      213: 6731910275156299854
+    second: Snakehead-spritesheets_4
+  - first:
+      213: -4666438755629136753
+    second: Snakehead-spritesheets_5
+  - first:
+      213: -4871521085598136932
+    second: Snakehead-spritesheets_6
+  - first:
+      213: 8547929191671353484
+    second: Snakehead-spritesheets_7
+  - first:
+      213: 8537211623739399001
+    second: Snakehead-spritesheets_8
+  - first:
+      213: -1719991820350711822
+    second: Snakehead-spritesheets_9
+  - first:
+      213: -4613157918725923017
+    second: Snakehead-spritesheets_10
+  - first:
+      213: -7471435450991208998
+    second: Snakehead-spritesheets_11
+  - first:
+      213: -4898352981436103006
+    second: Snakehead-spritesheets_12
+  - first:
+      213: 8248200174283545430
+    second: Snakehead-spritesheets_13
+  - first:
+      213: 8557054152338031599
+    second: Snakehead-spritesheets_14
+  - first:
+      213: -4719464826462948432
+    second: Snakehead-spritesheets_15
+  - first:
+      213: 2906159281997508835
+    second: Snakehead-spritesheets_16
+  - first:
+      213: 5365803646231189137
+    second: Snakehead-spritesheets_17
+  - first:
+      213: 4954072188452485241
+    second: Snakehead-spritesheets_18
+  - first:
+      213: 2132360677340168682
+    second: Snakehead-spritesheets_19
+  - first:
+      213: -6586565880897628987
+    second: Snakehead-spritesheets_20
+  - first:
+      213: -5398707693923477775
+    second: Snakehead-spritesheets_21
+  - first:
+      213: -5181629338138922033
+    second: Snakehead-spritesheets_22
+  - first:
+      213: -8982480660362847952
+    second: Snakehead-spritesheets_23
+  - first:
+      213: -1654937627605683653
+    second: Snakehead-spritesheets_24
+  - first:
+      213: -3755022147378909169
+    second: Snakehead-spritesheets_25
+  - first:
+      213: 7391752239311959192
+    second: Snakehead-spritesheets_26
+  - first:
+      213: 4017481075593702149
+    second: Snakehead-spritesheets_27
+  - first:
+      213: -4071969319396618477
+    second: Snakehead-spritesheets_28
+  - first:
+      213: 2571759296010401011
+    second: Snakehead-spritesheets_29
+  - first:
+      213: 9046167672904928447
+    second: Snakehead-spritesheets_30
+  - first:
+      213: 4571415708827725278
+    second: Snakehead-spritesheets_31
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +137,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +171,693 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3875
+        width: 574
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f701bb7ca114f8f50800000000000000
+      internalID: 6885793938548658303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_1
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 3875
+        width: 572
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b03ace30eaf35f0800000000000000
+      internalID: -774709279006192877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_2
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 3873
+        width: 572
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1967798708582c350800000000000000
+      internalID: 6035533237455386257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_3
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3513
+        width: 570
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d784ec2c03392f0800000000000000
+      internalID: -967375881711878761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_4
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 3513
+        width: 570
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e405e726abc8c6d50800000000000000
+      internalID: 6731910275156299854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_5
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 3513
+        width: 568
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f840c94fcaa7d3fb0800000000000000
+      internalID: -4666438755629136753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_6
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3153
+        width: 570
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9509111261e46cb0800000000000000
+      internalID: -4871521085598136932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_7
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 3153
+        width: 568
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8053ca9f4850a670800000000000000
+      internalID: 8547929191671353484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_8
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 3153
+        width: 570
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b925d5db44a7670800000000000000
+      internalID: 8537211623739399001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_9
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2793
+        width: 568
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f71b636d8c5128e0800000000000000
+      internalID: -1719991820350711822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_10
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2793
+        width: 568
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f9f818055caffb0800000000000000
+      internalID: -4613157918725923017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_11
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 2793
+        width: 570
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5986dea01205890800000000000000
+      internalID: -7471435450991208998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_12
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2433
+        width: 570
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6860d7aed850cb0800000000000000
+      internalID: -4898352981436103006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_13
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2433
+        width: 572
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b5c709b5e777270800000000000000
+      internalID: 8248200174283545430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_14
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 2433
+        width: 573
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3c3e11a63c0c670800000000000000
+      internalID: 8557054152338031599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_15
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2073
+        width: 574
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3b9b0ceb7118eb0800000000000000
+      internalID: -4719464826462948432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_16
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 2073
+        width: 574
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e07a203870c45820800000000000000
+      internalID: 2906159281997508835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_17
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 2073
+        width: 574
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1961b1cacf9277a40800000000000000
+      internalID: 5365803646231189137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_18
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1715
+        width: 576
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9783a58586660c440800000000000000
+      internalID: 4954072188452485241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_19
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1715
+        width: 576
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae14fd10dbaa79d10800000000000000
+      internalID: 2132360677340168682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_20
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1715
+        width: 578
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4936b7a31d794a0800000000000000
+      internalID: -6586565880897628987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_21
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1355
+        width: 578
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6d589b4ffe315b0800000000000000
+      internalID: -5398707693923477775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_22
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1355
+        width: 578
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3bc7602972718b0800000000000000
+      internalID: -5181629338138922033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_23
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 1355
+        width: 578
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039914d3e61d75380800000000000000
+      internalID: -8982480660362847952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_24
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 995
+        width: 578
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32b225fefa7809e0800000000000000
+      internalID: -1654937627605683653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_25
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 995
+        width: 576
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0071cd704b73ebc0800000000000000
+      internalID: -3755022147378909169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_26
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 995
+        width: 576
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89433eb9f77c49660800000000000000
+      internalID: 7391752239311959192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_27
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 635
+        width: 578
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bed92b0c5f0c730800000000000000
+      internalID: 4017481075593702149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_28
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 635
+        width: 576
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f431d6a757d77c0800000000000000
+      internalID: -4071969319396618477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_29
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 635
+        width: 574
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f432863479b0b320800000000000000
+      internalID: 2571759296010401011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 275
+        width: 576
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcce12e1917a8d70800000000000000
+      internalID: 9046167672904928447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Snakehead-spritesheets_31
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 275
+        width: 574
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd2155ed5ee07f30800000000000000
+      internalID: 4571415708827725278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
