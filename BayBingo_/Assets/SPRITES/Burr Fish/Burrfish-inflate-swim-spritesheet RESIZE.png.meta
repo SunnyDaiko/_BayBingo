@@ -1,0 +1,684 @@
+fileFormatVersion: 2
+guid: 3eec11c6048a19f4f8445541e4b1fa46
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3403927507289148124
+    second: Burrfish-inflate-swim-spritesheet RESIZE_0
+  - first:
+      213: 7696771936332386363
+    second: Burrfish-inflate-swim-spritesheet RESIZE_1
+  - first:
+      213: 5700752167669540879
+    second: Burrfish-inflate-swim-spritesheet RESIZE_2
+  - first:
+      213: 5553066514219299599
+    second: Burrfish-inflate-swim-spritesheet RESIZE_3
+  - first:
+      213: 3008390778333210343
+    second: Burrfish-inflate-swim-spritesheet RESIZE_4
+  - first:
+      213: 2176774818292113209
+    second: Burrfish-inflate-swim-spritesheet RESIZE_5
+  - first:
+      213: 4697916559256266245
+    second: Burrfish-inflate-swim-spritesheet RESIZE_6
+  - first:
+      213: -9117382627027515508
+    second: Burrfish-inflate-swim-spritesheet RESIZE_7
+  - first:
+      213: 6660412876913869768
+    second: Burrfish-inflate-swim-spritesheet RESIZE_8
+  - first:
+      213: -5684238385097299777
+    second: Burrfish-inflate-swim-spritesheet RESIZE_9
+  - first:
+      213: 5066897352968740069
+    second: Burrfish-inflate-swim-spritesheet RESIZE_10
+  - first:
+      213: -8880470656084908758
+    second: Burrfish-inflate-swim-spritesheet RESIZE_11
+  - first:
+      213: 5324484203488665183
+    second: Burrfish-inflate-swim-spritesheet RESIZE_12
+  - first:
+      213: -8705783502328353829
+    second: Burrfish-inflate-swim-spritesheet RESIZE_13
+  - first:
+      213: -6283497763225426964
+    second: Burrfish-inflate-swim-spritesheet RESIZE_14
+  - first:
+      213: 3155022734522158922
+    second: Burrfish-inflate-swim-spritesheet RESIZE_15
+  - first:
+      213: 7324738678815224169
+    second: Burrfish-inflate-swim-spritesheet RESIZE_16
+  - first:
+      213: -1330586178789436694
+    second: Burrfish-inflate-swim-spritesheet RESIZE_17
+  - first:
+      213: -7335980589447984810
+    second: Burrfish-inflate-swim-spritesheet RESIZE_18
+  - first:
+      213: -4942958250545310662
+    second: Burrfish-inflate-swim-spritesheet RESIZE_19
+  - first:
+      213: 1470757134881003794
+    second: Burrfish-inflate-swim-spritesheet RESIZE_20
+  - first:
+      213: -4435368207815886964
+    second: Burrfish-inflate-swim-spritesheet RESIZE_21
+  - first:
+      213: -3683978205103813188
+    second: Burrfish-inflate-swim-spritesheet RESIZE_22
+  - first:
+      213: -4603179700492962347
+    second: Burrfish-inflate-swim-spritesheet RESIZE_23
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2011
+        width: 317
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42579d687f1d2c0d0800000000000000
+      internalID: -3403927507289148124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_1
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2011
+        width: 316
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30994efb4d60da60800000000000000
+      internalID: 7696771936332386363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_2
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 2011
+        width: 316
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f082b7284e32d1f40800000000000000
+      internalID: 5700752167669540879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1734
+        width: 317
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f037822c294701d40800000000000000
+      internalID: 5553066514219299599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_4
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1734
+        width: 316
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e6ac184973ffb920800000000000000
+      internalID: 3008390778333210343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_5
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1734
+        width: 317
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f11580a25753e10800000000000000
+      internalID: 2176774818292113209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_6
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1457
+        width: 316
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50625e2583a523140800000000000000
+      internalID: 4697916559256266245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_7
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1457
+        width: 316
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8705b28ecc887180800000000000000
+      internalID: -9117382627027515508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_8
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1455
+        width: 317
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c383e1293a8e6c50800000000000000
+      internalID: 6660412876913869768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_9
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1178
+        width: 316
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8a2ad1e478d11b0800000000000000
+      internalID: -5684238385097299777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_10
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1178
+        width: 316
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec91150c4c315640800000000000000
+      internalID: 5066897352968740069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_11
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1178
+        width: 316
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2567c13dfa32c480800000000000000
+      internalID: -8880470656084908758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 902
+        width: 317
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ede193c2e54e940800000000000000
+      internalID: 5324484203488665183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 902
+        width: 316
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb2344a708de2780800000000000000
+      internalID: -8705783502328353829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_14
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 902
+        width: 316
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3acf363188cc8a0800000000000000
+      internalID: -6283497763225426964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 625
+        width: 317
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f89750674e8cb20800000000000000
+      internalID: 3155022734522158922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_16
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 623
+        width: 316
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961785f2503b6a560800000000000000
+      internalID: 7324738678815224169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_17
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 624
+        width: 317
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2163e8beec88de0800000000000000
+      internalID: -1330586178789436694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_18
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 347
+        width: 316
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659cac6858c513a90800000000000000
+      internalID: -7335980589447984810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_19
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 347
+        width: 316
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3419a8f8a5176bb0800000000000000
+      internalID: -4942958250545310662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_20
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 347
+        width: 317
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219147f52dd296410800000000000000
+      internalID: 1470757134881003794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_21
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 70
+        width: 316
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87b2155d186272c0800000000000000
+      internalID: -4435368207815886964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_22
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 70
+        width: 316
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd818c4751efdcc0800000000000000
+      internalID: -3683978205103813188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Burrfish-inflate-swim-spritesheet RESIZE_23
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 70
+        width: 316
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5f3da73783e10c0800000000000000
+      internalID: -4603179700492962347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
