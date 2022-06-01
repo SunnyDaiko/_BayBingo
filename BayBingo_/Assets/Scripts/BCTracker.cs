@@ -8,6 +8,7 @@ public class BCTracker : MonoBehaviour
     public Sprite Correct;
     public bool right = true;
     public GameObject Lim;
+    public Image Answer;
 
     /*private void ButtonClicked()
     {
@@ -27,6 +28,8 @@ public class BCTracker : MonoBehaviour
         {
             BGCard.sprite = Correct;
             right = true;
+            Answer.color = Color.yellow;
+
         }
 
         else
