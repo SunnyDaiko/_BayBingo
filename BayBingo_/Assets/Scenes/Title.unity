@@ -1915,9 +1915,48 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 400838795026345875, guid: 314022cf40b15f0449ac9e8d85887135, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 400838796085962819}
+    - target: {fileID: 400838795026345875, guid: 314022cf40b15f0449ac9e8d85887135, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SetResolution
+      objectReference: {fileID: 0}
+    - target: {fileID: 400838795026345875, guid: 314022cf40b15f0449ac9e8d85887135, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: SettingsMenuManager, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 400838796201785012, guid: 314022cf40b15f0449ac9e8d85887135, type: 3}
+      propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 400838796201785012, guid: 314022cf40b15f0449ac9e8d85887135, type: 3}
+      propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 400838796085962819}
+    - target: {fileID: 400838796201785012, guid: 314022cf40b15f0449ac9e8d85887135, type: 3}
+      propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: ScreenSize
+      objectReference: {fileID: 0}
+    - target: {fileID: 400838796201785012, guid: 314022cf40b15f0449ac9e8d85887135, type: 3}
+      propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: SettingsMenuManager, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 400838796458810704, guid: 314022cf40b15f0449ac9e8d85887135, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 641947820}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 314022cf40b15f0449ac9e8d85887135, type: 3}
+--- !u!114 &400838796085962819 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 400838794759396498, guid: 314022cf40b15f0449ac9e8d85887135, type: 3}
+  m_PrefabInstance: {fileID: 400838796085962818}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e75a57b7a085ce4288a6715fbb5b2e5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
