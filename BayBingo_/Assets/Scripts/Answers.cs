@@ -12,7 +12,7 @@ public class Answers : MonoBehaviour
         SceneManager.LoadScene(scene_name);
     }
 
-    public void FieldGuide(string scene_name)
+    /*public void FieldGuide(string scene_name)
     {
         SceneManager.LoadScene(scene_name);
     }
@@ -23,6 +23,11 @@ public class Answers : MonoBehaviour
     }
 
     public void Settings(string scene_name)
+    {
+        SceneManager.LoadScene(scene_name);
+    }*/
+
+    public void BackButton(string scene_name)
     {
         SceneManager.LoadScene(scene_name);
     }

@@ -9,6 +9,10 @@ public class BCTracker : MonoBehaviour
     public bool right = true;
     public GameObject Lim;
     public Image Answer;
+    [SerializeField]
+    private AudioClip wrong;
+    [SerializeField]
+    private AudioClip right_s;
 
     /*private void ButtonClicked()
     {
@@ -29,12 +33,19 @@ public class BCTracker : MonoBehaviour
             BGCard.sprite = Correct;
             right = true;
             Answer.color = Color.yellow;
+            SoundManager.Instance.PlaySound(right_s);
 
         }
 
         else
         {
-            right = false; 
+            right = false;
+            SoundManager.Instance.PlaySound(wrong);
         }
+
+        /*if (PauseMenuMnager.GameIsPause)
+        {
+            GetComponent<Button>().enabled = false;
+        }*/
     }
 }
