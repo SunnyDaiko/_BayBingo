@@ -163,10 +163,10 @@ TextureImporter:
       name: CownoseRayRESIZED_0
       rect:
         serializedVersion: 2
-        x: 50
-        y: 2783
-        width: 887
-        height: 289
+        x: 0
+        y: 2700
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -184,10 +184,10 @@ TextureImporter:
       name: CownoseRayRESIZED_1
       rect:
         serializedVersion: 2
-        x: 1010
-        y: 2787
-        width: 887
-        height: 285
+        x: 960
+        y: 2700
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -205,10 +205,10 @@ TextureImporter:
       name: CownoseRayRESIZED_2
       rect:
         serializedVersion: 2
-        x: 1970
-        y: 2793
-        width: 887
-        height: 279
+        x: 1920
+        y: 2700
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,10 +226,10 @@ TextureImporter:
       name: CownoseRayRESIZED_3
       rect:
         serializedVersion: 2
-        x: 2930
-        y: 2828
-        width: 889
-        height: 244
+        x: 2880
+        y: 2700
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,10 +247,10 @@ TextureImporter:
       name: CownoseRayRESIZED_4
       rect:
         serializedVersion: 2
-        x: 50
-        y: 2288
-        width: 887
-        height: 242
+        x: 0
+        y: 2160
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -268,10 +268,10 @@ TextureImporter:
       name: CownoseRayRESIZED_5
       rect:
         serializedVersion: 2
-        x: 1010
-        y: 2288
-        width: 888
-        height: 242
+        x: 960
+        y: 2160
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -289,10 +289,10 @@ TextureImporter:
       name: CownoseRayRESIZED_6
       rect:
         serializedVersion: 2
-        x: 1970
-        y: 2288
-        width: 888
-        height: 282
+        x: 1920
+        y: 2160
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,10 +310,10 @@ TextureImporter:
       name: CownoseRayRESIZED_7
       rect:
         serializedVersion: 2
-        x: 2930
-        y: 2290
-        width: 888
-        height: 310
+        x: 2880
+        y: 2160
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -331,10 +331,10 @@ TextureImporter:
       name: CownoseRayRESIZED_8
       rect:
         serializedVersion: 2
-        x: 50
-        y: 1750
-        width: 888
-        height: 342
+        x: 0
+        y: 1620
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -352,10 +352,10 @@ TextureImporter:
       name: CownoseRayRESIZED_9
       rect:
         serializedVersion: 2
-        x: 1010
-        y: 1750
-        width: 891
-        height: 347
+        x: 960
+        y: 1620
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -373,10 +373,10 @@ TextureImporter:
       name: CownoseRayRESIZED_10
       rect:
         serializedVersion: 2
-        x: 1970
-        y: 1750
-        width: 892
-        height: 355
+        x: 1920
+        y: 1620
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -394,10 +394,10 @@ TextureImporter:
       name: CownoseRayRESIZED_11
       rect:
         serializedVersion: 2
-        x: 2930
-        y: 1750
-        width: 890
-        height: 347
+        x: 2880
+        y: 1620
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -415,10 +415,10 @@ TextureImporter:
       name: CownoseRayRESIZED_12
       rect:
         serializedVersion: 2
-        x: 50
-        y: 1212
-        width: 890
-        height: 343
+        x: 0
+        y: 1080
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -436,10 +436,10 @@ TextureImporter:
       name: CownoseRayRESIZED_13
       rect:
         serializedVersion: 2
-        x: 1010
-        y: 1214
-        width: 890
-        height: 338
+        x: 960
+        y: 1080
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -457,10 +457,10 @@ TextureImporter:
       name: CownoseRayRESIZED_14
       rect:
         serializedVersion: 2
-        x: 1970
-        y: 1216
-        width: 890
-        height: 332
+        x: 1920
+        y: 1080
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -478,10 +478,10 @@ TextureImporter:
       name: CownoseRayRESIZED_15
       rect:
         serializedVersion: 2
-        x: 2930
-        y: 1218
-        width: 891
-        height: 307
+        x: 2880
+        y: 1080
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -499,10 +499,10 @@ TextureImporter:
       name: CownoseRayRESIZED_16
       rect:
         serializedVersion: 2
-        x: 50
-        y: 680
-        width: 890
-        height: 283
+        x: 0
+        y: 540
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -520,10 +520,10 @@ TextureImporter:
       name: CownoseRayRESIZED_17
       rect:
         serializedVersion: 2
-        x: 1010
-        y: 682
-        width: 889
-        height: 223
+        x: 960
+        y: 540
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -541,10 +541,10 @@ TextureImporter:
       name: CownoseRayRESIZED_18
       rect:
         serializedVersion: 2
-        x: 1970
-        y: 683
-        width: 888
-        height: 226
+        x: 1920
+        y: 540
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -562,10 +562,10 @@ TextureImporter:
       name: CownoseRayRESIZED_19
       rect:
         serializedVersion: 2
-        x: 2930
-        y: 683
-        width: 888
-        height: 227
+        x: 2880
+        y: 540
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -583,10 +583,10 @@ TextureImporter:
       name: CownoseRayRESIZED_20
       rect:
         serializedVersion: 2
-        x: 50
-        y: 123
-        width: 887
-        height: 247
+        x: 0
+        y: 0
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -604,10 +604,10 @@ TextureImporter:
       name: CownoseRayRESIZED_21
       rect:
         serializedVersion: 2
-        x: 1010
-        y: 102
-        width: 887
-        height: 270
+        x: 960
+        y: 0
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -625,10 +625,10 @@ TextureImporter:
       name: CownoseRayRESIZED_22
       rect:
         serializedVersion: 2
-        x: 1970
-        y: 83
-        width: 887
-        height: 289
+        x: 1920
+        y: 0
+        width: 960
+        height: 540
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
