@@ -1915,6 +1915,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 400838795026345874, guid: 314022cf40b15f0449ac9e8d85887135, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 400838795026345875, guid: 314022cf40b15f0449ac9e8d85887135, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -1926,6 +1930,14 @@ PrefabInstance:
     - target: {fileID: 400838795026345875, guid: 314022cf40b15f0449ac9e8d85887135, type: 3}
       propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
       value: SettingsMenuManager, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 400838796001889646, guid: 314022cf40b15f0449ac9e8d85887135, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400838796042977047, guid: 314022cf40b15f0449ac9e8d85887135, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 400838796201785012, guid: 314022cf40b15f0449ac9e8d85887135, type: 3}
       propertyPath: onValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Mode

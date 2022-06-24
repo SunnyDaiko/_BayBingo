@@ -9,6 +9,7 @@ public class BCTracker : MonoBehaviour
     public bool right = true;
     public GameObject Lim;
     public Image Answer;
+    public Sprite CrossedOut;
     [SerializeField]
     private AudioClip wrong;
     [SerializeField]
@@ -32,7 +33,7 @@ public class BCTracker : MonoBehaviour
         {
             BGCard.sprite = Correct;
             right = true;
-            Answer.color = Color.yellow;
+            KeepYellow();
             SoundManager.Instance.PlaySound(right_s);
 
         }
@@ -47,5 +48,10 @@ public class BCTracker : MonoBehaviour
         {
             GetComponent<Button>().enabled = false;
         }*/
+    }
+
+    public void KeepYellow()
+    {
+        Answer.sprite = CrossedOut;
     }
 }
