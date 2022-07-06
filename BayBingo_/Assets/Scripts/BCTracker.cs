@@ -42,6 +42,8 @@ public class BCTracker : MonoBehaviour
         {
             right = false;
             SoundManager.Instance.PlaySound(wrong);
+            Limmericks.instance.Bye();
+            //Lim.gameObject.activeInHierarchy ;
         }
 
         /*if (PauseMenuMnager.GameIsPause)
@@ -53,5 +55,6 @@ public class BCTracker : MonoBehaviour
     public void KeepYellow()
     {
         Answer.sprite = CrossedOut;
+
     }
 }

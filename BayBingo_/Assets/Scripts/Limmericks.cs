@@ -8,9 +8,10 @@ public class Limmericks : MonoBehaviour
     public GameObject card;
     [SerializeField]
     public GameObject Lim;
+    public static Limmericks instance;
     void Start()
     {
-        
+        instance = this;
     }
 
     // Update is called once per frame
