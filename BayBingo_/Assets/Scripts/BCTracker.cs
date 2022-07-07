@@ -14,6 +14,7 @@ public class BCTracker : MonoBehaviour
     private AudioClip wrong;
     [SerializeField]
     private AudioClip right_s;
+    //public ArrayList arrayList;
 
     /*private void ButtonClicked()
     {
@@ -35,6 +36,7 @@ public class BCTracker : MonoBehaviour
             right = true;
             KeepYellow();
             SoundManager.Instance.PlaySound(right_s);
+            transform.gameObject.tag = "Correct";
 
         }
 
@@ -54,7 +56,16 @@ public class BCTracker : MonoBehaviour
 
     public void KeepYellow()
     {
-        Answer.sprite = CrossedOut;
+        Answer.color = Color.yellow;
 
     }
+
+    public void Update()
+    {
+        if (gameObject.tag == "Correct" )
+        {
+            Debug.Log("gameover");
+        }
+    }
+
 }
