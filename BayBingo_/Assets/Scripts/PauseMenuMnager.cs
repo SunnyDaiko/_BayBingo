@@ -8,6 +8,8 @@ public class PauseMenuMnager : MonoBehaviour
     public static bool GameIsPause = false;
 
     public GameObject PauseMenu;
+
+    public static PauseMenuMnager Instance { get; private set; }
     //Resolution[] resolutions;
     //public Dropdown resolutionDropdown;
 
