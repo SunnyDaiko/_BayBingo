@@ -9,6 +9,7 @@ public class Limmericks : MonoBehaviour
     [SerializeField]
     public GameObject Lim;
     public static Limmericks instance;
+    //public string newTag;
     void Start()
     {
         instance = this;
@@ -18,10 +19,12 @@ public class Limmericks : MonoBehaviour
     public void Switch()
     {
         Lim.gameObject.SetActive(true);
+        //gameObject.tag = newTag;
     }
 
     public void Bye()
     {
         Lim.gameObject.SetActive(false);
+        
     }
 }

@@ -14,7 +14,17 @@ public class BCTracker : MonoBehaviour
     private AudioClip wrong;
     [SerializeField]
     private AudioClip right_s;
+    //[SerializeField]
+    public string newTag;
+    public GameObject[] Alternates;
+    public static BCTracker Instance { get; private set; }
+    //public Text newText;
     //public ArrayList arrayList;
+
+    public void Start()
+    {
+        Instance = this;
+    }
 
     /*private void ButtonClicked()
     {
@@ -36,7 +46,14 @@ public class BCTracker : MonoBehaviour
             right = true;
             KeepYellow();
             SoundManager.Instance.PlaySound(right_s);
-            transform.gameObject.tag = "Correct";
+            //transform.gameObject.tag = "Correct";
+            gameObject.tag = newTag;
+            //newText.text = newTag;
+            //a way to cheat unity for not adding multiple tags to a gameobject???
+            foreach (GameObject gameobject in Alternates)
+            {
+                gameobject.SetActive(true);
+            }
 
         }
 
@@ -44,7 +61,7 @@ public class BCTracker : MonoBehaviour
         {
             right = false;
             SoundManager.Instance.PlaySound(wrong);
-            Limmericks.instance.Bye();
+            //Limmericks.instance.Bye();
             //Lim.gameObject.activeInHierarchy ;
         }
 
